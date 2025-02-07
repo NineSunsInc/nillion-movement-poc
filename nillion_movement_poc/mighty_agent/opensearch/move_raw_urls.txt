@@ -1,0 +1,16 @@
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/faq.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/firstmove.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/followerNode.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/getstarted.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/indexing.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/networkEndpoints.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/devs/oracles.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/Introduction/interop_security.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/Introduction/introductionToMove.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/Introduction/move_components.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/Introduction/technical_details.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/Mainnet/high_level_architecture.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/Mainnet/node_level_architecture.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/UsingMovement/connect_to_movement.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/UsingMovement/explorers.md
+https://raw.githubusercontent.com/movementlabsxyz/movement-docs/main/docs/general/UsingMovement/faucet.md

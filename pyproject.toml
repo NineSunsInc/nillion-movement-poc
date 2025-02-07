@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nillion-movement-poc"
+version = "0.1.0"
+description = ""
+authors = ["spartan-nguyentruong <nguyen.truong@c0x12c.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12.7 <3.13"
+mighty-crypto-sdk = {path = "nillion_movement_poc/mighty_crypto_sdk", develop = true}
+agent-modules = {path = "nillion_movement_poc/agent_modules", develop = true}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

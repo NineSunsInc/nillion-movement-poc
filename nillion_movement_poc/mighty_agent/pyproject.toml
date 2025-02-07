@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "mighty-agent"
+version = "0.1.0"
+description = ""
+authors = ["spartan-nguyentruong <nguyen.truong@c0x12c.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+dishka = "^1.4.2"
+agent-modules = "*"
+mighty-crypto-sdk = "*"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+agent-modules = { path = "../agent_modules", develop = true }
+mighty-crypto-sdk = { path = "../mighty_crypto_sdk", develop = true }

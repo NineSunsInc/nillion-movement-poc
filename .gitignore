@@ -1,0 +1,14 @@
+__pycache__/
+.env
+.DS_Store
+
+# Chainlit generated files
+.chainlit/
+chainlit.md
+
+# Poetry lock
+poetry.lock
+
+# Finetuned model folders
+fine_tuned_blockchain_action
+fine_tuned_domain_distilbert

@@ -1,0 +1,1619 @@
+{"prompt": "Swap 10 ETH for 20000 USDC.", "category": "blockchain_action"}
+{"prompt": "Send 0.5 BTC to 0xabc1234def5678...", "category": "blockchain_action"}
+{"prompt": "Stake 20 SOL in the Solana staking pool.", "category": "blockchain_action"}
+{"prompt": "Convert 50 DAI into 0.03 WBTC.", "category": "blockchain_action"}
+{"prompt": "Lend 1000 USDC on Aave for interest.", "category": "blockchain_action"}
+{"prompt": "Borrow 500 DAI against my 2 ETH collateral on MakerDAO.", "category": "blockchain_action"}
+{"prompt": "Unstake 10 ETH from Lido.", "category": "blockchain_action"}
+{"prompt": "Provide 1 ETH and 1000 USDC to Uniswap V3 liquidity pool.", "category": "blockchain_action"}
+{"prompt": "Yield farm with 500 USDT on Curve.", "category": "blockchain_action"}
+{"prompt": "Redeem 10 cDAI for underlying DAI.", "category": "blockchain_action"}
+{"prompt": "Transfer 1000 MOVE to 0x0sd991239594123jasd", "category": "blockchain_action"}
+{"prompt": "Withdraw 0.1 BTC from Compound to my personal wallet.", "category": "blockchain_action"}
+{"prompt": "Trade 100 USDC for 50 MOVE tokens on Movement Labs.", "category": "blockchain_action"}
+{"prompt": "Stake 500 MOVE in Movement Labs staking contract.", "category": "blockchain_action"}
+{"prompt": "Transfer 20 AVAX to 0xdef5678abc...", "category": "blockchain_action"}
+{"prompt": "Swap 1 ETH for 1.2 stETH.", "category": "blockchain_action"}
+{"prompt": "Repay my 30 DAI loan on Aave.", "category": "blockchain_action"}
+{"prompt": "Claim SushiSwap LP farming rewards.", "category": "blockchain_action"}
+{"prompt": "Buy 0.5 ETH using 500 USDC now.", "category": "blockchain_action"}
+{"prompt": "Convert 10 USDT to USDC on Curve.", "category": "blockchain_action"}
+{"prompt": "Add 0.3 WBTC and 10 ETH to Balancer pool.", "category": "blockchain_action"}
+{"prompt": "What is my balance of MOVE?", "category": "blockchain_action"}
+{"prompt": "What is my crypto wallet?", "category": "blockchain_action"}
+{"prompt": "Pay 20 USDC to 0xabc and send 1000 USDT to 0xdef and transfer 10000 USDT to 0xghi", "category": "blockchain_action"}
+
+{"prompt": "Deposit 1000 USDC into a Yearn vault.", "category": "blockchain_action"}
+{"prompt": "Harvest rewards from my Curve liquidity position.", "category": "blockchain_action"}
+{"prompt": "Transfer 50 MATIC to my friend’s address.", "category": "blockchain_action"}
+{"prompt": "Convert 2 BNB to 1.5 BUSD.", "category": "blockchain_action"}
+{"prompt": "Collateralize 1 WBTC and borrow 1000 DAI on MakerDAO.", "category": "blockchain_action"}
+{"prompt": "Migrate liquidity from Uniswap V2 to V3 (1 ETH, 1000 USDC).", "category": "blockchain_action"}
+{"prompt": "Lock 200 CRV tokens for voting power.", "category": "blockchain_action"}
+{"prompt": "Stake 100 POL for governance rewards.", "category": "blockchain_action"}
+{"prompt": "Bridge 1 ETH from Ethereum to Polygon.", "category": "blockchain_action"}
+{"prompt": "Pay 20 USDC to 0xabc for a consulting service.", "category": "blockchain_action"}
+{"prompt": "transfer 10000 USDC to Polygon's wallet please.", "category": "blockchain_action"}
+{"prompt": "I like to know what is the price of transferring 1000 ETH to Polygon..", "category": "blockchain_action"}
+{"prompt": "I would like to exchange 100 USDC to MOVE please", "category": "blockchain_action"}
+{"prompt": "I need to pay 100 USDC to 0x552a4853d25348c8911cca4dd59f9f5bab16756b45afdbf79472fccfc38a58d8", "category": "blockchain_action"}
+{"prompt": "What tokens do I hold?", "category": "blockchain_action"}
+{"prompt": "Transfer 7.12341 SepoliaETH to 0x552a4853d25348c8911cca4dd59f9f5bab16756b45afdbf79472fccfc38a58d8", "category": "blockchain_action"}
+
+
+{"prompt": "What networks can I interact with?", "category": "web3_information"}
+{"prompt": "Tell me some onramp services I can use in Vietnam?", "category": "web3_information"}
+{"prompt": "What is the current price of ETH?", "category": "web3_information"}
+{"prompt": "Who created Ethereum?", "category": "web3_information"}
+{"prompt": "What networks do you support?", "category": "web3_information"}
+{"prompt": "How much APY for staking DAI on Aave?", "category": "web3_information"}
+{"prompt": "What are the current gas fees on Ethereum?", "category": "web3_information"}
+{"prompt": "When did WBTC last drop below 30000 USD?", "category": "web3_information"}
+{"prompt": "what are the dexes on movement labs?", "category": "web3_information"}
+{"prompt": "what is the native symbol token for movement labs and polygon?", "category": "web3_information"}
+{"prompt": "how does Mighty Network work?", "category": "web3_information"}
+{"prompt": "Which Uniswap pool has the highest APY right now?", "category": "web3_information"}
+{"prompt": "What's the interest rate for USDC lending on Compound?", "category": "web3_information"}
+{"prompt": "How many confirmations does ETH need?", "category": "web3_information"}
+{"prompt": "What's MakerDAO's current TVL?", "category": "web3_information"}
+{"prompt": "What is the market cap of MOVE tokens?", "category": "web3_information"}
+{"prompt": "Is Polygon gas cheaper than Ethereum today?", "category": "web3_information"}
+{"prompt": "How do stablecoins maintain peg?", "category": "web3_information"}
+{"prompt": "How to verify smart contracts?", "category": "web3_information"}
+
+
+{"prompt": "What is the circulating supply of USDT?", "category": "web3_information"}
+{"prompt": "Top 5 liquidity pools by volume on Curve?", "category": "web3_information"}
+{"prompt": "Historical APY for ETH staking on Lido?", "category": "web3_information"}
+{"prompt": "How often does Chainlink update ETH price feeds?", "category": "web3_information"}
+{"prompt": "What's the slippage for swapping ETH to USDC?", "category": "web3_information"}
+{"prompt": "Which DEX aggregator gives best ETH-USDC rate?", "category": "web3_information"}
+{"prompt": "How long to confirm a BTC transaction?", "category": "web3_information"}
+{"prompt": "Highest-yielding stablecoin farm on Polygon?", "category": "web3_information"}
+{"prompt": "what is movement labs gas cost in dollars?", "category": "web3_information"}
+{"prompt": "24h volume on Movement Labs DEX?", "category": "web3_information"}
+{"prompt": "What is 0G Labs?", "category": "web3_information"}
+{"prompt": "What is Movement Labs?", "category": "web3_information"}
+{"prompt": "Tell me more about Mighty Network?", "category": "web3_information"}
+{"prompt": "Who are the ecosystem partners of Mighty Network?", "category": "web3_information"}
+{"prompt": "Who are the ecosystem partners of Mighty?", "category": "web3_information"}
+{"prompt": "What is the pricing model of Mighty?", "category": "web3_information"}
+{"prompt": "Is Mighty SDK audited?", "category": "web3_information"}
+{"prompt": "What chains are supported by Mighty?", "category": "web3_information"}
+{"prompt": "Who are top liquidity providers on Uniswap?", "category": "web3_information"}
+{"prompt": "Who is the head of ecosystem at Movement Labs?", "category": "web3_information"}
+{"prompt": "How do I get get grants from Polygon Labs?", "category": "web3_information"}
+{"prompt": "Add faucet tokens to my Polygon Testnet wallet", "category": "blockchain_action"}
+{"prompt": "Add faucet tokens to my Ethereum Testnet wallet", "category": "blockchain_action"}
+{"prompt": "Add faucet tokens to my Mighty Testnet wallet", "category": "blockchain_action"}
+{"prompt": "Add faucet tokens to my 0G Testnet wallet", "category": "blockchain_action"}
+{"prompt": "Add faucet tokens to my Movement Labs Testnet wallet", "category": "blockchain_action"}
+{"prompt": "what is the official documentation site for Ethereum?", "category": "web3_information"}
+{"prompt": "Who are the founders of 0G Labs?", "category": "web3_information"}
+{"prompt": "ETH staking ratio on Beacon Chain?", "category": "web3_information"}
+{"prompt": "How many validators does Ethereum have?", "category": "web3_information"}
+{"prompt": "Current block time on Polygon?", "category": "web3_information"}
+{"prompt": "Which pairs offer best yield farming incentives?", "category": "web3_information"}
+{"prompt": "Average BTC transaction fee today?", "category": "web3_information"}
+{"prompt": "Annualized yield for lending USDC on Compound?", "category": "web3_information"}
+{"prompt": "Did ETH surpass its previous ATH?", "category": "web3_information"}
+{"prompt": "Largest DeFi protocol by TVL?", "category": "web3_information"}
+{"prompt": "How can i onramp to movement labs?", "category": "web3_information"}
+{"prompt": "what is the best place to get testnet faucet tokens?", "category": "web3_information"}
+{"prompt": "what are the prices of USDC/ETH on Uniswap?", "category": "web3_information"}
+{"prompt": "Current price of ETH?", "category": "web3_information"}
+{"prompt": "Current price of BTC?", "category": "web3_information"}
+{"prompt": "Current price of MOVE?", "category": "web3_information"}
+{"prompt": "Current price of POL?", "category": "web3_information"}
+{"prompt": "Current price of XLM?", "category": "web3_information"}
+{"prompt": "tell me the native token for stellar?", "category": "web3_information"}
+{"prompt": "what are onramp options on ethereum?", "category": "web3_information"}
+{"prompt": "what are the risks factors of investing in crypto?", "category": "web3_information"}
+{"prompt": "What's the safest way to trade?", "category": "web3_information"}
+{"prompt": "my public wallet address?", "category": "web3_information"}
+{"prompt": "What airdrops have I received?", "category": "web3_information"}
+{"prompt": "Where can I find the list of the latest airdrops?", "category": "web3_information"}
+{"prompt": "How can I connect my social data to Mighty Network", "category": "web3_information"}
+{"prompt": "What is Mighty's Discord link?", "category": "web3_information"}
+{"prompt": "What is Mighty's Twitter link?", "category": "web3_information"}
+{"prompt": "What is Mighty's Lite paper link?", "category": "web3_information"}
+{"prompt": "What is Mighty's Github link?", "category": "web3_information"}
+
+{"prompt": "What is my date of birth?", "category": "private_data"}
+{"prompt": "Based on this year's trading activity, how much do I owe in taxes?", "category": "private_data"}
+{"prompt": "Can you tell me what my taxes for coinbase", "category": "private_data"}
+{"prompt": "Show me my place of work.", "category": "private_data"}
+{"prompt": "Which bank name do I use?", "category": "private_data"}
+{"prompt": "What is my first name?", "category": "private_data"}
+{"prompt": "how many crypto wallets do I have?", "category": "private_data"}
+{"prompt": "what is my recovery phrase?", "category": "private_data"}
+{"prompt": "what is my routing number?", "category": "private_data"}
+{"prompt": "what is my social security number?", "category": "private_data"}
+{"prompt": "show me my national id number?", "category": "private_data"}
+{"prompt": "show me my national id information?", "category": "private_data"}
+{"prompt": "what is my mnemonic seed phrase?", "category": "private_data"}
+{"prompt": "What is my first name?", "category": "private_data"}
+{"prompt": "What is my first name?", "category": "private_data"}
+{"prompt": "my metric or imperial preference?", "category": "private_data"}
+{"prompt": "What is the my citizenship country?", "category": "private_data"}
+{"prompt": "my rental income?", "category": "private_data"}
+{"prompt": "Give me the my private key.", "category": "private_data"} 
+{"prompt": "Show me the my seed phrase.", "category": "private_data"}
+{"prompt": "How many addresses do I have saved to my vault?", "category": "private_data"}
+
+{"prompt": "what is my driver license number?", "category": "private_data"}
+{"prompt": "what are my google service credentials?", "category": "private_data"}
+{"prompt": "do i have any checking account?", "category": "private_data"}
+{"prompt": "what is my income?", "category": "private_data"}
+{"prompt": "tell my nationality?", "category": "private_data"}
+{"prompt": "what is my spouse’s first name?", "category": "private_data"}
+{"prompt": "what are my two vacation addresses?", "category": "private_data"}
+{"prompt": "what is my Telegram handle?", "category": "private_data"}
+{"prompt": "what is my light/dark mode preference?", "category": "private_data"}
+{"prompt": "what is my primary country of residence?", "category": "private_data"}
+{"prompt": "What is the my public ENS name?", "category": "private_data"}
+{"prompt": "what are my two bank names?", "category": "private_data"}
+{"prompt": "what is my company name?", "category": "private_data"}
+{"prompt": "what is my passport number?", "category": "private_data"}
+
+{"prompt": "what is my driver license state?", "category": "private_data"}
+{"prompt": "i like to change my primary email address?", "category": "private_data"}
+{"prompt": "i like to update my work address?", "category": "private_data"}
+{"prompt": "My work has changed, please update the company to Tide and its address to 123 Main St, Anytown, State, USA", "category": "private_data"}
+{"prompt": "What is my income?", "category": "private_data"}
+{"prompt": "I like to update my income to $500,000 USD per year", "category": "private_data"}
+{"prompt": "Is my primary email address verified?", "category": "private_data"}
+{"prompt": "how many cell phone numbers do I have stored?", "category": "private_data"}
+{"prompt": "Where can i enter a new second address?", "category": "private_data"}
+{"prompt": "please update my primary address to 123 Main St, Anytown, State, USA", "category": "private_data"}
+{"prompt": "what is my verified phone number?", "category": "private_data"}
+{"prompt": "is the user American?", "category": "private_data"}
+{"prompt": "what is my public crypto wallet address on movement labs and polygon?", "category": "private_data"}
+{"prompt": "what is my rental address?", "category": "private_data"}
+{"prompt": "what is my bank name?", "category": "private_data"}
+{"prompt": "what is my GitHub username?", "category": "private_data"}
+{"prompt": "how many email addresses do I have?", "category": "private_data"}
+{"prompt": "tell me the main email on my account?", "category": "private_data"}
+{"prompt": "are there any media files in my vault?", "category": "private_data"}
+{"prompt": "my driver license state only?", "category": "private_data"}
+{"prompt": "my phone ending with 1234?", "category": "private_data"}
+{"prompt": "my verification service name?", "category": "private_data"}
+
+{"prompt": "What is Mighty Network?", "category": "web3_information"}
+{"prompt": "How does Mighty Network security model work?", "category": "web3_information"}
+{"prompt": "What blockchain networks do you support?", "category": "web3_information"}
+{"prompt": "How to use Mighty SDK in my DApp?", "category": "web3_information"}
+{"prompt": "Where is Mighty’s developer documentation?", "category": "web3_information"}
+{"prompt": "Mighty Network APIs for mobile devs?", "category": "web3_information"}
+{"prompt": "Does Mighty support agentic flows on iOS?", "category": "web3_information"}
+{"prompt": "Which languages does Mighty SDK support?", "category": "web3_information"}
+{"prompt": "Is there a sandbox for Mighty API testing?", "category": "web3_information"}
+{"prompt": "Rate limits on Mighty endpoints?", "category": "web3_information"}
+{"prompt": "Can I integrate Mighty SDK with React Native?", "category": "web3_information"}
+{"prompt": "How to authenticate requests to Mighty’s API?", "category": "web3_information"}
+
+{"prompt": "Does Mighty provide webhooks?", "category": "web3_information"}
+{"prompt": "Best practices for handling errors from Mighty?", "category": "web3_information"}
+{"prompt": "Can I manage user accounts via Mighty’s API?", "category": "web3_information"}
+{"prompt": "How to set up Mighty SDK dev environment?", "category": "web3_information"}
+{"prompt": "Where to find sample code for Mighty integration?", "category": "web3_information"}
+{"prompt": "Does Mighty offer GraphQL endpoints?", "category": "web3_information"}
+{"prompt": "Mighty’s API versioning policy?", "category": "web3_information"}
+{"prompt": "Can I retrieve usage metrics from Mighty?", "category": "web3_information"}
+{"prompt": "How to handle pagination in Mighty’s API?", "category": "web3_information"}
+{"prompt": "Does Mighty provide API call analytics?", "category": "web3_information"}
+{"prompt": "Who are founders of Mighty Network?", "category": "web3_information"}
+{"prompt": "Where can I find the developer documentations for Mighty Network?", "category": "web3_information"}
+{"prompt": "What is the block explorer for Polygon?", "category": "web3_information"}
+{"prompt": "Are there any airdrops for Polygon?", "category": "web3_information"}
+{"prompt": "What is the official Twitter link for 0G Labs?", "category": "web3_information"}
+{"prompt": "Where can I get the latest information on Movement Labs' events?", "category": "web3_information"}
+{"prompt": "Who invested in Movement Labs?", "category": "web3_information"}
+{"prompt": "what are the hottest projects on Ethereum in the last three months?", "category": "web3_information"}
+{"prompt": "What is next on Movement's roadmap?", "category": "web3_information"}
+{"prompt": "What is next on Mighty Network's roadmap?", "category": "web3_information"}
+{"prompt": "What is next on 0G Labs' roadmap?", "category": "web3_information"}
+{"prompt": "How do I get a grant from 0G Labs?", "category": "web3_information"}
+{"prompt": "What are some reliable sources for crypto news?", "category": "web3_information"}
+{"prompt": "Show me best yield farming opportunities for EVM?", "category": "web3_information"}
+
+{"prompt": "What's the current APY for staking MOVE tokens?", "category": "web3_information"}
+{"prompt": "Show me the liquidity pools on Movement Labs", "category": "web3_information"}
+{"prompt": "Compare gas fees between Ethereum and Movement", "category": "web3_information"}
+{"prompt": "What's the total value locked in Movement Labs?", "category": "web3_information"}
+{"prompt": "Historical price chart for MOVE/USDC pair", "category": "web3_information"}
+{"prompt": "List all supported tokens on Movement DEX", "category": "web3_information"}
+{"prompt": "What's the trading volume in the last 24h?", "category": "web3_information"}
+{"prompt": "Show me the validator requirements for Movement", "category": "web3_information"}
+{"prompt": "What's the minimum stake amount?", "category": "web3_information"}
+{"prompt": "Explain Movement Labs tokenomics", "category": "web3_information"}
+{"prompt": "How do smart contracts work?", "category": "web3_information"}
+{"prompt": "What can you do?", "category": "blockchain_action"}
+{"prompt": "Give me some examples of what you can do?", "category": "blockchain_action"}
+
+{"prompt": "Convert 500 MOVE to USDT and stake half", "category": "blockchain_action"}
+{"prompt": "Unstake 100 MOVE from the validator pool", "category": "blockchain_action"}
+{"prompt": "Bridge 1000 USDC from Ethereum to Movement", "category": "blockchain_action"}
+{"prompt": "Add liquidity to MOVE/USDC pool", "category": "blockchain_action"}
+{"prompt": "Claim staking rewards and reinvest", "category": "blockchain_action"}
+{"prompt": "Send 50 MOVE to 0x742d35Cc6634C0532925a3b844Bc454e4438f44e", "category": "blockchain_action"}
+{"prompt": "Swap exact 1.5 ETH for MOVE tokens", "category": "blockchain_action"}
+{"prompt": "Remove liquidity from farming position", "category": "blockchain_action"}
+{"prompt": "Delegate 200 MOVE to validator", "category": "blockchain_action"}
+{"prompt": "Transfer all my MOVE to hardware wallet", "category": "blockchain_action"}
+{"prompt": "What are my last ten transactions on movement labs?", "category": "blockchain_action"}
+{"prompt": "What are my last five transactions on polygon labs?", "category": "blockchain_action"}
+{"prompt": "Can you help me transfer 100 USDC to 0x12399sada0d9ad?", "category": "blockchain_action"}
+
+{"prompt": "What's my validator earnings history?", "category": "private_data"}
+{"prompt": "Show me my liquidity positions", "category": "private_data"}
+{"prompt": "List all my wallet transactions", "category": "private_data"}
+{"prompt": "What's my current voting power?", "category": "private_data"}
+{"prompt": "Display my rewards in USD for the last two weeks on this wallet", "category": "private_data"}
+{"prompt": "Show my delegated tokens", "category": "private_data"}
+{"prompt": "What's my average entry price?", "category": "private_data"}
+{"prompt": "List my active limit orders", "category": "private_data"}
+{"prompt": "Show my governance voting history", "category": "private_data"}
+{"prompt": "What's my total portfolio value in USD?", "category": "private_data"}
+{"prompt": "what is my last ten audit logs?", "category": "private_data"}
+{"prompt": "show me my credit card expiration dates?", "category": "private_data"}
+{"prompt": "what are the banks for all my checking accounts?", "category": "private_data"}
+{"prompt": "When does my United States passport expire?", "category": "private_data"}
+{"prompt": "When was my US passport issued?", "category": "private_data"}
+{"prompt": "When will my driver license expire?", "category": "private_data"}
+
+
+{"prompt": "How to integrate Mighty Network to my mobile application?", "category": "web3_information"}
+{"prompt": "Explain Mighty's transaction monitoring", "category": "web3_information"}
+{"prompt": "How to handle Mighty Network errors?", "category": "web3_information"}
+{"prompt": "What's the Mighty SDK request timeout?", "category": "web3_information"}
+{"prompt": "Mighty Network supported chains?", "category": "web3_information"}
+{"prompt": "How to implement Mighty notifications?", "category": "web3_information"}
+{"prompt": "Mighty Network security features?", "category": "web3_information"}
+{"prompt": "How to test Mighty integrations?", "category": "web3_information"}
+{"prompt": "what is the Mighty Network official twitter handle?", "category": "web3_information"}
+{"prompt": "Explain Mighty's caching system", "category": "web3_information"}
+{"prompt": "How does League work on Mighty Network?", "category": "web3_information"}
+{"prompt": "How does Sidekick work on Mighty Network?", "category": "web3_information"}
+{"prompt": "How does Headquarters work on Mighty Network?", "category": "web3_information"}
+{"prompt": "How does Mighty's secure storage work?", "category": "web3_information"}
+{"prompt": "How does Mighty's agentic flows work?", "category": "web3_information"}
+{"prompt": "what is the social links for Mighty Network?", "category": "web3_information"}
+
+{"prompt": "Tell me the best cookie recipe?", "category": "out_of_domain"}
+{"prompt": "What is the best way to learn Python?", "category": "out_of_domain"}
+{"prompt": "What is the best way to learn JavaScript?", "category": "out_of_domain"}
+{"prompt": "What time is it in New York?", "category": "out_of_domain"}
+{"prompt": "What is the weather in Tokyo?", "category": "out_of_domain"}
+{"prompt": "What is the weather in San Francisco?", "category": "out_of_domain"}
+{"prompt": "Tell me a joke", "category": "out_of_domain"}
+{"prompt": "What is the capital of France?", "category": "out_of_domain"}
+{"prompt": "How far is the moon from Earth?", "category": "out_of_domain"}
+{"prompt": "What is the best ETF to invest in?", "category": "out_of_domain"}
+{"prompt": "Tell me more about the history of the internet", "category": "out_of_domain"}
+{"prompt": "What is the difference between a database and excel sheet?", "category": "out_of_domain"}
+{"prompt": "Which is faster, Rust or Python?", "category": "out_of_domain"}
+{"prompt": "How much do I make as a software engineer?", "category": "out_of_domain"}
+{"prompt": "Can you show me the best way to open a bank account?", "category": "out_of_domain"}
+{"prompt": "How can I get a new passport?", "category": "out_of_domain"}
+{"prompt": "What is the immigration policy for the USA?", "category": "out_of_domain"}
+{"prompt": "commodity futures", "category": "out_of_domain"}
+{"prompt": "credit score improvement", "category": "out_of_domain"}
+{"prompt": "stock market advise", "category": "out_of_domain"}
+{"prompt": "real estate investment", "category": "out_of_domain"}
+{"prompt": "insurance policies", "category": "out_of_domain"}
+{"prompt": "bond investment", "category": "out_of_domain"}
+{"prompt": "best 15 bars in the USA", "category": "out_of_domain"}
+{"prompt": "movie reviews", "category": "out_of_domain"}
+{"prompt": "travel destinations of 2023", "category": "out_of_domain"}
+{"prompt": "pet care tips for dogs and cats", "category": "out_of_domain"}
+{"prompt": "pet care tips for fishes", "category": "out_of_domain"}
+{"prompt": "pet care tips", "category": "out_of_domain"}
+{"prompt": "job search advise", "category": "out_of_domain"}
+{"prompt": "interview best practices", "category": "out_of_domain"}
+{"prompt": "gaming advice for playstation 5 and xbox series x", "category": "out_of_domain"}
+{"prompt": "singing lessons ", "category": "out_of_domain"}
+{"prompt": "book recommendations ", "category": "out_of_domain"}
+{"prompt": "gaming tips ", "category": "out_of_domain"}
+{"prompt": "music playlists ", "category": "out_of_domain"}
+{"prompt": "Tell me the best cookie recipe?", "category": "out_of_domain"}
+{"prompt": "What is the best way to learn Python?", "category": "out_of_domain"}
+{"prompt": "What is the best way to learn JavaScript?", "category": "out_of_domain"}
+{"prompt": "What time is it in New York?", "category": "out_of_domain"}
+{"prompt": "What is the weather in Tokyo?", "category": "out_of_domain"}
+{"prompt": "What is the weather in San Francisco?", "category": "out_of_domain"}
+{"prompt": "Tell me a joke", "category": "out_of_domain"}
+{"prompt": "What is the capital of France?", "category": "out_of_domain"}
+{"prompt": "How far is the moon from Earth?", "category": "out_of_domain"}
+{"prompt": "What is the best ETF to invest in?", "category": "out_of_domain"}
+{"prompt": "Tell me more about the history of the internet", "category": "out_of_domain"}
+{"prompt": "What is the difference between a database and excel sheet?", "category": "out_of_domain"}
+{"prompt": "Which is faster, Rust or Python?", "category": "out_of_domain"}
+{"prompt": "How much do I make as a software engineer?", "category": "out_of_domain"}
+{"prompt": "Can you show me the best way to open a bank account?", "category": "out_of_domain"}
+{"prompt": "How can I get a new passport?", "category": "out_of_domain"}
+{"prompt": "What is the immigration policy for the USA?", "category": "out_of_domain"}
+{"prompt": "commodity futures", "category": "out_of_domain"}
+{"prompt": "credit score improvement", "category": "out_of_domain"}
+{"prompt": "stock market advise", "category": "out_of_domain"}
+{"prompt": "real estate investment", "category": "out_of_domain"}
+{"prompt": "insurance policies", "category": "out_of_domain"}
+{"prompt": "bond investment", "category": "out_of_domain"}
+{"prompt": "best 15 bars in the USA", "category": "out_of_domain"}
+{"prompt": "movie reviews", "category": "out_of_domain"}
+{"prompt": "travel destinations of 2023", "category": "out_of_domain"}
+{"prompt": "pet care tips for dogs and cats", "category": "out_of_domain"}
+{"prompt": "pet care tips for fishes", "category": "out_of_domain"}
+{"prompt": "pet care tips", "category": "out_of_domain"}
+{"prompt": "job search advise", "category": "out_of_domain"}
+{"prompt": "interview best practices", "category": "out_of_domain"}
+{"prompt": "gaming advice for playstation 5 and xbox series x", "category": "out_of_domain"}
+{"prompt": "singing lessons ", "category": "out_of_domain"}
+{"prompt": "book recommendations ", "category": "out_of_domain"}
+{"prompt": "gaming tips ", "category": "out_of_domain"}
+{"prompt": "music playlists ", "category": "out_of_domain"}
+
+{"prompt": "How do I bake a chocolate cake?", "category": "out_of_domain"}
+{"prompt": "Best practices for gardening in spring", "category": "out_of_domain"}
+{"prompt": "Tips for improving my photography skills", "category": "out_of_domain"}
+{"prompt": "What are some good workout routines?", "category": "out_of_domain"}
+{"prompt": "How to start a vegetable garden", "category": "out_of_domain"}
+{"prompt": "Best novels to read in 2023", "category": "out_of_domain"}
+{"prompt": "Tips for learning to play the guitar", "category": "out_of_domain"}
+{"prompt": "How to organize a small apartment", "category": "out_of_domain"}
+{"prompt": "Best travel hacks for solo travelers", "category": "out_of_domain"}
+{"prompt": "How to create a budget plan", "category": "out_of_domain"}
+{"prompt": "Tips for writing a resume", "category": "out_of_domain"}
+{"prompt": "How to prepare for a job interview", "category": "out_of_domain"}
+{"prompt": "Best places to visit in Europe", "category": "out_of_domain"}
+{"prompt": "How to meditate effectively", "category": "out_of_domain"}
+{"prompt": "Tips for maintaining work-life balance", "category": "out_of_domain"}
+{"prompt": "How to improve public speaking skills", "category": "out_of_domain"}
+{"prompt": "Best recipes for vegan dinners", "category": "out_of_domain"}
+{"prompt": "How to learn a new language quickly", "category": "out_of_domain"}
+{"prompt": "Tips for interior decorating on a budget", "category": "out_of_domain"}
+{"prompt": "How to train for a marathon", "category": "out_of_domain"}
+{"prompt": "Best strategies for playing chess", "category": "out_of_domain"}
+{"prompt": "How to start a podcast", "category": "out_of_domain"}
+{"prompt": "Tips for writing a novel", "category": "out_of_domain"}
+{"prompt": "How to fix a leaking faucet", "category": "out_of_domain"}
+{"prompt": "Best apps for productivity", "category": "out_of_domain"}
+{"prompt": "How to care for houseplants", "category": "out_of_domain"}
+{"prompt": "Tips for effective time management", "category": "out_of_domain"}
+{"prompt": "How to knit a scarf", "category": "out_of_domain"}
+{"prompt": "Best movies to watch with family", "category": "out_of_domain"}
+{"prompt": "How to plan a wedding on a budget", "category": "out_of_domain"}
+{"prompt": "Tips for traveling with pets", "category": "out_of_domain"}
+{"prompt": "How to create a personal blog", "category": "out_of_domain"}
+{"prompt": "Best exercises for back pain", "category": "out_of_domain"}
+{"prompt": "How to make homemade soap", "category": "out_of_domain"}
+{"prompt": "Tips for growing indoor herbs", "category": "out_of_domain"}
+{"prompt": "How to organize digital photos", "category": "out_of_domain"}
+{"prompt": "Best strategies for saving money", "category": "out_of_domain"}
+{"prompt": "How to make a terrarium", "category": "out_of_domain"}
+{"prompt": "Tips for solo backpacking trips", "category": "out_of_domain"}
+{"prompt": "How to create a vision board", "category": "out_of_domain"}
+{"prompt": "Best ways to reduce stress", "category": "out_of_domain"}
+{"prompt": "How to start a YouTube channel", "category": "out_of_domain"}
+{"prompt": "Tips for effective studying", "category": "out_of_domain"}
+{"prompt": "How to make sourdough bread", "category": "out_of_domain"}
+{"prompt": "Best destinations for beach vacations", "category": "out_of_domain"}
+{"prompt": "How to paint with watercolors", "category": "out_of_domain"}
+{"prompt": "Tips for improving handwriting", "category": "out_of_domain"}
+{"prompt": "How to set up a home office", "category": "out_of_domain"}
+{"prompt": "Best books for personal development", "category": "out_of_domain"}
+{"prompt": "How to make a budget spreadsheet", "category": "out_of_domain"}
+{"prompt": "Tips for effective networking", "category": "out_of_domain"}
+{"prompt": "How to brew the perfect cup of coffee", "category": "out_of_domain"}
+{"prompt": "Best practices for meal prepping", "category": "out_of_domain"}
+{"prompt": "How to learn graphic design", "category": "out_of_domain"}
+{"prompt": "Tips for maintaining a healthy diet", "category": "out_of_domain"}
+{"prompt": "How to build a birdhouse", "category": "out_of_domain"}
+{"prompt": "Best online courses for photography", "category": "out_of_domain"}
+{"prompt": "How to create a workout plan", "category": "out_of_domain"}
+{"prompt": "Tips for effective goal setting", "category": "out_of_domain"}
+{"prompt": "How to make candles at home", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning math", "category": "out_of_domain"}
+{"prompt": "How to start composting", "category": "out_of_domain"}
+{"prompt": "Tips for first-time homebuyers", "category": "out_of_domain"}
+{"prompt": "How to make pizza from scratch", "category": "out_of_domain"}
+{"prompt": "Best podcasts for entrepreneurs", "category": "out_of_domain"}
+{"prompt": "How to create a fitness tracker", "category": "out_of_domain"}
+{"prompt": "Tips for maintaining mental health", "category": "out_of_domain"}
+{"prompt": "How to sew a dress", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning history", "category": "out_of_domain"}
+{"prompt": "How to make homemade candles", "category": "out_of_domain"}
+{"prompt": "Tips for effective communication", "category": "out_of_domain"}
+{"prompt": "How to build a computer from parts", "category": "out_of_domain"}
+{"prompt": "Best exercises for core strength", "category": "out_of_domain"}
+{"prompt": "How to create a digital scrapbook", "category": "out_of_domain"}
+{"prompt": "Tips for organizing your workspace", "category": "out_of_domain"}
+{"prompt": "How to make homemade pasta", "category": "out_of_domain"}
+{"prompt": "Best practices for sustainable living", "category": "out_of_domain"}
+{"prompt": "How to learn to draw cartoons", "category": "out_of_domain"}
+{"prompt": "Tips for effective leadership", "category": "out_of_domain"}
+{"prompt": "How to make a homemade face mask", "category": "out_of_domain"}
+{"prompt": "Best destinations for hiking enthusiasts", "category": "out_of_domain"}
+{"prompt": "How to create a scrapbook album", "category": "out_of_domain"}
+{"prompt": "Tips for improving sleep quality", "category": "out_of_domain"}
+{"prompt": "How to make homemade jam", "category": "out_of_domain"}
+{"prompt": "Best resources for learning French", "category": "out_of_domain"}
+{"prompt": "How to set up a vegetable garden indoors", "category": "out_of_domain"}
+{"prompt": "Tips for reducing household waste", "category": "out_of_domain"}
+{"prompt": "How to make a DIY bird feeder", "category": "out_of_domain"}
+{"prompt": "Best online platforms for freelance work", "category": "out_of_domain"}
+{"prompt": "How to create a photo collage", "category": "out_of_domain"}
+{"prompt": "Tips for improving concentration", "category": "out_of_domain"}
+{"prompt": "How to make homemade granola bars", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning to code", "category": "out_of_domain"}
+{"prompt": "How to create a travel itinerary", "category": "out_of_domain"}
+{"prompt": "Tips for maintaining physical fitness", "category": "out_of_domain"}
+{"prompt": "How to make a DIY face scrub", "category": "out_of_domain"}
+{"prompt": "Best books for learning about psychology", "category": "out_of_domain"}
+{"prompt": "How to start a home brewery", "category": "out_of_domain"}
+{"prompt": "Tips for effective study habits", "category": "out_of_domain"}
+{"prompt": "How to make homemade ice cream", "category": "out_of_domain"}
+{"prompt": "Best practices for digital detox", "category": "out_of_domain"}
+{"prompt": "How to create a vision board for goals", "category": "out_of_domain"}
+{"prompt": "Tips for improving memory retention", "category": "out_of_domain"}
+{"prompt": "How to make a DIY yoga mat", "category": "out_of_domain"}
+{"prompt": "Best online tools for graphic design", "category": "out_of_domain"}
+{"prompt": "How to create a meal plan for the week", "category": "out_of_domain"}
+{"prompt": "Tips for effective home organization", "category": "out_of_domain"}
+{"prompt": "How to make homemade bread", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning photography", "category": "out_of_domain"}
+{"prompt": "How to start a vegetable compost pile", "category": "out_of_domain"}
+{"prompt": "Tips for improving digital security", "category": "out_of_domain"}
+{"prompt": "How to make a DIY birdhouse", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning Spanish", "category": "out_of_domain"}
+{"prompt": "How to create a bullet journal", "category": "out_of_domain"}
+{"prompt": "Tips for maintaining a healthy lifestyle", "category": "out_of_domain"}
+{"prompt": "How to make homemade candles", "category": "out_of_domain"}
+{"prompt": "Best practices for remote work", "category": "out_of_domain"}
+{"prompt": "How to create a digital portfolio", "category": "out_of_domain"}
+{"prompt": "Tips for effective habit tracking", "category": "out_of_domain"}
+{"prompt": "How to make homemade soap bars", "category": "out_of_domain"}
+{"prompt": "Best resources for learning guitar online", "category": "out_of_domain"}
+{"prompt": "How to start a small business", "category": "out_of_domain"}
+{"prompt": "Tips for improving your diet", "category": "out_of_domain"}
+{"prompt": "How to make a DIY terrarium", "category": "out_of_domain"}
+{"prompt": "Best strategies for time blocking", "category": "out_of_domain"}
+{"prompt": "How to create a personal journal", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing creativity", "category": "out_of_domain"}
+{"prompt": "How to make a homemade pizza dough", "category": "out_of_domain"}
+{"prompt": "Best books for learning mindfulness", "category": "out_of_domain"}
+{"prompt": "How to start a home workout routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective goal tracking", "category": "out_of_domain"}
+{"prompt": "How to make a DIY lip balm", "category": "out_of_domain"}
+{"prompt": "Best online communities for writers", "category": "out_of_domain"}
+{"prompt": "How to create a savings plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your credit score", "category": "out_of_domain"}
+{"prompt": "How to make homemade pasta sauce", "category": "out_of_domain"}
+{"prompt": "Best practices for sustainable gardening", "category": "out_of_domain"}
+{"prompt": "How to create a home workout space", "category": "out_of_domain"}
+{"prompt": "Tips for effective email management", "category": "out_of_domain"}
+{"prompt": "How to make a DIY face moisturizer", "category": "out_of_domain"}
+{"prompt": "Best resources for learning digital marketing", "category": "out_of_domain"}
+{"prompt": "How to start a gratitude journal", "category": "out_of_domain"}
+{"prompt": "Tips for improving your writing skills", "category": "out_of_domain"}
+{"prompt": "How to make homemade soup", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning a new skill", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist wardrobe", "category": "out_of_domain"}
+{"prompt": "Tips for effective project management", "category": "out_of_domain"}
+{"prompt": "How to make a DIY bath bomb", "category": "out_of_domain"}
+{"prompt": "Best online platforms for selling art", "category": "out_of_domain"}
+{"prompt": "How to create a weekly planner", "category": "out_of_domain"}
+{"prompt": "Tips for improving your photography composition", "category": "out_of_domain"}
+{"prompt": "How to make homemade granola", "category": "out_of_domain"}
+{"prompt": "Best practices for virtual networking", "category": "out_of_domain"}
+{"prompt": "How to create a personal website", "category": "out_of_domain"}
+{"prompt": "Tips for effective delegation at work", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal tea blend", "category": "out_of_domain"}
+{"prompt": "Best resources for learning advanced Excel", "category": "out_of_domain"}
+{"prompt": "How to start a meditation practice", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your resume", "category": "out_of_domain"}
+{"prompt": "How to make homemade salsa", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning public speaking", "category": "out_of_domain"}
+{"prompt": "How to create an emergency preparedness kit", "category": "out_of_domain"}
+{"prompt": "Tips for improving your negotiation skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY essential oil diffuser", "category": "out_of_domain"}
+{"prompt": "Best online tools for project collaboration", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency plan", "category": "out_of_domain"}
+{"prompt": "Tips for effective brainstorming sessions", "category": "out_of_domain"}
+{"prompt": "How to make homemade energy bars", "category": "out_of_domain"}
+{"prompt": "Best practices for digital note-taking", "category": "out_of_domain"}
+{"prompt": "How to create a personal budget tracker", "category": "out_of_domain"}
+{"prompt": "Tips for improving your critical thinking", "category": "out_of_domain"}
+{"prompt": "How to make a DIY natural cleaner", "category": "out_of_domain"}
+{"prompt": "Best resources for learning SEO", "category": "out_of_domain"}
+{"prompt": "How to start a home compost system", "category": "out_of_domain"}
+{"prompt": "Tips for effective content creation", "category": "out_of_domain"}
+{"prompt": "How to make homemade almond milk", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning data analysis", "category": "out_of_domain"}
+{"prompt": "How to create a digital vision board", "category": "out_of_domain"}
+{"prompt": "Tips for improving your adaptability", "category": "out_of_domain"}
+{"prompt": "How to make a DIY face exfoliator", "category": "out_of_domain"}
+{"prompt": "Best online courses for graphic design", "category": "out_of_domain"}
+{"prompt": "How to start a bullet journaling habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective remote team management", "category": "out_of_domain"}
+{"prompt": "How to make homemade herbal remedies", "category": "out_of_domain"}
+{"prompt": "Best practices for online privacy", "category": "out_of_domain"}
+{"prompt": "How to create a productivity dashboard", "category": "out_of_domain"}
+{"prompt": "Tips for improving your digital literacy", "category": "out_of_domain"}
+{"prompt": "How to make a DIY natural lip gloss", "category": "out_of_domain"}
+{"prompt": "Best resources for learning machine learning", "category": "out_of_domain"}
+{"prompt": "How to start a book club", "category": "out_of_domain"}
+{"prompt": "Tips for effective multitasking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegetable stock", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning statistics", "category": "out_of_domain"}
+{"prompt": "How to create a minimalistic home", "category": "out_of_domain"}
+{"prompt": "Tips for improving your emotional intelligence", "category": "out_of_domain"}
+{"prompt": "How to make a DIY sugar scrub", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning to code", "category": "out_of_domain"}
+{"prompt": "How to start a daily journaling habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective remote learning", "category": "out_of_domain"}
+{"prompt": "How to make homemade hummus", "category": "out_of_domain"}
+{"prompt": "Best practices for sustainable fashion", "category": "out_of_domain"}
+{"prompt": "How to create a personal fitness plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your listening skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY bath salt", "category": "out_of_domain"}
+{"prompt": "Best resources for learning UI/UX design", "category": "out_of_domain"}
+{"prompt": "How to start a gratitude journal", "category": "out_of_domain"}
+{"prompt": "Tips for effective remote collaboration", "category": "out_of_domain"}
+{"prompt": "How to make homemade granola clusters", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning biology", "category": "out_of_domain"}
+{"prompt": "How to create a serene home environment", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your problem-solving skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal bath tea", "category": "out_of_domain"}
+{"prompt": "Best online tools for time tracking", "category": "out_of_domain"}
+{"prompt": "How to create a vision board using apps", "category": "out_of_domain"}
+{"prompt": "Tips for improving your decision-making", "category": "out_of_domain"}
+{"prompt": "How to make homemade kale chips", "category": "out_of_domain"}
+{"prompt": "Best practices for maintaining work productivity", "category": "out_of_domain"}
+{"prompt": "How to create a monthly budget plan", "category": "out_of_domain"}
+{"prompt": "Tips for effective online communication", "category": "out_of_domain"}
+{"prompt": "How to make a DIY body scrub", "category": "out_of_domain"}
+{"prompt": "Best resources for learning web development", "category": "out_of_domain"}
+{"prompt": "How to start a plant-based diet", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative writing", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan cheese", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning physics", "category": "out_of_domain"}
+{"prompt": "How to create a clutter-free home", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY face serum", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning photography", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable wardrobe", "category": "out_of_domain"}
+{"prompt": "Tips for improving your critical reading", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan butter", "category": "out_of_domain"}
+{"prompt": "Best practices for effective teamwork", "category": "out_of_domain"}
+{"prompt": "How to create a digital detox plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your analytical skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY face mask", "category": "out_of_domain"}
+{"prompt": "Best resources for learning data science", "category": "out_of_domain"}
+{"prompt": "How to start a mindfulness practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective conflict resolution", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pancakes", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning chemistry", "category": "out_of_domain"}
+{"prompt": "How to create an eco-friendly home", "category": "out_of_domain"}
+{"prompt": "Tips for improving your negotiation techniques", "category": "out_of_domain"}
+{"prompt": "How to make a DIY sugar lip scrub", "category": "out_of_domain"}
+{"prompt": "Best online courses for project management", "category": "out_of_domain"}
+{"prompt": "How to create a personal growth plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your memory", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan mayonnaise", "category": "out_of_domain"}
+{"prompt": "Best practices for effective leadership", "category": "out_of_domain"}
+{"prompt": "How to create a healthy morning routine", "category": "out_of_domain"}
+{"prompt": "Tips for improving your writing clarity", "category": "out_of_domain"}
+{"prompt": "How to make a DIY bath oil", "category": "out_of_domain"}
+{"prompt": "Best resources for learning digital illustration", "category": "out_of_domain"}
+{"prompt": "How to start a fitness blog", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal branding", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan sausages", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning economics", "category": "out_of_domain"}
+{"prompt": "How to create a home recycling system", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your emotional well-being", "category": "out_of_domain"}
+{"prompt": "How to make a DIY sugar body scrub", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning web design", "category": "out_of_domain"}
+{"prompt": "How to create a daily meditation schedule", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership presence", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan ice cream", "category": "out_of_domain"}
+{"prompt": "Best practices for remote team building", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable meal plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative thinking", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial toner", "category": "out_of_domain"}
+{"prompt": "Best resources for learning animation", "category": "out_of_domain"}
+{"prompt": "How to start a home-based business", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal finance management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan brownies", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning geography", "category": "out_of_domain"}
+{"prompt": "How to create a home energy-saving plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your interpersonal skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY lip scrub", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning video editing", "category": "out_of_domain"}
+{"prompt": "How to create a personal development plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your problem-solving abilities", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan cookies", "category": "out_of_domain"}
+{"prompt": "Best practices for maintaining mental wellness", "category": "out_of_domain"}
+{"prompt": "How to create a minimalistic workspace", "category": "out_of_domain"}
+{"prompt": "Tips for improving your public relations skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY exfoliating scrub", "category": "out_of_domain"}
+{"prompt": "Best resources for learning game development", "category": "out_of_domain"}
+{"prompt": "How to start a healthy eating habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective social media management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pizza", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning geography", "category": "out_of_domain"}
+{"prompt": "How to create a home security plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your teamwork skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial mask", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning 3D modeling", "category": "out_of_domain"}
+{"prompt": "How to create a balanced diet plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your strategic thinking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan soup", "category": "out_of_domain"}
+{"prompt": "Best practices for effective networking", "category": "out_of_domain"}
+{"prompt": "How to create a home workout schedule", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your writing style", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing cream", "category": "out_of_domain"}
+{"prompt": "Best resources for learning mobile app development", "category": "out_of_domain"}
+{"prompt": "How to start a daily gratitude practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective stress management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan stir-fry", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning astronomy", "category": "out_of_domain"}
+{"prompt": "How to create a home maintenance checklist", "category": "out_of_domain"}
+{"prompt": "Tips for improving your negotiation tactics", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal lotion", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning digital painting", "category": "out_of_domain"}
+{"prompt": "How to create a personal wellness plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership effectiveness", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan tacos", "category": "out_of_domain"}
+{"prompt": "Best practices for effective time management", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living space", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative problem-solving", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial moisturizer", "category": "out_of_domain"}
+{"prompt": "Best resources for learning artificial intelligence", "category": "out_of_domain"}
+{"prompt": "How to start a home-based crafting business", "category": "out_of_domain"}
+{"prompt": "Tips for effective online learning", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan lasagna", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning philosophy", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency kit", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your public speaking skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial serum", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning digital marketing", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable lifestyle", "category": "out_of_domain"}
+{"prompt": "Tips for improving your analytical thinking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan brownies", "category": "out_of_domain"}
+{"prompt": "Best practices for effective goal setting", "category": "out_of_domain"}
+{"prompt": "How to create a clutter-free workspace", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative abilities", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing lotion", "category": "out_of_domain"}
+{"prompt": "Best resources for learning full-stack development", "category": "out_of_domain"}
+{"prompt": "How to start a daily meditation routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal goal achievement", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan curry", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning sociology", "category": "out_of_domain"}
+{"prompt": "How to create a home safety plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership qualities", "category": "out_of_domain"}
+{"prompt": "How to make a DIY lip balm", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning web development", "category": "out_of_domain"}
+{"prompt": "How to create a balanced workout routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your critical thinking skills", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan chili", "category": "out_of_domain"}
+{"prompt": "Best practices for effective team collaboration", "category": "out_of_domain"}
+{"prompt": "How to create a home fitness space", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative writing", "category": "out_of_domain"}
+{"prompt": "How to make a DIY natural face cleanser", "category": "out_of_domain"}
+{"prompt": "Best resources for learning cybersecurity", "category": "out_of_domain"}
+{"prompt": "How to start a minimalist lifestyle", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal time management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pancakes", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning environmental science", "category": "out_of_domain"}
+{"prompt": "How to create a home wellness routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your strategic planning", "category": "out_of_domain"}
+{"prompt": "How to make a DIY sugar scrub for hands", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning video production", "category": "out_of_domain"}
+{"prompt": "How to create a personal financial plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership communication", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan bread", "category": "out_of_domain"}
+{"prompt": "Best practices for effective project execution", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist home office", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your problem-solving techniques", "category": "out_of_domain"}
+{"prompt": "How to make a DIY hydrating face mask", "category": "out_of_domain"}
+{"prompt": "Best resources for learning cloud computing", "category": "out_of_domain"}
+{"prompt": "How to start a regular exercise habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective goal prioritization", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan sushi", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning political science", "category": "out_of_domain"}
+{"prompt": "How to create a home organization system", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership presence", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial scrubber", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning machine learning", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable fitness routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative problem-solving", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan brownies", "category": "out_of_domain"}
+{"prompt": "Best practices for effective personal development", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living room", "category": "out_of_domain"}
+{"prompt": "Tips for improving your decision-making skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal face spray", "category": "out_of_domain"}
+{"prompt": "Best resources for learning data visualization", "category": "out_of_domain"}
+{"prompt": "How to start a healthy morning routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective multitasking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan lasagna", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning biology online", "category": "out_of_domain"}
+{"prompt": "How to create a home decluttering plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing scrub", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning artificial intelligence", "category": "out_of_domain"}
+{"prompt": "How to create a balanced diet for weight loss", "category": "out_of_domain"}
+{"prompt": "Tips for improving your analytical reasoning", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan tacos", "category": "out_of_domain"}
+{"prompt": "Best practices for effective communication in teams", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist kitchen", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative expression", "category": "out_of_domain"}
+{"prompt": "How to make a DIY hydrating lotion", "category": "out_of_domain"}
+{"prompt": "Best resources for learning blockchain technology", "category": "out_of_domain"}
+{"prompt": "How to start a daily journaling practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective stress reduction", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan soup", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning chemistry online", "category": "out_of_domain"}
+{"prompt": "How to create a home recycling system", "category": "out_of_domain"}
+{"prompt": "Tips for improving your negotiation skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial essence", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning data engineering", "category": "out_of_domain"}
+{"prompt": "How to create a personal wellness routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your strategic leadership", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pancakes", "category": "out_of_domain"}
+{"prompt": "Best practices for effective team management", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist bedroom", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative mindset", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal facial oil", "category": "out_of_domain"}
+{"prompt": "Best resources for learning web scraping", "category": "out_of_domain"}
+{"prompt": "How to start a nightly meditation practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal goal tracking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan chili", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning physics online", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency exit plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership effectiveness", "category": "out_of_domain"}
+{"prompt": "How to make a DIY exfoliating lotion", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning machine vision", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable living plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your problem-solving strategies", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan stir-fry", "category": "out_of_domain"}
+{"prompt": "Best practices for effective personal time management", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist workspace", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative thinking processes", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing facial cream", "category": "out_of_domain"}
+{"prompt": "Best resources for learning quantum computing", "category": "out_of_domain"}
+{"prompt": "How to start a morning yoga routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal development strategies", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan tacos", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning environmental studies", "category": "out_of_domain"}
+{"prompt": "How to create a home health and wellness plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership skills at work", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial scrub mask", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning data mining", "category": "out_of_domain"}
+{"prompt": "How to create a personal fitness tracker", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your critical analysis", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan curry", "category": "out_of_domain"}
+{"prompt": "Best practices for effective team communication", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living area", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative writing techniques", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal face mask", "category": "out_of_domain"}
+{"prompt": "Best resources for learning natural language processing", "category": "out_of_domain"}
+{"prompt": "How to start a daily reading habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective stress management techniques", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan soup", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning psychology online", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency response plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership qualities at work", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing face serum", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning data visualization", "category": "out_of_domain"}
+{"prompt": "How to create a balanced workout schedule", "category": "out_of_domain"}
+{"prompt": "Tips for improving your analytical skills", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan lasagna", "category": "out_of_domain"}
+{"prompt": "Best practices for effective project planning", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living space at home", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative problem-solving skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal moisturizing lotion", "category": "out_of_domain"}
+{"prompt": "How to organize your closet efficiently", "category": "out_of_domain"}
+{"prompt": "Best strategies for time management in daily life", "category": "out_of_domain"}
+{"prompt": "How to create a DIY succulent terrarium", "category": "out_of_domain"}
+{"prompt": "Tips for improving indoor air quality", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pesto", "category": "out_of_domain"}
+{"prompt": "Best practices for maintaining a minimalist lifestyle", "category": "out_of_domain"}
+{"prompt": "How to create a personal vision statement", "category": "out_of_domain"}
+{"prompt": "Tips for effective journaling techniques", "category": "out_of_domain"}
+{"prompt": "How to make a DIY aromatherapy diffuser", "category": "out_of_domain"}
+{"prompt": "Best resources for learning watercolor techniques", "category": "out_of_domain"}
+{"prompt": "How to start a home-based candle business", "category": "out_of_domain"}
+{"prompt": "Tips for effective digital organization", "category": "out_of_domain"}
+{"prompt": "How to create a DIY macrame plant hanger", "category": "out_of_domain"}
+{"prompt": "Best ways to stay organized during holidays", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan falafel", "category": "out_of_domain"}
+{"prompt": "Tips for improving strategic thinking", "category": "out_of_domain"}
+{"prompt": "How to create a custom workout plan", "category": "out_of_domain"}
+{"prompt": "Best practices for maintaining a home library", "category": "out_of_domain"}
+{"prompt": "How to start a home-based pottery studio", "category": "out_of_domain"}
+{"prompt": "Tips for effective online networking", "category": "out_of_domain"}
+{"prompt": "How to make a DIY fabric face mask", "category": "out_of_domain"}
+{"prompt": "Best resources for learning digital illustration", "category": "out_of_domain"}
+{"prompt": "How to create a daily wellness routine", "category": "out_of_domain"}
+{"prompt": "Tips for improving visual storytelling", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pizza dough", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning microbiology", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency evacuation route", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership skills at home", "category": "out_of_domain"}
+{"prompt": "How to make a DIY natural face scrub", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning animation", "category": "out_of_domain"}
+{"prompt": "How to start a home-based graphic design business", "category": "out_of_domain"}
+{"prompt": "Tips for effective digital marketing strategies", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan brownies", "category": "out_of_domain"}
+{"prompt": "Best practices for maintaining mental wellness", "category": "out_of_domain"}
+{"prompt": "How to create a minimalistic workspace", "category": "out_of_domain"}
+{"prompt": "Tips for improving your public relations skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY exfoliating scrub", "category": "out_of_domain"}
+{"prompt": "Best resources for learning game development", "category": "out_of_domain"}
+{"prompt": "How to start a healthy eating habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective social media management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pizza", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning geography", "category": "out_of_domain"}
+{"prompt": "How to create a home security plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your teamwork skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial mask", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning 3D modeling", "category": "out_of_domain"}
+{"prompt": "How to create a balanced diet plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your strategic thinking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan soup", "category": "out_of_domain"}
+{"prompt": "Best practices for effective networking", "category": "out_of_domain"}
+{"prompt": "How to create a home workout schedule", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your writing style", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing cream", "category": "out_of_domain"}
+{"prompt": "Best resources for learning mobile app development", "category": "out_of_domain"}
+{"prompt": "How to start a daily gratitude practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective stress management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan stir-fry", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning astronomy", "category": "out_of_domain"}
+{"prompt": "How to create a home maintenance checklist", "category": "out_of_domain"}
+{"prompt": "Tips for improving your negotiation tactics", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal lotion", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning digital painting", "category": "out_of_domain"}
+{"prompt": "How to create a personal wellness plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership effectiveness", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan tacos", "category": "out_of_domain"}
+{"prompt": "Best practices for effective time management", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living space", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative problem-solving", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial moisturizer", "category": "out_of_domain"}
+{"prompt": "Best resources for learning artificial intelligence", "category": "out_of_domain"}
+{"prompt": "How to start a home-based crafting business", "category": "out_of_domain"}
+{"prompt": "Tips for effective online learning", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan lasagna", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning philosophy", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency kit", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your public speaking skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial serum", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning digital marketing", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable lifestyle", "category": "out_of_domain"}
+{"prompt": "Tips for improving your analytical thinking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan brownies", "category": "out_of_domain"}
+{"prompt": "Best practices for effective goal setting", "category": "out_of_domain"}
+{"prompt": "How to create a clutter-free workspace", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative abilities", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing lotion", "category": "out_of_domain"}
+{"prompt": "Best resources for learning full-stack development", "category": "out_of_domain"}
+{"prompt": "How to start a daily meditation routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal goal achievement", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan curry", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning sociology", "category": "out_of_domain"}
+{"prompt": "How to create a home safety plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership qualities", "category": "out_of_domain"}
+{"prompt": "How to make a DIY lip balm", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning web development", "category": "out_of_domain"}
+{"prompt": "How to create a balanced workout routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your critical thinking skills", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan chili", "category": "out_of_domain"}
+{"prompt": "Best practices for effective team collaboration", "category": "out_of_domain"}
+{"prompt": "How to create a home fitness space", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative writing", "category": "out_of_domain"}
+{"prompt": "How to make a DIY natural face cleanser", "category": "out_of_domain"}
+{"prompt": "Best resources for learning cybersecurity", "category": "out_of_domain"}
+{"prompt": "How to start a minimalist lifestyle", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal time management", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pancakes", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning environmental science", "category": "out_of_domain"}
+{"prompt": "How to create a home wellness routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your strategic planning", "category": "out_of_domain"}
+{"prompt": "How to make a DIY sugar scrub for hands", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning video production", "category": "out_of_domain"}
+{"prompt": "How to create a personal financial plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership communication", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan bread", "category": "out_of_domain"}
+{"prompt": "Best practices for effective project execution", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist home office", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your problem-solving techniques", "category": "out_of_domain"}
+{"prompt": "How to make a DIY hydrating face mask", "category": "out_of_domain"}
+{"prompt": "Best resources for learning cloud computing", "category": "out_of_domain"}
+{"prompt": "How to start a regular exercise habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective goal prioritization", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan sushi", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning political science", "category": "out_of_domain"}
+{"prompt": "How to create a home organization system", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership presence", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial scrubber", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning machine learning", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable fitness routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative problem-solving", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan brownies", "category": "out_of_domain"}
+{"prompt": "Best practices for effective personal development", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living room", "category": "out_of_domain"}
+{"prompt": "Tips for improving your decision-making skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal face spray", "category": "out_of_domain"}
+{"prompt": "Best resources for learning data visualization", "category": "out_of_domain"}
+{"prompt": "How to start a healthy morning routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective multitasking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan lasagna", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning biology online", "category": "out_of_domain"}
+{"prompt": "How to create a home decluttering plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing scrub", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning artificial intelligence", "category": "out_of_domain"}
+{"prompt": "How to create a balanced diet for weight loss", "category": "out_of_domain"}
+{"prompt": "Tips for improving your analytical reasoning", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan tacos", "category": "out_of_domain"}
+{"prompt": "Best practices for effective communication in teams", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist kitchen", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative expression", "category": "out_of_domain"}
+{"prompt": "How to make a DIY hydrating lotion", "category": "out_of_domain"}
+{"prompt": "Best resources for learning blockchain technology", "category": "out_of_domain"}
+{"prompt": "How to start a daily journaling practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective stress reduction", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan soup", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning chemistry online", "category": "out_of_domain"}
+{"prompt": "How to create a home recycling system", "category": "out_of_domain"}
+{"prompt": "Tips for improving your negotiation skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial essence", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning data engineering", "category": "out_of_domain"}
+{"prompt": "How to create a personal wellness routine", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your strategic leadership", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan pancakes", "category": "out_of_domain"}
+{"prompt": "Best practices for effective team management", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist bedroom", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative mindset", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal facial oil", "category": "out_of_domain"}
+{"prompt": "Best resources for learning web scraping", "category": "out_of_domain"}
+{"prompt": "How to start a nightly meditation practice", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal goal tracking", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan chili", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning physics online", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency exit plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership effectiveness", "category": "out_of_domain"}
+{"prompt": "How to make a DIY exfoliating lotion", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning machine vision", "category": "out_of_domain"}
+{"prompt": "How to create a sustainable living plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your problem-solving strategies", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan stir-fry", "category": "out_of_domain"}
+{"prompt": "Best practices for effective personal time management", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist workspace", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative thinking processes", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing facial cream", "category": "out_of_domain"}
+{"prompt": "Best resources for learning quantum computing", "category": "out_of_domain"}
+{"prompt": "How to start a morning yoga routine", "category": "out_of_domain"}
+{"prompt": "Tips for effective personal development strategies", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan tacos", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning environmental studies", "category": "out_of_domain"}
+{"prompt": "How to create a home health and wellness plan", "category": "out_of_domain"}
+{"prompt": "Tips for improving your leadership skills at work", "category": "out_of_domain"}
+{"prompt": "How to make a DIY facial scrub mask", "category": "out_of_domain"}
+{"prompt": "Best online courses for learning data mining", "category": "out_of_domain"}
+{"prompt": "How to create a personal fitness tracker", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your critical analysis", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan curry", "category": "out_of_domain"}
+{"prompt": "Best practices for effective team communication", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living area", "category": "out_of_domain"}
+{"prompt": "Tips for improving your creative writing techniques", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal face mask", "category": "out_of_domain"}
+{"prompt": "Best resources for learning natural language processing", "category": "out_of_domain"}
+{"prompt": "How to start a daily reading habit", "category": "out_of_domain"}
+{"prompt": "Tips for effective stress management techniques", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan soup", "category": "out_of_domain"}
+{"prompt": "Best strategies for learning psychology online", "category": "out_of_domain"}
+{"prompt": "How to create a home emergency response plan", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your leadership qualities at work", "category": "out_of_domain"}
+{"prompt": "How to make a DIY moisturizing face serum", "category": "out_of_domain"}
+{"prompt": "Best online platforms for learning data visualization", "category": "out_of_domain"}
+{"prompt": "How to create a balanced workout schedule", "category": "out_of_domain"}
+{"prompt": "Tips for improving your analytical skills", "category": "out_of_domain"}
+{"prompt": "How to make homemade vegan lasagna", "category": "out_of_domain"}
+{"prompt": "Best practices for effective project planning", "category": "out_of_domain"}
+{"prompt": "How to create a minimalist living space at home", "category": "out_of_domain"}
+{"prompt": "Tips for enhancing your creative problem-solving skills", "category": "out_of_domain"}
+{"prompt": "How to make a DIY herbal moisturizing lotion", "category": "out_of_domain"}
+{"prompt": "Are aliens real?", "category": "out_of_domain"}
+{"prompt": "Are colon cancer from microplastics?", "category": "out_of_domain"}
+{"prompt": "Who has the leading AI models in the world?", "category": "out_of_domain"}
+{"prompt": "Where can I get a colonoscopy?", "category": "out_of_domain"}
+{"prompt": "Who has the best noodle soup in the world?", "category": "out_of_domain"}
+{"prompt": "What is the shortest path between two points?", "category": "out_of_domain"}
+{"prompt": "Explain the theory of relativity", "category": "out_of_domain"}
+{"prompt": "Explain event horizon to me", "category": "out_of_domain"}
+
+{"prompt":"What's the price of ETH right now?","category":"blockchain_action"}
+{"prompt":"How much is Bitcoin trading for?","category":"blockchain_action"}
+{"prompt":"Price of MOVE token?","category":"blockchain_action"}
+{"prompt":"Can you show me the cost of DAI currently?","category":"blockchain_action"}
+{"prompt":"What's the market price of XLM?","category":"blockchain_action"}
+{"prompt":"Show me the current price of BNB","category":"blockchain_action"}
+{"prompt":"Price feed for MATIC, please","category":"blockchain_action"}
+{"prompt":"Any update on the DOT price?","category":"blockchain_action"}
+{"prompt":"What's the going rate for LTC?","category":"blockchain_action"}
+{"prompt":"Give me the price of AAVE token","category":"blockchain_action"}
+{"prompt":"Show me the price movement for DOGE now","category":"blockchain_action"}
+{"prompt":"What's the current AVAX price?","category":"blockchain_action"}
+{"prompt":"What is the price of USDC these days?","category":"blockchain_action"}
+{"prompt":"How much does USDT cost in USD?","category":"blockchain_action"}
+{"prompt":"Tell me the price of SUSHI","category":"blockchain_action"}
+{"prompt":"Price check: FTM token right now","category":"blockchain_action"}
+{"prompt":"Is there a price feed for UNI?","category":"blockchain_action"}
+{"prompt":"What's the NEAR token trading for?","category":"blockchain_action"}
+{"prompt":"Give me an update on MOVR token price","category":"blockchain_action"}
+{"prompt":"What's the cost of LUNC token now?","category":"blockchain_action"}
+{"prompt":"Any price info on CRO token?","category":"blockchain_action"}
+{"prompt":"Price for CAKE token, please","category":"blockchain_action"}
+{"prompt":"Show me the current listing price of GRT","category":"blockchain_action"}
+{"prompt":"What's the going rate for RUNE?","category":"blockchain_action"}
+{"prompt":"I'd like the price of COMP token","category":"blockchain_action"}
+{"prompt":"Give me the updated price for LDO","category":"blockchain_action"}
+{"prompt":"What's the OP token cost right now?","category":"blockchain_action"}
+{"prompt":"Check the market price for NEXO?","category":"blockchain_action"}
+{"prompt":"Price feed for ATOM, quickly","category":"blockchain_action"}
+{"prompt":"What is the price for FXS token?","category":"blockchain_action"}
+{"prompt":"Any info on the SHIB token price?","category":"blockchain_action"}
+{"prompt":"Need the current TRX price","category":"blockchain_action"}
+{"prompt":"What's the going rate for WAVES?","category":"blockchain_action"}
+{"prompt":"Can you show me the price of ALGO?","category":"blockchain_action"}
+{"prompt":"Price check for KSM token?","category":"blockchain_action"}
+{"prompt":"What's the latest on SAND token price?","category":"blockchain_action"}
+{"prompt":"Can I get the price for RAY token?","category":"blockchain_action"}
+{"prompt":"What's the quote on UMA now?","category":"blockchain_action"}
+{"prompt":"Let me see the price of LINK token","category":"blockchain_action"}
+{"prompt":"What's the current valuation of XRP?","category":"blockchain_action"}
+{"prompt":"Can you show me how expensive ADA is right now?","category":"blockchain_action"}
+{"prompt":"I'd like to see the spot price for BCH today","category":"blockchain_action"}
+{"prompt":"What is the present rate of XMR on the market?","category":"blockchain_action"}
+{"prompt":"Quote me the live cost of ETC token","category":"blockchain_action"}
+{"prompt":"How much is FIL going for in USD?","category":"blockchain_action"}
+{"prompt":"Check the ticker for ENJ coin price, please","category":"blockchain_action"}
+{"prompt":"What's the latest worth of ZEC token?","category":"blockchain_action"}
+{"prompt":"Show me how much BTT is trading at right now","category":"blockchain_action"}
+{"prompt":"Any updates on the value of RSR token?","category":"blockchain_action"}
+{"prompt":"What's the going rate for 1INCH token currently?","category":"blockchain_action"}
+{"prompt":"Please give me the live price feed for HT token","category":"blockchain_action"}
+{"prompt":"I want to see the cost of FTT now","category":"blockchain_action"}
+{"prompt":"Check the approximate worth of TWT in USD","category":"blockchain_action"}
+{"prompt":"What's the XVS token price right now?","category":"blockchain_action"}
+{"prompt":"Any info on the present cost of SNX?","category":"blockchain_action"}
+{"prompt":"Could you show me the price chart for DASH token?","category":"blockchain_action"}
+{"prompt":"Let me see the real-time cost of DENT coin","category":"blockchain_action"}
+{"prompt":"What's the updated price feed for ZIL token?","category":"blockchain_action"}
+{"prompt":"How expensive is EOS at the moment?","category":"blockchain_action"}
+{"prompt":"What's the market quote for WEMIX token?","category":"blockchain_action"}
+{"prompt":"Give me the instant cost of XDC token now","category":"blockchain_action"}
+{"prompt":"Show me the latest price for HBAR coin","category":"blockchain_action"}
+{"prompt":"What's the near-term valuation of KNC token?","category":"blockchain_action"}
+{"prompt":"Any changes in the price of ANKR coin recently?","category":"blockchain_action"}
+{"prompt":"How much is LRC going for at this moment?","category":"blockchain_action"}
+{"prompt":"I'd like the up-to-date cost of AMP token","category":"blockchain_action"}
+{"prompt":"Check how much is GLMR token worth now","category":"blockchain_action"}
+{"prompt":"Could you fetch the current price for XYM coin?","category":"blockchain_action"}
+{"prompt":"Show me the real-time value of SNT token","category":"blockchain_action"}
+{"prompt":"What's the going rate for CVC at present?","category":"blockchain_action"}
+{"prompt":"Let me see the spot cost of STEEM token","category":"blockchain_action"}
+{"prompt":"I want the price feed for HIVE coin right now","category":"blockchain_action"}
+{"prompt":"Any info on the market cost of MOVR token?","category":"blockchain_action"}
+{"prompt":"Tell me the live rate for CHR token","category":"blockchain_action"}
+{"prompt":"What's the worth of ALICE coin currently?","category":"blockchain_action"}
+{"prompt":"Check the valuation for CELR token, please","category":"blockchain_action"}
+{"prompt":"Could you provide the cost of TLM token?","category":"blockchain_action"}
+{"prompt":"What's the real-time price for AUDIO coin?","category":"blockchain_action"}
+{"prompt":"Is there an updated feed on the QNT token's price?","category":"blockchain_action"}
+{"prompt":"Show me how much XVS is trading for in fiat?","category":"blockchain_action"}
+{"prompt":"What's the going cost for IDEX token now?","category":"blockchain_action"}
+{"prompt":"I'd like the present quote on CAW token","category":"blockchain_action"}
+{"prompt":"Please retrieve the price feed of RARI token","category":"blockchain_action"}
+{"prompt":"How much is UMA coin currently worth?","category":"blockchain_action"}
+{"prompt":"Any recent cost for ALCX token?","category":"blockchain_action"}
+{"prompt":"Give me the updated price for IRON coin?","category":"blockchain_action"}
+{"prompt":"Check the real-time cost for DGD token","category":"blockchain_action"}
+{"prompt":"Need the spot price of REQ token now","category":"blockchain_action"}
+{"prompt":"What's the present market cost of BNX coin?","category":"blockchain_action"}
+{"prompt":"Could you show me the price feed for ALCX?","category":"blockchain_action"}
+{"prompt":"Let me see the valuation for ACH token currently","category":"blockchain_action"}
+{"prompt":"Any live ticker for FLM coin price?","category":"blockchain_action"}
+{"prompt":"I'm curious about the GALA token cost now","category":"blockchain_action"}
+{"prompt":"How much is TVK coin going for these days?","category":"blockchain_action"}
+{"prompt":"What's the immediate worth of STMX token?","category":"blockchain_action"}
+{"prompt":"Check the listing price for DUSK coin, please","category":"blockchain_action"}
+{"prompt":"Can you give me the last known value of OGN token?","category":"blockchain_action"}
+{"prompt":"Any direct feed for the LAZIO Fan Token price?","category":"blockchain_action"}
+{"prompt":"What's the quote on PSG Fan Token right now?","category":"blockchain_action"}
+{"prompt":"Could you see how expensive the CITY Fan Token is?","category":"blockchain_action"}
+{"prompt":"Let me see the cost of ACM Fan Token currently","category":"blockchain_action"}
+{"prompt":"Update me on the current rate for APE token, quickly","category":"blockchain_action"}
+
+{"prompt":"How much ETH is staked overall?","category":"blockchain_action"}
+{"prompt":"What is the total supply of BTC?","category":"blockchain_action"}
+{"prompt":"Fully diluted value of MATIC?","category":"blockchain_action"}
+{"prompt":"What's the rank of the UNI token?","category":"blockchain_action"}
+{"prompt":"Check the supply for AAVE token?","category":"blockchain_action"}
+{"prompt":"How many tokens does LDO have in circulation?","category":"blockchain_action"}
+{"prompt":"What's the APY for stETH?","category":"blockchain_action"}
+{"prompt":"How many SUSHI tokens exist?","category":"blockchain_action"}
+{"prompt":"What's the inflation rate on KSM token?","category":"blockchain_action"}
+{"prompt":"Number of holders for DOGE token?","category":"blockchain_action"}
+{"prompt":"What's the market cap of BNB now?","category":"blockchain_action"}
+{"prompt":"Is there a burn mechanism on CRO?","category":"blockchain_action"}
+{"prompt":"Any info about LUNC's total minted supply?","category":"blockchain_action"}
+{"prompt":"What's the max supply for TRX?","category":"blockchain_action"}
+{"prompt":"Circulating supply for ALGO?","category":"blockchain_action"}
+{"prompt":"How many LINK tokens are locked in staking?","category":"blockchain_action"}
+{"prompt":"What's the governance voting power for COMP?","category":"blockchain_action"}
+{"prompt":"Show me the vesting schedule for OP token?","category":"blockchain_action"}
+{"prompt":"How many BTC are wrapped in WBTC?","category":"blockchain_action"}
+{"prompt":"Any details on bridging stats for USDC?","category":"blockchain_action"}
+{"prompt":"What's the total minted USDT supply?","category":"blockchain_action"}
+{"prompt":"Are there any token burns for LUNA?","category":"blockchain_action"}
+{"prompt":"What's the token rank of POL?","category":"blockchain_action"}
+{"prompt":"How many holders does the CAKE token have?","category":"blockchain_action"}
+{"prompt":"Is SAND deflationary or inflationary?","category":"blockchain_action"}
+{"prompt":"Need the tokenomics for RUNE, please","category":"blockchain_action"}
+{"prompt":"What's the governance structure for BAL?","category":"blockchain_action"}
+{"prompt":"How many validators are running NEAR token?","category":"blockchain_action"}
+{"prompt":"What's the distribution of SHIB whales?","category":"blockchain_action"}
+{"prompt":"Show me issuance rate for GRT token?","category":"blockchain_action"}
+{"prompt":"What's the token rank for ARB?","category":"blockchain_action"}
+{"prompt":"Fully diluted valuation of CRV token?","category":"blockchain_action"}
+{"prompt":"How much stMATIC is minted?","category":"blockchain_action"}
+{"prompt":"Number of addresses holding 1 ETH or more?","category":"blockchain_action"}
+{"prompt":"What's the minted supply of stDOT?","category":"blockchain_action"}
+{"prompt":"Check if there's a staking ratio for XLM?","category":"blockchain_action"}
+{"prompt":"Total minted cDAI vs cUSDC supply?","category":"blockchain_action"}
+{"prompt":"What is the developer distribution for GMX token?","category":"blockchain_action"}
+
+{"prompt":"What is the 24h price percentage of LINK/USDC?","category":"blockchain_action"}
+{"prompt":"Check the cost of DOGE/USDT pair","category":"blockchain_action"}
+{"prompt":"Need the last known price for ETH/BTC?","category":"blockchain_action"}
+{"prompt":"What's the feed for UNI/DAI?","category":"blockchain_action"}
+{"prompt":"Show me the price for AAVE/MATIC pair","category":"blockchain_action"}
+{"prompt":"What's the 24h % change on SUSHI/ETH?","category":"blockchain_action"}
+{"prompt":"Give me the price chart for BNB/BTC pair?","category":"blockchain_action"}
+{"prompt":"What's the WBTC/ETH ratio right now?","category":"blockchain_action"}
+{"prompt":"Any update on CRV/USDC price?","category":"blockchain_action"}
+{"prompt":"24h movement of LDO/ETH pair?","category":"blockchain_action"}
+{"prompt":"Check the current cost for LTC/ETH pair","category":"blockchain_action"}
+{"prompt":"SAND/MATIC pair price feed?","category":"blockchain_action"}
+{"prompt":"Need a quick quote on OP/USDC pair","category":"blockchain_action"}
+{"prompt":"What is the ratio for DOGE/BTC pair?","category":"blockchain_action"}
+{"prompt":"Give me an update on TRX/USDT pair price","category":"blockchain_action"}
+{"prompt":"What's the APE/ETH pair trading at?","category":"blockchain_action"}
+{"prompt":"Any info on LUNC/USTC price?","category":"blockchain_action"}
+{"prompt":"Need the last known quote for NEAR/USDT?","category":"blockchain_action"}
+{"prompt":"Check the stable ratio for USDT/USDC pair?","category":"blockchain_action"}
+{"prompt":"What's the BUSD/DAI ratio?","category":"blockchain_action"}
+{"prompt":"Show me the 1-day chart for LINK/MATIC pair","category":"blockchain_action"}
+{"prompt":"Price difference for COMP/ETH in 24h?","category":"blockchain_action"}
+{"prompt":"Give me the exchange rate for RUNE/ETH now","category":"blockchain_action"}
+{"prompt":"I want the BNB/USDT pair price feed","category":"blockchain_action"}
+{"prompt":"What's the ratio for WBTC/BTC at the moment?","category":"blockchain_action"}
+{"prompt":"Show me the movement in SUSHI/USDC price","category":"blockchain_action"}
+{"prompt":"Any slippage data for AAVE/DAI pair?","category":"blockchain_action"}
+{"prompt":"Check price for ARB/ETH pair","category":"blockchain_action"}
+{"prompt":"What's the cost for GRT/USDC pair?","category":"blockchain_action"}
+{"prompt":"Show the ratio for DAI/FRAX stable pair","category":"blockchain_action"}
+{"prompt":"What's the best aggregator cost for UNI/ETH?","category":"blockchain_action"}
+{"prompt":"Check if DOGE/SHIB pair has any volume?","category":"blockchain_action"}
+{"prompt":"Pair price for SAND/WETH?","category":"blockchain_action"}
+{"prompt":"What's the LDO/StETH ratio now?","category":"blockchain_action"}
+{"prompt":"Check the price of CRV/cDAI if any?","category":"blockchain_action"}
+{"prompt":"Need a quick ratio on MATIC/WETH","category":"blockchain_action"}
+{"prompt":"What's the last known LUNA/USTC pair cost?","category":"blockchain_action"}
+{"prompt":"What is the going rate for XRP/ADA right now?","category":"blockchain_action"}
+{"prompt":"Check the spot price of BCH/XMR pair, please","category":"blockchain_action"}
+{"prompt":"Need the feed for ETC/ZEC cost currently","category":"blockchain_action"}
+{"prompt":"What is the ratio for FIL/HT tokens?","category":"blockchain_action"}
+{"prompt":"Any updates on 1INCH/ENJ price feed?","category":"blockchain_action"}
+{"prompt":"Check the BTT/RSR pair cost, please","category":"blockchain_action"}
+{"prompt":"Show me the live ratio for SNX/DASH pair","category":"blockchain_action"}
+{"prompt":"How much is DENT/ZIL trading at these days?","category":"blockchain_action"}
+{"prompt":"Fetch the quote for EOS/HBAR pair cost now","category":"blockchain_action"}
+{"prompt":"What's the present price of KNC/ANKR pair?","category":"blockchain_action"}
+{"prompt":"Give me the updated cost of LRC/AMP ratio","category":"blockchain_action"}
+{"prompt":"Any price feed for XYM/SNT pair?","category":"blockchain_action"}
+{"prompt":"Check the real-time valuation of STEEM/HIVE pair","category":"blockchain_action"}
+{"prompt":"What's the cost difference between CHR/MOVR?","category":"blockchain_action"}
+{"prompt":"How is ALICE/CELR pair performing right now?","category":"blockchain_action"}
+{"prompt":"Need the ratio for TLM/AUDIO tokens","category":"blockchain_action"}
+{"prompt":"Show me the 24h cost for QNT/IDEX pair","category":"blockchain_action"}
+{"prompt":"What's the last known exchange rate for CAW/RARI?","category":"blockchain_action"}
+{"prompt":"Please check the spot ratio of UMA/ALCX pair","category":"blockchain_action"}
+{"prompt":"Any latest quote on IRON/DGD pair cost?","category":"blockchain_action"}
+{"prompt":"Check how FLM/REQ ratio stands right now","category":"blockchain_action"}
+{"prompt":"What's the BNX/ACH pair worth in the market?","category":"blockchain_action"}
+{"prompt":"Let me see the updated cost for GALA/TVK pair","category":"blockchain_action"}
+{"prompt":"Any price feed on STMX/DUSK ratio?","category":"blockchain_action"}
+{"prompt":"Fetch the live cost of OGN/LAZIO pair, please","category":"blockchain_action"}
+{"prompt":"What's the PSG/CITY ratio at the moment?","category":"blockchain_action"}
+{"prompt":"Show me the price difference in ACM/PSG pair?","category":"blockchain_action"}
+{"prompt":"Need the stable ratio for APE/XLM if it exists?","category":"blockchain_action"}
+{"prompt":"What is the direct feed for LUNC/UST?","category":"blockchain_action"}
+{"prompt":"Check the cost of TWT/ETC pair, please","category":"blockchain_action"}
+{"prompt":"Any known ratio for DOGE/AMP now?","category":"blockchain_action"}
+{"prompt":"Let me see how LTC/WBTC pair is priced","category":"blockchain_action"}
+{"prompt":"Could you show me the price for ARB/TRX pair?","category":"blockchain_action"}
+{"prompt":"I want the cost for BUSD/FTT ratio now","category":"blockchain_action"}
+{"prompt":"Give me the 12h chart cost for SNT/CVC pair","category":"blockchain_action"}
+{"prompt":"What's the market feed for STEEM/EOS ratio?","category":"blockchain_action"}
+{"prompt":"Show me how REQ/BNX pair is performing","category":"blockchain_action"}
+{"prompt":"What is the updated quote for ZEC/XMR?","category":"blockchain_action"}
+{"prompt":"Check the cost difference in BCH/DOGE pair","category":"blockchain_action"}
+{"prompt":"Need a quick ratio for BTT/SNX?","category":"blockchain_action"}
+{"prompt":"Please display the cost of LRC/SUSHI pair now","category":"blockchain_action"}
+{"prompt":"Any feed on CHR/ALICE pair valuation?","category":"blockchain_action"}
+{"prompt":"Is the CELR/HIVE ratio stable? Show me the price","category":"blockchain_action"}
+{"prompt":"What is the WETH/DAI ratio at this moment?","category":"blockchain_action"}
+{"prompt":"Check the aggregator cost for USDC/TUSD pair","category":"blockchain_action"}
+{"prompt":"Need the 24h movement in USDT/cUSDC pair?","category":"blockchain_action"}
+{"prompt":"Give me the updated MANA/ALGO pair feed please","category":"blockchain_action"}
+{"prompt":"What's the real-time ratio for XTZ/NEAR pair?","category":"blockchain_action"}
+{"prompt":"Check how KSM/RMRK pair is doing cost-wise","category":"blockchain_action"}
+{"prompt":"Need a quick quote for GRT/BAL pair?","category":"blockchain_action"}
+{"prompt":"What's the last known price feed for ARB/SOL pair?","category":"blockchain_action"}
+{"prompt":"Show me the cost trend in DOGE/BCH pair","category":"blockchain_action"}
+{"prompt":"Any ratio for CHZ/ENJ at the moment?","category":"blockchain_action"}
+{"prompt":"Check the stable ratio for USDC/FRAX pair please","category":"blockchain_action"}
+{"prompt":"Let me see the 1-day chart price for LDO/MKR pair","category":"blockchain_action"}
+{"prompt":"What's the quote for RUNE/FTM pair now?","category":"blockchain_action"}
+{"prompt":"Give me the real-time difference of CAKE/BAKE pair","category":"blockchain_action"}
+{"prompt":"Check the aggregator feed for XDC/OKB cost","category":"blockchain_action"}
+{"prompt":"Any info on the swap ratio for AAVE/RAY?","category":"blockchain_action"}
+{"prompt":"Need to see how OP/SOL is priced currently","category":"blockchain_action"}
+{"prompt":"What's the ratio for SUSHI/SNX in today's market?","category":"blockchain_action"}
+{"prompt":"Show me the cost feed for DOGE/SHIB pair if available","category":"blockchain_action"}
+
+{"prompt":"What's the highest APY for USDT pairs on Polygon?","category":"blockchain_action"}
+{"prompt":"Check volume in 24h for ETH/USDC on Uniswap?","category":"blockchain_action"}
+{"prompt":"Check volume in 24h for ETH-USDC on Uniswap?","category":"blockchain_action"}
+{"prompt":"Check volume in 72h for WBTC-ETH-USDC on Uniswap?","category":"blockchain_action"}
+{"prompt":"Which pairs on Sushi have best yields on BNB chain?","category":"blockchain_action"}
+{"prompt":"I want to see volume in 24h and 7d for best performing pairs on Uniswap v3","category":"blockchain_action"}
+{"prompt":"Show me any pairs with stable yield on Aave for DAI?","category":"blockchain_action"}
+{"prompt":"What's the highest APY for WBTC pairs on Ethereum?","category":"blockchain_action"}
+{"prompt":"Check the 24h liquidity for MATIC/USDC pair on Uniswap?","category":"blockchain_action"}
+{"prompt":"Any pairs with guaranteed yield for stablecoins?","category":"blockchain_action"}
+{"prompt":"What is the best yield farming pair for SUSHI on Polygon?","category":"blockchain_action"}
+{"prompt":"Where can I find the best APY for DOGE pairs?","category":"blockchain_action"}
+{"prompt":"Volume in 24h for the best performing pairs on PancakeSwap?","category":"blockchain_action"}
+{"prompt":"I want to see the top 3 pairs by liquidity for USDT on Ethereum","category":"blockchain_action"}
+{"prompt":"Find me a pair that yields stable 10% APY on BSC?","category":"blockchain_action"}
+{"prompt":"Which pair offers highest fees on Uniswap v3 for ETH?","category":"blockchain_action"}
+{"prompt":"Check the 7d volume for CRV/ETH pairs on Arbitrum?","category":"blockchain_action"}
+{"prompt":"Any recommended pair to farm stables on Polygon?","category":"blockchain_action"}
+{"prompt":"List the best performing pairs on Movement Labs?","category":"blockchain_action"}
+{"prompt":"I want the top yield pair for OP token on mainnet","category":"blockchain_action"}
+{"prompt":"Which stable pair on BNB has the highest 24h APY?","category":"blockchain_action"}
+{"prompt":"Show me pairs with the best volume in last 12h?","category":"blockchain_action"}
+{"prompt":"Any cross-chain aggregator for pairs with best yields?","category":"blockchain_action"}
+{"prompt":"What's the daily volume of LUNC/USTC pairs?","category":"blockchain_action"}
+{"prompt":"Check the stats for LSD pairs with highest rewards?","category":"blockchain_action"}
+{"prompt":"Which pairs are trending on Sushi for stable LP?","category":"blockchain_action"}
+{"prompt":"I like to know best yields based on my wallet on Polygon?","category":"blockchain_action"}
+{"prompt":"Volume in 24h for USDC/ETH on Uniswap v2 or v3?","category":"blockchain_action"}
+{"prompt":"Need top 5 pairs by liquidity on Movement Labs?","category":"blockchain_action"}
+{"prompt":"Check if there's a stable pair for ALGO with APY > 5%?","category":"blockchain_action"}
+{"prompt":"What's the highest APR pair on Aave for stTokens?","category":"blockchain_action"}
+{"prompt":"Which pairs are recommended for bridging stable yields?","category":"blockchain_action"}
+{"prompt":"Show me the top 7d volume pairs on Cronos chain?","category":"blockchain_action"}
+{"prompt":"What's the biggest volume pair on Quickswap for MATIC?","category":"blockchain_action"}
+{"prompt":"Any pairs with 0.3% fee that yield best on Uniswap?","category":"blockchain_action"}
+{"prompt":"Which new pairs are launching on Movement DEX?","category":"blockchain_action"}
+{"prompt":"Check 24h volume on LSD/ETH pairs on mainnet?","category":"blockchain_action"}
+{"prompt":"Look up best stable-stable pairs for farming?","category":"blockchain_action"}
+{"prompt":"Highest APY for LSD pairs on Ethereum?","category":"blockchain_action"}
+{"prompt":"Top yields for stMATIC pairs?","category":"blockchain_action"}
+{"prompt":"Which pairs on Balancer have the best stable yields?","category":"blockchain_action"}
+{"prompt":"Show me the 24h liquidity for BCH/ETH pairs on Uniswap?","category":"blockchain_action"}
+{"prompt":"Any top volume pairs featuring DOGE on Binance Smart Chain?","category":"blockchain_action"}
+{"prompt":"Which pairs have the highest APY on PancakeSwap for ADA?","category":"blockchain_action"}
+{"prompt":"I need 7d volume stats on ETH/LINK pairs across protocols","category":"blockchain_action"}
+{"prompt":"Check if any impermanent loss on ALGO/USDC stable pairs?","category":"blockchain_action"}
+{"prompt":"List best performing LTC/BCH pairs by volume in the last 24h","category":"blockchain_action"}
+{"prompt":"Any trending stablecoin pairs on Cronos with good yields?","category":"blockchain_action"}
+{"prompt":"Which new pairs have launched on QuickSwap for MATIC tokens?","category":"blockchain_action"}
+{"prompt":"Find me top 5 ARB/ETH pairs by liquidity across Arbitrum?","category":"blockchain_action"}
+{"prompt":"What's the best APY for BNB-based pairs on Sushi?","category":"blockchain_action"}
+{"prompt":"Check stable yield pairs for DOGE on ShibaSwap if any?","category":"blockchain_action"}
+{"prompt":"I want to see the top pairs by total TVL for USDT on Tron","category":"blockchain_action"}
+{"prompt":"Which pairs are hot on Avalanche with best 24h volumes?","category":"blockchain_action"}
+{"prompt":"Show me best liquidity pairs for DAI on Ethereum mainnet","category":"blockchain_action"}
+{"prompt":"Are there any LSD pairs with consistent yield on Lido?","category":"blockchain_action"}
+{"prompt":"Need top performing pairs for WBTC with minimal slippage?","category":"blockchain_action"}
+{"prompt":"Which stable pairs on Arbitrum have the highest daily volume?","category":"blockchain_action"}
+{"prompt":"Check the best performing cross-chain pairs for USDC?","category":"blockchain_action"}
+{"prompt":"Which stable LP pairs on Uniswap v3 are recommended for low risk?","category":"blockchain_action"}
+{"prompt":"Show me any pair with high APR for APE on Ethereum?","category":"blockchain_action"}
+{"prompt":"Where can I find best yield for LTC/USDT pairs?","category":"blockchain_action"}
+{"prompt":"Check 72h volume for RUNE/ETH pairs on mainnet?","category":"blockchain_action"}
+{"prompt":"Any aggregator info on top yield pairs for MATIC?","category":"blockchain_action"}
+{"prompt":"Which pairs on Sushi BSC are giving good APY for stables?","category":"blockchain_action"}
+{"prompt":"List the best performing LSD/ETH pairs in last 24h","category":"blockchain_action"}
+{"prompt":"Any recommendation for bridging stable pairs with good returns?","category":"blockchain_action"}
+{"prompt":"What's the highest volume pair for SNX on Optimism?","category":"blockchain_action"}
+{"prompt":"Which stable pair on Avalanche is showing 10% yield?","category":"blockchain_action"}
+{"prompt":"I want top 3 pairs by volume for DOGE on Movement Labs","category":"blockchain_action"}
+{"prompt":"Do we have a stable-stable pair with no impermanent loss on Arbitrum?","category":"blockchain_action"}
+{"prompt":"Check the 7-day stats for SOL/USDC pairs on Raydium?","category":"blockchain_action"}
+{"prompt":"Any recommended LSD pairs for cross-chain bridging?","category":"blockchain_action"}
+{"prompt":"Which new pairs are launching on Cronos with decent liquidity?","category":"blockchain_action"}
+{"prompt":"Show me any pegged stable pairs for GUSD or TUSD?","category":"blockchain_action"}
+{"prompt":"Look up best stETH pairs for yield farming on Lido?","category":"blockchain_action"}
+{"prompt":"Any data on LSD/stable pairs with minimal volatility?","category":"blockchain_action"}
+{"prompt":"Which pairs on Polygon have the highest APY for bridging stables?","category":"blockchain_action"}
+{"prompt":"What are the top 5 pairs by liquidity for FRAX on mainnet?","category":"blockchain_action"}
+{"prompt":"Check the daily volume of CRV pools that pair with USDC?","category":"blockchain_action"}
+{"prompt":"Any recommended liquidity pairs for FARM tokens?","category":"blockchain_action"}
+{"prompt":"Which pairs on Fantom are trending with highest yields?","category":"blockchain_action"}
+{"prompt":"Could you find the best LSD/USDT pairs across aggregator DEXes?","category":"blockchain_action"}
+{"prompt":"List stable pairs for sUSD on Optimism with solid APY?","category":"blockchain_action"}
+{"prompt":"Any 14d volume stats for top bridging pairs on BNB chain?","category":"blockchain_action"}
+{"prompt":"Show me best stable LP pairs for minimal impermanent loss on Arbitrum?","category":"blockchain_action"}
+{"prompt":"Which pairs on Movement DEX rank highest in 24h volumes?","category":"blockchain_action"}
+{"prompt":"Look up LSD pairs on mainnet that have consistent yield?","category":"blockchain_action"}
+{"prompt":"Any best APR pairs for bridging from Tron to Ethereum?","category":"blockchain_action"}
+{"prompt":"Where can I see top volume pairs for OP token on Uniswap v3?","category":"blockchain_action"}
+{"prompt":"Is there a stable pair with near 0.1% fee on Sushi?","category":"blockchain_action"}
+{"prompt":"Which LSD/stable pairs offer a 5% yield or higher?","category":"blockchain_action"}
+{"prompt":"Check 24h volume for UNI/ETH pairs on major DEXes?","category":"blockchain_action"}
+{"prompt":"Any pairs recommended for safe staking of DOGE and LTC?","category":"blockchain_action"}
+{"prompt":"Which bridging aggregator shows top stablecoin pairs?","category":"blockchain_action"}
+{"prompt":"Need the best 7d yield pairs for stNEAR tokens?","category":"blockchain_action"}
+{"prompt":"Where can I see the top 3 stable yield pairs for DAI on Arbitrum?","category":"blockchain_action"}
+{"prompt":"Which LSD pairs are trending on mainnet with best volume?","category":"blockchain_action"}
+{"prompt":"Show me a stable pair with 0.05% fees on Uniswap v3?","category":"blockchain_action"}
+{"prompt":"Any top tier pairs for MATIC with minimal slippage on QuickSwap?","category":"blockchain_action"}
+{"prompt":"Which stable pairs have consistent APR on Cronos for bridging?","category":"blockchain_action"}
+{"prompt":"Check 24h volume for LSD/ETH pairs on Ethereum mainnet?","category":"blockchain_action"}
+
+{"prompt":"Swap 10 MOVE to USDC on Movement Labs","category":"blockchain_action"}
+{"prompt":"exchange 1000 USDT to ETH on Uniswap","category":"blockchain_action"}
+{"prompt":"trade 50 DAI for BTC quickly","category":"blockchain_action"}
+{"prompt":"Please swap 1.5 ETH to stETH","category":"blockchain_action"}
+{"prompt":"Convert 75 MATIC to USDC on Quickswap","category":"blockchain_action"}
+{"prompt":"I want to trade 2000 USDC for 1 ETH now","category":"blockchain_action"}
+{"prompt":"Swap 10.5 BNB to BUSD on PancakeSwap","category":"blockchain_action"}
+{"prompt":"Change 100 FTM to SUSHI","category":"blockchain_action"}
+{"prompt":"Trade 0.25 WBTC for 4 ETH on mainnet","category":"blockchain_action"}
+{"prompt":"Please convert 1 LTC to 0.02 BTC","category":"blockchain_action"}
+{"prompt":"I want to swap 1000 ALGO for 500 USDC","category":"blockchain_action"}
+{"prompt":"Trade 7.3 LINK to 0.1 ETH on Uniswap v3","category":"blockchain_action"}
+{"prompt":"Convert 900 DAI to 0.9 WBTC","category":"blockchain_action"}
+{"prompt":"Trade 88 AVAX for 200 MATIC on Pangolin","category":"blockchain_action"}
+{"prompt":"Swap 123 SOL to BNB on some aggregator","category":"blockchain_action"}
+{"prompt":"Exchange 3.5 NEAR to 200 SUSHI tokens","category":"blockchain_action"}
+{"prompt":"Swap 10,000 USDT to OP token on Uniswap","category":"blockchain_action"}
+{"prompt":"Trade 999 USDC for 0.7 WETH please","category":"blockchain_action"}
+{"prompt":"Convert 20 APE tokens to 0.01 ETH","category":"blockchain_action"}
+{"prompt":"Swap 5 LTC to 1.2 BNB, do it now","category":"blockchain_action"}
+{"prompt":"I want to trade 77 ARB for 0.5 ETH","category":"blockchain_action"}
+{"prompt":"Convert 600 USDT to 0.3 LUNC if possible","category":"blockchain_action"}
+{"prompt":"Trade 123 FRAX to 120 USDC stable swap","category":"blockchain_action"}
+{"prompt":"Swap 45 CRV to 0.02 ETH on mainnet","category":"blockchain_action"}
+{"prompt":"Change 1000 DAI to 950 BUSD on BNB chain","category":"blockchain_action"}
+{"prompt":"Trade 150 MANA for 10 ALGO?","category":"blockchain_action"}
+{"prompt":"Exchange 888.9 TRX to 2.3 DOGE","category":"blockchain_action"}
+{"prompt":"Swap 47 SAND to 1.1 NEAR tokens","category":"blockchain_action"}
+{"prompt":"Trade 0.5 ETH for 4000 MOVE on Movement Labs","category":"blockchain_action"}
+{"prompt":"Convert 250 USDT to 1 ARB if possible","category":"blockchain_action"}
+{"prompt":"I want to trade 100 BAL for 0.05 BTC","category":"blockchain_action"}
+{"prompt":"Swap 3000 USDC to 2.2 ETH on aggregator","category":"blockchain_action"}
+{"prompt":"Exchange 400 USDT to stMATIC tokens","category":"blockchain_action"}
+{"prompt":"Trade 90 DAI for 3.3 RUNE please","category":"blockchain_action"}
+{"prompt":"Swap 10 stETH to normal ETH on Lido?","category":"blockchain_action"}
+{"prompt":"Convert 500 TUSD to 0.4 BNB","category":"blockchain_action"}
+{"prompt":"Trade 123.45 FRAX to 120 USDT stable swap","category":"blockchain_action"}
+{"prompt":"Swap 0.25 XMR for 0.003 BTC on some aggregator","category":"blockchain_action"}
+{"prompt":"Trade 50 XRP to 20 ADA tokens now","category":"blockchain_action"}
+{"prompt":"Please exchange 100 DOGE to 2.5 LTC quickly","category":"blockchain_action"}
+{"prompt":"I want to convert 0.1 BCH into 0.08 BNB","category":"blockchain_action"}
+{"prompt":"Swap 5 ZEC for 1.5 ETC on a DEX","category":"blockchain_action"}
+{"prompt":"Exchange 1000 XLM to 30 FIL tokens","category":"blockchain_action"}
+{"prompt":"Trade 7.77 TRX for 0.0015 BTC right now","category":"blockchain_action"}
+{"prompt":"Convert 20 CAKE into 10 BAKE on BSC","category":"blockchain_action"}
+{"prompt":"Swap 2.2 HT for 2.5 ENJ tokens, please","category":"blockchain_action"}
+{"prompt":"I want to trade 150 SNX for 3 AAVE tokens","category":"blockchain_action"}
+{"prompt":"Exchange 0.5 NEAR to 5 AUDIO on aggregator","category":"blockchain_action"}
+{"prompt":"Swap 33 TWT for 0.01 ETH on a bridging DEX","category":"blockchain_action"}
+{"prompt":"Could you convert 18 SNT to 1 ZIL now?","category":"blockchain_action"}
+{"prompt":"Trade 25.5 AMP for 0.0005 BTC on mainnet","category":"blockchain_action"}
+{"prompt":"Swap 99 DENT for 0.1 BNB, please do it now","category":"blockchain_action"}
+{"prompt":"Convert 120 DOGE for 2.3 ADA on aggregator?","category":"blockchain_action"}
+{"prompt":"Exchange 45 XYM for 1.1 EOS tokens quickly","category":"blockchain_action"}
+{"prompt":"Swap 1.234 BTT to 0.0009 WBTC on Tron?","category":"blockchain_action"}
+{"prompt":"Trade 77 ETC to 12.5 XLM on mainnet","category":"blockchain_action"}
+{"prompt":"Convert 0.6 LRC to 0.0001 BTC on a low-fee DEX","category":"blockchain_action"}
+{"prompt":"Please swap 10,000 SHIB for 0.005 ETH now","category":"blockchain_action"}
+{"prompt":"Change 5 FIL into 2.2 ALGO if possible","category":"blockchain_action"}
+{"prompt":"Exchange 0.55 ZEC for 1.3 XTZ on aggregator","category":"blockchain_action"}
+{"prompt":"Trade 9 GRT for 0.01 WETH, hurry!","category":"blockchain_action"}
+{"prompt":"Swap 33.3 FTT for 0.25 SOL, please","category":"blockchain_action"}
+{"prompt":"Convert 1000 ATOM into 0.13 ETH on mainnet","category":"blockchain_action"}
+{"prompt":"Exchange 300 RUNE for 0.01 BTC?","category":"blockchain_action"}
+{"prompt":"I want to trade 88 DOGE to 10 QNT tokens","category":"blockchain_action"}
+{"prompt":"Swap 55 HBAR to 0.03 BNB please","category":"blockchain_action"}
+{"prompt":"Convert 20 CHR to 2 AUDIO on aggregator?","category":"blockchain_action"}
+{"prompt":"Trade 44 LUNC for 1.1 USDC now","category":"blockchain_action"}
+{"prompt":"Please swap 70 ALCX to 0.07 ETH","category":"blockchain_action"}
+{"prompt":"Exchange 55 DENT to 0.1 OP token?","category":"blockchain_action"}
+{"prompt":"Swap 3 LDO for 2 APE tokens on Uniswap","category":"blockchain_action"}
+{"prompt":"Convert 0.02 BTC into 40 XRP immediately","category":"blockchain_action"}
+{"prompt":"Trade 2.3 BNB for 100 TWT on BSC aggregator","category":"blockchain_action"}
+{"prompt":"Swap 10 RSR for 5.5 ANKR tokens please","category":"blockchain_action"}
+{"prompt":"Change 500 DAI to 123 USDT stable swap","category":"blockchain_action"}
+{"prompt":"Exchange 0.8 XMR to 0.03 ETH now","category":"blockchain_action"}
+{"prompt":"Trade 10.1 ZIL for 0.05 BNB quickly","category":"blockchain_action"}
+{"prompt":"Please swap 12.34 MANA for 4 SAND","category":"blockchain_action"}
+{"prompt":"I want to convert 99 CHZ to 0.002 BTC","category":"blockchain_action"}
+{"prompt":"Swap 45.6 AAVE for 3 YFI on aggregator?","category":"blockchain_action"}
+{"prompt":"Exchange 10 KNC to 22 SUSHI tokens now","category":"blockchain_action"}
+{"prompt":"Trade 300 LRC for 1.5 UNI on mainnet","category":"blockchain_action"}
+{"prompt":"Convert 2.2 SOL to 0.1 BNB on a bridging DEX","category":"blockchain_action"}
+{"prompt":"Swap 1000 TWT for 1.2 LTC if possible","category":"blockchain_action"}
+{"prompt":"Trade 88.8 SNX for 4.4 LUNA on aggregator","category":"blockchain_action"}
+{"prompt":"Exchange 0.4 ETC to 0.02 BNB now","category":"blockchain_action"}
+{"prompt":"Swap 3 HIVE for 1.2 STEEM tokens quickly","category":"blockchain_action"}
+{"prompt":"Convert 0.22 WETH to 14 MATIC on Uniswap v3?","category":"blockchain_action"}
+{"prompt":"Trade 7 BUSD for 6.5 TUSD on BSC?","category":"blockchain_action"}
+{"prompt":"Please swap 55 NEAR to 0.02 BTC aggregator","category":"blockchain_action"}
+{"prompt":"Change 10 CHR into 25 DENT tokens now","category":"blockchain_action"}
+{"prompt":"I want to exchange 66 DOGE for 99 SHIB tokens","category":"blockchain_action"}
+{"prompt":"Swap 12.5 GLMR to 0.001 BTC, do it now","category":"blockchain_action"}
+{"prompt":"Convert 78.9 AUDIO to 0.5 ALCX on aggregator","category":"blockchain_action"}
+{"prompt":"Trade 3 BNB for 450 DOGE quickly, please","category":"blockchain_action"}
+{"prompt":"Swap 100 USDC to 2.5 AR on some aggregator?","category":"blockchain_action"}
+{"prompt":"Exchange 200 TUSD for 201 USDT stable swap","category":"blockchain_action"}
+{"prompt":"Convert 15 EOS to 0.01 ETC, if possible","category":"blockchain_action"}
+{"prompt":"Trade 6 XTZ for 2.2 LRC on mainnet aggregator","category":"blockchain_action"}
+
+{"prompt":"Send 190 USDT to 0xs91208239","category":"blockchain_action"}
+{"prompt":"Pay 483 USDX to dillion.eth","category":"blockchain_action"}
+{"prompt":"Transfer 19000 USDC to 0xdfxsdasd addy","category":"blockchain_action"}
+{"prompt":"Send 0.3 ETH to vitalik.eth domain","category":"blockchain_action"}
+{"prompt":"Give 700 USDT to my friend at 0xabc... address","category":"blockchain_action"}
+{"prompt":"Transfer 1.5 BNB to 0xdef... on BSC chain","category":"blockchain_action"}
+{"prompt":"I'd like to pay 500 USDC to 0x111222333, right now","category":"blockchain_action"}
+{"prompt":"Send 250 MATIC to that external address","category":"blockchain_action"}
+{"prompt":"Please move 1000 DAI to 0xyz address?","category":"blockchain_action"}
+{"prompt":"Send 19 AVAX to my hardware wallet address","category":"blockchain_action"}
+{"prompt":"Transfer 100 SUSHI to my friend's domain?","category":"blockchain_action"}
+{"prompt":"I want to pay 7.77 DOGE to 0xbcd address","category":"blockchain_action"}
+{"prompt":"Send 20000 MOVE tokens to 0x9abc on Movement","category":"blockchain_action"}
+{"prompt":"Please transfer 10.5 ARB to 0x444a account","category":"blockchain_action"}
+{"prompt":"Give 2 ETH to my friend's hardware ledger address","category":"blockchain_action"}
+{"prompt":"Pay 500.25 cUSDC to 0xf000... metamask address","category":"blockchain_action"}
+{"prompt":"Transfer 99 SAND to 0xb7c domain?","category":"blockchain_action"}
+{"prompt":"Send 33 CAKE tokens to my buddy's BNB address","category":"blockchain_action"}
+{"prompt":"I want to move 0.8 WBTC to 0x987abc address","category":"blockchain_action"}
+{"prompt":"Pay 50 LUNC to 0xdEAd address if possible","category":"blockchain_action"}
+{"prompt":"Send 123 TRX to 0x0001 on Tron chain?","category":"blockchain_action"}
+{"prompt":"Transfer 888.88 USDT to coworker at 0xabc?","category":"blockchain_action"}
+{"prompt":"Please pay 0.05 ETH to my unstoppable domain","category":"blockchain_action"}
+{"prompt":"Move 2.3 BNB to 0xFFF, what's the fee?","category":"blockchain_action"}
+{"prompt":"Send 70 OP tokens to 0xopop mainnet address","category":"blockchain_action"}
+{"prompt":"I'd like to gift 5 LTC to that LTC address?","category":"blockchain_action"}
+{"prompt":"Transfer 300 DAI to 0xddef aggregator?","category":"blockchain_action"}
+{"prompt":"Pay 600 USDC to metamask user 0xcat...","category":"blockchain_action"}
+{"prompt":"Send 12 MANA to 0xland address?","category":"blockchain_action"}
+{"prompt":"Give 7777 DOGE to my sibling's address?","category":"blockchain_action"}
+{"prompt":"Move 1 ARB to 0xa1b2 ledger address?","category":"blockchain_action"}
+{"prompt":"Transfer 0.99 ETH to 0xaaaa domain?","category":"blockchain_action"}
+{"prompt":"Send 222 APE tokens to 0xape on mainnet","category":"blockchain_action"}
+{"prompt":"Pay 333 ALGO to 0x algo address bridging?","category":"blockchain_action"}
+{"prompt":"Transfer 10 stMATIC to me?","category":"blockchain_action"}
+{"prompt":"Send 123 USDT to friend on base chain?","category":"blockchain_action"}
+{"prompt":"Remit 0.8 BTC to 0xbcd123 address please","category":"blockchain_action"}
+{"prompt":"Pay 1.2 LTC to my cousin's ledger at 0xdef000","category":"blockchain_action"}
+{"prompt":"Transfer 77 XLM to 0xabc111 domain now","category":"blockchain_action"}
+{"prompt":"I'd like to send 50 ZEC to the unstoppable domain zec.me","category":"blockchain_action"}
+{"prompt":"Move 10 DOGE to my hardware wallet at 0x098abc","category":"blockchain_action"}
+{"prompt":"Send 5.5 BNB to friend on BSC, address 0x111bbb","category":"blockchain_action"}
+{"prompt":"Please gift 0.02 BTC to coworker at 0x001xyz","category":"blockchain_action"}
+{"prompt":"Remit 33 ADA to 0xf22 domain on Cardano?","category":"blockchain_action"}
+{"prompt":"I'd like to pay 7 ETH to vitalikENS for gas fees","category":"blockchain_action"}
+{"prompt":"Send 99 TRX to my Tron address 0xtt12?","category":"blockchain_action"}
+{"prompt":"Transfer 123 DOGE to dogeAddress, do it now","category":"blockchain_action"}
+{"prompt":"Pay 11.11 ALGO to 0xalg0 domain?","category":"blockchain_action"}
+{"prompt":"Give 50 AVAX to my sibling's wallet at 0xddd999","category":"blockchain_action"}
+{"prompt":"Move 20.2 XMR to 0xmonero domain, if possible","category":"blockchain_action"}
+{"prompt":"I'd like to send 0.1 BCH to 0xbcch address quickly","category":"blockchain_action"}
+{"prompt":"Transfer 14 SNT to 0xsnt vault, please","category":"blockchain_action"}
+{"prompt":"Please pay 2.5 LRC to 0xlrc address on mainnet","category":"blockchain_action"}
+{"prompt":"Send 40.5 KNC to 0xknc domain on aggregator","category":"blockchain_action"}
+{"prompt":"Move 1.25 AAVE to my ledger device at 0xaa88","category":"blockchain_action"}
+{"prompt":"Gift 77 CHZ tokens to 0xchz123 address now","category":"blockchain_action"}
+{"prompt":"I'd like to pay 0.05 ETH to 0xmilk domain?","category":"blockchain_action"}
+{"prompt":"Remit 200 TWT to trustwallet user at 0xtwt999","category":"blockchain_action"}
+{"prompt":"Send 0.09 ETC to 0xETC domain if possible","category":"blockchain_action"}
+{"prompt":"Please transfer 50 LUNA to 0xlun4 chain address","category":"blockchain_action"}
+{"prompt":"Move 88.8 SHIB to 0xshibbuddy wallet now","category":"blockchain_action"}
+{"prompt":"I'd like to tip 0.01 BTC to that LN address, if feasible","category":"blockchain_action"}
+{"prompt":"Pay 27 RSR tokens to 0xrsr domain quickly","category":"blockchain_action"}
+{"prompt":"Transfer 999 CVC to my friend's address at 0x222c","category":"blockchain_action"}
+{"prompt":"Send 123 MANA to 0xman4 domain for me?","category":"blockchain_action"}
+{"prompt":"Gift 2.22 BUSD to 0xbnb1 for a birthday present","category":"blockchain_action"}
+{"prompt":"I'd like to pay 55 SAND to a metaverse address 0xsandish","category":"blockchain_action"}
+{"prompt":"Move 1 UNI to 0xuniswap domain now","category":"blockchain_action"}
+{"prompt":"Remit 12 YFI tokens to my buddy's address 0xyfi888","category":"blockchain_action"}
+{"prompt":"Send 30 OP to 0xoptim domain quickly, please","category":"blockchain_action"}
+{"prompt":"Transfer 8.8 CRV to 0xcurv domain on mainnet","category":"blockchain_action"}
+{"prompt":"Pay 17.5 FTT to 0xfft address if it's valid?","category":"blockchain_action"}
+{"prompt":"I'd like to move 10 GRT to 0xgraph address now","category":"blockchain_action"}
+{"prompt":"Please send 0.66 KSM to 0xkus111 on Kusama chain","category":"blockchain_action"}
+{"prompt":"Give 77 NEAR to 0xnearbuddy domain?","category":"blockchain_action"}
+{"prompt":"Transfer 5 RBC to 0xrbc address right away","category":"blockchain_action"}
+{"prompt":"Send 1.234 PKEX to 0xPK aggregator domain?","category":"blockchain_action"}
+{"prompt":"I'd like to pay 0.4 MKR to 0xmkr address, do it now","category":"blockchain_action"}
+{"prompt":"Remit 0.07 BTM to 0xbtm domain, if possible","category":"blockchain_action"}
+{"prompt":"Please move 50 IQ tokens to 0xiq domain quickly","category":"blockchain_action"}
+{"prompt":"Send 23 AUDIO to 0xaud domain?","category":"blockchain_action"}
+{"prompt":"Gift 0.05 DGD to 0xdgd1 address for a friend","category":"blockchain_action"}
+{"prompt":"Transfer 7 GALA to 0xgala domain right now","category":"blockchain_action"}
+{"prompt":"I'd like to pay 0.33 HIVE to 0xhive mainnet address","category":"blockchain_action"}
+{"prompt":"Move 0.99 WAVES to 0xwav domain, please","category":"blockchain_action"}
+{"prompt":"Send 3 OGN to 0xOrigin address if feasible","category":"blockchain_action"}
+{"prompt":"Remit 0.45 ALCX to 0xalc domain now","category":"blockchain_action"}
+{"prompt":"I'd like to give 5000 SHIB to 0xshbuddy address","category":"blockchain_action"}
+{"prompt":"Please pay 1.25 LPT to 0xlpt domain or aggregator","category":"blockchain_action"}
+{"prompt":"Transfer 9 AMPL to 0xampl address quickly","category":"blockchain_action"}
+{"prompt":"Move 0.44 STMX to 0xstmx domain wallet","category":"blockchain_action"}
+{"prompt":"Send 6.7 WEMIX to 0xwe domain on mainnet","category":"blockchain_action"}
+{"prompt":"I'd like to gift 5.55 OGN to 0xogbuddy address?","category":"blockchain_action"}
+{"prompt":"Pay 10 ENS to my unstoppable domain 0xens me","category":"blockchain_action"}
+{"prompt":"Send 100 TLM tokens to 0xtlm user now","category":"blockchain_action"}
+{"prompt":"Transfer 15.5 ALICE to 0xalice friend address?","category":"blockchain_action"}
+{"prompt":"I'd like to move 0.3 OCEAN to 0xocean domain quickly","category":"blockchain_action"}
+{"prompt":"Give 88 FTM to friend at 0xftbuddy domain?","category":"blockchain_action"}
+
+{"prompt":"Bridge 19000 USDC to Ethereum chain","category":"blockchain_action"}
+{"prompt":"I want to send 80000 USDT on Polygon to Ethereum","category":"blockchain_action"}
+{"prompt":"Help me send 8000 MOVE from Movement to Ethereum","category":"blockchain_action"}
+{"prompt":"Bridge 0.5 WBTC from BTC chain to Ethereum if possible","category":"blockchain_action"}
+{"prompt":"Cross-chain transfer 100 USDT from BNB to Arbitrum?","category":"blockchain_action"}
+{"prompt":"I want to move 200 MATIC from Polygon to mainnet","category":"blockchain_action"}
+{"prompt":"Bridge 10 AVAX to Ethereum for me","category":"blockchain_action"}
+{"prompt":"Send 50 DAI from Arbitrum to Polygon chain","category":"blockchain_action"}
+{"prompt":"Cross over 5.5 ETH from mainnet to zkSync?","category":"blockchain_action"}
+{"prompt":"Swap chain for 77 USDC from BSC to Avalanche","category":"blockchain_action"}
+{"prompt":"I want to do a cross-chain bridge of 45 SUSHI to Fantom","category":"blockchain_action"}
+{"prompt":"Move 100 stETH from L2 to main Ethereum","category":"blockchain_action"}
+{"prompt":"Bridge 2000 DOGE from DOGE chain to BNB chain?","category":"blockchain_action"}
+{"prompt":"Can I cross-swap 1.2 LTC from LTC chain to Ethereum?","category":"blockchain_action"}
+{"prompt":"Send 99 ARB from Arbitrum to Polygon?","category":"blockchain_action"}
+{"prompt":"I want to bridging 88 OP from Optimism to Ethereum?","category":"blockchain_action"}
+{"prompt":"Cross chain 20 BNB from BSC to Cronos?","category":"blockchain_action"}
+{"prompt":"Please move 5.5 NEAR from NEAR chain to Aurora?","category":"blockchain_action"}
+{"prompt":"Transfer 300 USDC from Movement to Ethereum?","category":"blockchain_action"}
+{"prompt":"Bridge 7.7 MATIC from Polygon to Movement chain","category":"blockchain_action"}
+{"prompt":"Send 11.11 AVAX from Avalanche to Arbitrum?","category":"blockchain_action"}
+{"prompt":"Cross transfer 100 cUSDT from CELO to Ethereum?","category":"blockchain_action"}
+{"prompt":"Bridge 1000 CRV from Ethereum to BNB chain?","category":"blockchain_action"}
+{"prompt":"I want to move 150 SAND from Polygon to mainnet","category":"blockchain_action"}
+{"prompt":"Take 0.02 WBTC from main chain to Arbitrum?","category":"blockchain_action"}
+{"prompt":"Please cross-bridge 99 DAI from Arbitrum to base chain?","category":"blockchain_action"}
+{"prompt":"Move 0.3 BNB from BSC to Tron chain if possible","category":"blockchain_action"}
+{"prompt":"Send 500 FRAX from mainnet to Avalanche?","category":"blockchain_action"}
+{"prompt":"Bridge 3 stMATIC from Polygon to Ethereum?","category":"blockchain_action"}
+{"prompt":"Cross chain move 50 OP from Optimism to BSC?","category":"blockchain_action"}
+{"prompt":"Take 12 stETH from mainnet to Arbitrum?","category":"blockchain_action"}
+{"prompt":"Send 800 USDT from Tron to Ethereum chain?","category":"blockchain_action"}
+{"prompt":"Bridge 1.5 ETH from mainnet to Movement chain","category":"blockchain_action"}
+{"prompt":"Cross-bridge 111 SUSHI from BSC to Polygon","category":"blockchain_action"}
+{"prompt":"Help me send 50.5 LINK from Ethereum to Arbitrum?","category":"blockchain_action"}
+{"prompt":"Move 0.2 BTC from main chain to WBTC on Ethereum","category":"blockchain_action"}
+{"prompt":"Transfer 200 USDC from Cronos to BSC chain?","category":"blockchain_action"}
+{"prompt":"Bridge 75 DOGE from DOGE chain to ETH chain?","category":"blockchain_action"}

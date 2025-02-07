@@ -1,0 +1,129 @@
+{
+  "changes": [
+    {
+      "prompt": "Based on my trading activity in 2024, how much do I owe in taxes?",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "token_price",
+          "new": "other"
+        }
+      }
+    },
+    {
+      "prompt": "Log into my Coinbase and pull all of my transactions to help me calculate my taxes",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "wallet_balance",
+          "new": "other"
+        }
+      }
+    },
+    {
+      "prompt": "Aggregate interest from Aave and Compound to check if it's taxable as ordinary income.",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "token_price",
+          "new": "other"
+        }
+      }
+    },
+    {
+      "prompt": "Submit a short face-liveness video to pass my proof-of-human NFT mint.",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "wallet_balance",
+          "new": "other"
+        }
+      }
+    },
+    {
+      "prompt": "Link my Amazon Prime membership to unlock a special discount NFT in synergy aggregator.",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "send",
+          "new": "other"
+        }
+      }
+    },
+    {
+      "prompt": "Add my LinkedIn job title credential so I can access a career-oriented investment pool.",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "wallet_balance",
+          "new": "other"
+        }
+      }
+    },
+    {
+      "prompt": "File an official complaint on-chain referencing my private data about a suspicious token freeze event.",
+      "category": "Blockchain Action Other",
+      "differences": {
+        "subdomain": {
+          "old": "wallet_balance",
+          "new": "other"
+        }
+      }
+    }
+  ],
+  "stats": {
+    "total_prompts": 404,
+    "matching_results": 397,
+    "different_results": 7,
+    "status_changes": 0,
+    "domain_changes": 0,
+    "category_changes": 0,
+    "confidence_changes": 0,
+    "subdomain_changes": 7,
+    "subdomain_stats": {
+      "wallet_balance": 8,
+      "trade": 20,
+      "none": 46,
+      "pair_price": 12,
+      "general": 92,
+      "token_query": 13,
+      "token_price": 21,
+      "send": 17,
+      "pair_query": 14,
+      "mighty": 2,
+      "partners": 8,
+      "cross_chain": 10,
+      "other": 7
+    },
+    "subdomain_percentages": {
+      "wallet_balance": 114.28571428571428,
+      "trade": 285.7142857142857,
+      "none": 657.1428571428571,
+      "pair_price": 171.42857142857142,
+      "general": 1314.2857142857142,
+      "token_query": 185.71428571428572,
+      "token_price": 300.0,
+      "send": 242.85714285714283,
+      "pair_query": 200.0,
+      "mighty": 28.57142857142857,
+      "partners": 114.28571428571428,
+      "cross_chain": 142.85714285714286,
+      "other": 100.0
+    },
+    "status_stats": {
+      "accepted": 270,
+      "rejected": 133,
+      "out_of_domain": 0
+    },
+    "status_percentages": {
+      "accepted": 3857.142857142857,
+      "rejected": 1900.0,
+      "out_of_domain": 0.0
+    }
+  },
+  "metadata": {
+    "new_file": "ft_unified_with_others_data_v6.1_20250114_004044.json",
+    "old_file": "ft_unified_with_others_data_v6.1_20250114_002208.json",
+    "timestamp": "2025-01-14T00:43:22.821455"
+  }
+}

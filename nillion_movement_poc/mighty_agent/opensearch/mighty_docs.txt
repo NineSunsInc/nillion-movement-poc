@@ -1,0 +1,207 @@
+Secure SuperConnector Stack for Agents: Agentic Permission Done Right
+Nine Suns Team
+Version 0.3 | January 28th, 2025
+Abstract
+Artificial intelligence (AI) is evolving from simple chatbots to fully agentic applications capable of context-driven decision-making. Simultaneously, advances in programmable cryptography (coined by 0xPARC)—including oblivious RAM, two-party computation, fully homomorphic encryption, and SNARKs—are reshaping how we secure and process private data. These innovations, paired with hardware improvements (GPU/TEE/secure enclaves) and growing data portability mandates (e.g., CCPA, GDPR), have laid the groundwork for autonomous AI agents to tap into a user’s entire digital footprint—without sacrificing sovereignty, privacy, or transparency.
+Yet the current landscape remains fragmented: we manually re-enter personal details across services, rely on antiquated permission models (e.g., OAuth tailored for human, not agentic interactions), and juggle siloed data in both Web2 and Web3. Mighty Network exists to unify these ecosystems with a SuperConnector Stack that enables secure, composable, and compliance-friendly data orchestration. Rather than “own” user data, Mighty empowers individuals to leverage it—on any device, in any environment—through cryptographically assured access controls. By bridging Web2 utility with Web3 sensibilities, Mighty paves the way for next-gen agentic services that can adapt to personal preferences, enforce compliance, and unlock seamless interoperability at scale.Introduction: The Road to an AI SuperConnector
+
+A Shifting AI Landscape and the Need for Data Fluidity
+
+AI has rapidly progressed from rudimentary rule-based bots to sophisticated agents that can make dynamic choices and learn from continual feedback. Whether it’s a consumer-facing service recommending hyper-personalized travel itineraries or an enterprise workflow automating complex compliance checks, data is the engine powering meaningful, context-rich decisions. However, in today’s siloed environment, users frequently duplicate their personal details across multiple sites—a process ill-suited for agentic solutions that thrive on holistic, real-time access to user information.
+Convergence of Cryptography, Hardware, and Data-Oriented Frameworks
+
+What makes the current moment transformative is the alignment of multiple technological breakthroughs:
+Programmable Cryptography – Innovations like oblivious RAM, two-party computation, fully homomorphic encryption, and SNARKs allow for secure computation on private data. This means AI agents can work on encrypted information without exposing raw user details.
+Trusted Hardware – Secure enclaves, TEE, and GPU-accelerated cryptographic operations enable robust, tamper-resistant environments for sensitive code execution—ideal for privacy-preserving AI tasks.
+Data Portability Regulations – Laws like CCPA and GDPR give individuals the legal right to reclaim and share their data. Although this fosters user empowerment, it lacks a frictionless mechanism to orchestrate agentic access across diverse systems and compliance regimes.
+Web2–Web3 Synergy – We no longer operate in strictly centralized or decentralized realms. Blockchain technology introduces self-sovereign identities and on-chain verifiability, while Web2 infrastructures remain critical for day-to-day services. Bringing these worlds together is key to enabling agentic applications that tap every relevant data source seamlessly.
+Broken Permission Models for Agentic Workflows
+Historically, solutions like OAuth [6] helped apps share user information in a controlled way, but these models center on human-mediated approvals. They often require explicit, step-by-step user involvement that doesn’t scale to fully autonomous agents. Tasks like verifying identity, rotating credentials, or proving user eligibility for a service can become bottlenecks, especially if an AI agent must repeatedly request manual access.
+
+Consider the user experience of an agent that coordinates your weekly grocery deliveries. If the agent has to prompt you to “click yes” on every site or re-check allergic ingredients each time, the friction becomes unsustainable. Or imagine an enterprise agent performing multiple compliance checks across decentralized and centralized data sources; traditional permission frameworks were never built to handle this level of fluid, agent-driven access.
+The Emerging Agentic Frontier
+Despite these hurdles, agentic services continue to grow in number and capability. They can automate routine tasks, provide hyper-personalization (e.g., adjusting your meal plans based on medical constraints), and even offer on-the-fly compliance in regulated industries. The AI race—spanning both open-source and closed-source approaches—suggests an ever-growing complexity in models that will require deeper data integration.
+Yet the question remains: How do we enable these agents to orchestrate data from multiple silos without sacrificing security, user sovereignty, or transparent audit trails? This is where an all-encompassing SuperConnector framework becomes indispensable. Agents need composable data flows, guardrails for compliance, and hardware-accelerated privacy to operate at scale.
+Why Mighty Network Must Exist
+
+Enter Mighty Network, a platform bridging next-gen cryptography, secure compute, and cross-ecosystem data orchestration. We don’t capture or centralize ownership over your data. Instead, we build:
+Adapters to retrieve, enrich, and unify data from any partner source, whether Web2 or Web3,
+ Permission layers that respect user-centric guardrails and compliance standards, and
+On-device or confidential compute approaches that preserve privacy and sovereignty.
+Mighty’s design acknowledges that our lives aren’t cleanly divided between “traditional web” and “blockchain.” We operate in a single, data-rich reality that demands consistent, secure orchestration—especially as AI becomes increasingly autonomous. By leveraging verifiable credentials on-chain (e.g., proof-of-agent or proof-of-personhood) and cryptographically secure enclaves off-chain, Mighty ensures that every data transaction is both auditable and frictionless for the user. Instead of forcing manual approvals or exposing raw data, the system allows AI agents to prove “who” they are and “what” they’re allowed to do—programmatically.
+In the sections that follow, we’ll introduce how Mighty’s SuperConnector Stack—with its blend of permission and policy engines, secure enclaves, and modular submodules—empowers developers to build agentic workflows that operate autonomously yet remain compliant, transparent, and user-friendly. By merging the convenience of Web2 with the self-sovereignty ethos of Web3, Mighty charts a path to the next generation of data-rich, privacy-preserving AI experiences. Introducing Mighty: The SuperConnector for Data-Aware Agents 
+Building on the challenges and opportunities we’ve outlined—spanning cryptographic innovations, hardware security, and the convergence of Web2 and Web3—Mighty Network steps in as a unified fabric for agentic data orchestration. Rather than trying to replace existing infrastructures, Mighty aims to connect them under a consistent, privacy-preserving, and composable framework that empowers both developers and end-users. 
+Core Principles 
+Sovereignty by Design
+Users Control Their Data: Mighty does not centralize personal information; instead, we provide the infrastructure to unlock, port, and permission data without leaving users’ hands.
+On-Device/Confidential Compute: Through secure enclaves or local storage, user data and cryptographic keys never need to reside on third-party servers. AI agents process sensitive information in tamper-resistant environments, ensuring minimal exposure.
+2. Seamless Web2–Web3 Integration
+Multi-Ecosystem Compatibility: Mighty bridges legacy APIs, enterprise databases, SaaS platforms, and blockchain networks under a single, composable layer.
+Verifiable Credentials: We leverage on-chain proof systems to authenticate user identities or agent permissions while still supporting conventional Web2 auth flows.
+3. Programmability and Compliance
+Cryptography-First Approach: Following the tenets of “programmable cryptography” (as coined by 0xPARC[1]), Mighty engages with these primitives—such as oblivious RAM or two-party computation—for robust data privacy.
+Scalable Guardrails: Mighty’s architecture enforces dynamic permissions, allowing AI agents to operate independently only within authorized boundaries. This ensures compliance with laws like GDPR and CCPA without requiring constant user intervention.
+Mighty’s SuperConnector Stack: A High-Level Overview
+1. HEADQUARTERS
+Data Backpack for Users: Orchestrate on-device, on-premise or on the cloud, HEADQUARTERS functions as a secure, permission vault that stores personal data, cryptographic keys, and compliance records.
+Private Computation: AI agents perform sensitive tasks inside HEADQUARTERS first before leveraging cloud-based partners—using TEEs or local secure enclaves—shielded from external access.
+Real-Time Permissioning: HEADQUARTERS dynamically grants or revokes data access based on user-defined rules, regulatory constraints, role and policy engines, or agent-driven tasks.
+2. SIDEKICK
+Modular Tooling: A library of “submodules” (compliance, data fetchers, personalization, etc.) that can be mixed, matched, or extended.
+Agent Workflow Simplification: Developers don’t need to rebuild fundamental compliance checks or API connections from scratch. Instead, they plug into SIDEKICK’s ready-made components.
+Composability: Submodules are interoperable and versionable, allowing for rapid development of new agentic capabilities.
+Cross-platform: Use Sidekick across various platforms and plays well with various open-source tooling.
+3. LEAGUE
+Global Execution and Verification: A distributed (and, where relevant, on-chain) environment that routes agent “intents” to the appropriate submodules or data endpoints.
+Cross-Ecosystem Messaging: LEAGUE handles both Web2 and Web3 calls, ensuring that off-chain systems and on-chain contracts can be part of the same workflow.
+Transparent Settlement and Audit: For tasks requiring public verification—like compliance logs or escrowed transactions—LEAGUE provides an immutable trail, aligning with blockchain ideals of trustlessness.
+
+A Better Future for Agentic Services
+
+By integrating these layers, Mighty addresses the fundamental gaps in today’s permission models—where AI agents struggle to unify data from diverse ecosystems without sacrificing security or user autonomy. Whether it’s:
+	•	A healthcare agent pulling anonymized patient data from multiple providers,
+	•	A finance agent orchestrating yield strategies across centralized and decentralized platforms, or
+	•	A personal assistant arranging curated travel experiences with zero friction,
+
+Mighty ensures the right data is accessible to the right agent under the right conditions—no repeated logins, no needless risk. This synergy unleashes a new generation of truly contextual AI applications, propelling us toward a world where data flows effortlessly, compliance is automated, and users retain full ownership of their digital footprints.
+
+Deeper Dive into the Mighty SuperConnector Stack
+
+Ethos: SuperConnector, Not A Competitor:
+Mighty’s approach with LEAGUE is to SuperConnect rather than compete. By providing a neutral platform where services register capabilities and share in transaction fee revenues, LEAGUE fosters a thriving, collaborative environment. Protocols, applications, and service providers leverage LEAGUE to reach new markets, while developers benefit from rich functionality at their fingertips. This cooperative model aligns incentives across the ecosystem, encouraging continuous improvement and excellence.
+
+Fast Finality & Parallel Execution:
+Inspired by cutting-edge research in execution models (e.g., RISE, Aptos, Move-based architectures [7,8]), LEAGUE leverages parallel execution to handle global demand. This is especially critical as AI agents and complex workflows intensify throughput requirements. We are actively evaluating stacks like MoveVM or RISE EVM variants to bring forth a rollup that combines the highest performance, stable finality, and maximum flexibility, ensuring developers can scale their applications worldwide.
+
+HEADQUARTERS: Your Secure Data Hub
+On-Device or Enclave-Driven
+HEADQUARTERS operates as a privacy-first, secure vault, running on user devices or in secure enclaves (e.g., TEE) for enterprise setups. This means sensitive data—personal profiles, credentials, transaction records—never leaves a trusted perimeter without explicit permission, and data is always encrypted.
+Confidential Computation
+By leveraging hardware-backed isolation (and emerging programmable cryptography methods such as oblivious RAM or two-party computation), HEADQUARTERS ensures that user data remains encrypted during processing and extensible with cryptographic advancement like fully-homomorphic or partial disclosure policies.
+Dynamic Permissioning and Policy Enforcement
+Compliance checks (e.g., verifying legal identity or abiding by GDPR rules) happen locally, and HEADQUARTERS generates attestations that the user or agent has met requirements—without exposing raw data. This approach drastically simplifies scenarios like KYC/AML, where verifying “eligibility” is often more important than revealing actual documents.
+
+SIDEKICK: Modular Intelligence and Integrations
+Pluggable Submodules
+SIDEKICK is Mighty’s modular toolkit for AI-driven features—ranging from compliance checkers (e.g., verifying region-specific constraints) to advanced data fetchers (e.g., pulling aggregated user records from healthcare APIs or bank APIs). Developers can pick and choose from these submodules to build tailor-made agent workflows quickly.
+Composable Workflows
+Because each SIDEKICK submodule is designed to interoperate with the others, it becomes easy to chain multiple actions—like “fetch and integrate my dietary preferences when order my sushi,” then “use only my stablecoin debit card,” then “execute transaction.” This composability is essential for orchestrating agentic tasks that rely on multiple data points from disparate sources.
+Scalable Upgrades and Community Contributions
+Developers can extend or fork existing submodules to create specialized logic for novel use cases (e.g., domain-specific compliance in healthcare or finance). Community-driven submodules encourage rapid innovation, mirroring the open-source ethos in AI and cryptography.
+
+LEAGUE: Cross-Ecosystem Execution, Speed, and Transparency
+Intent-Based Routing
+When an AI agent, user, or dApp initiates a request (“intent”), LEAGUE routes it to the relevant SIDEKICK submodules, HEADQUARTERS enclaves, or external APIs/blockchains. This ensures that each step—data retrieval, compliance check, transaction settlement—occurs in the optimal location (on-chain or off-chain) with minimal overhead. LEAGUE supper connects chains and services while offering speed and efficiencies to agents can easily execute.
+Secure Messaging and Verification
+LEAGUE provides a trust-minimized messaging layer that can handle both Web2 calls (e.g., hitting a REST API for flight booking) and Web3 contracts (e.g., finalizing a purchase on a decentralized marketplace). Crucially, it logs essential proofs or compliance attestations for auditability, so all participants can verify the legitimacy of each action.
+User-Centric Settlement
+For tokenized payments, on-chain identity, or bridging digital assets, LEAGUE orchestrates multi-chain transactions. Users can pay fees with stablecoins or local tokens, while agentic processes remain user-permissioned—and fully transparent—thanks to on-chain verification as needed.
+
+Practical Use Cases Unlocked by Mighty
+
+1. Personalized Healthcare Coordination
+
+An AI-driven “Health Concierge” can securely gather a patient’s medical data from multiple providers, unify it within HEADQUARTERS, then leverage cryptographic submodules in SIDEKICK to cross-check insurance policies or drug interactions. LEAGUE ensures that any regulatory or compliance requirements (e.g., HIPAA in the U.S.) are verifiably enforced before data moves between different clinics or pharmacies. The result: truly personalized care recommendations without exposing raw medical records to unnecessary third parties.
+
+2. Finance and Insurance Automation
+
+A “smart accountant” agent can pull a user’s financial history from various banks (Web2), examine their on-chain transaction records (Web3), and file them into a compliance submodule for real-time KYC/AML checks. HEADQUARTERS ensures sensitive personal info remains local, while LEAGUE’s cross-ecosystem messaging completes the necessary asset transfers or contract executions automatically. This drastically reduces friction for yield optimization, budget planning, and cross-border remittance—all under user-approved permissions.
+
+3. Data-Driven Education and Self-Growth
+
+Imagine an AI “Learning Coach” that compiles academic performance data (e.g., from an online class platform), merges it with personal reading habits (from an e-book service), and identifies skill gaps or recommended courses. Using HEADQUARTERS to store personal progress logs, the agent can privately refine study plans, while SIDEKICK submodules handle scheduling across different time zones and track compliance with any accreditation standards. The system remains in full synergy with the user’s preferences, from self-study pace to advanced certifications.
+
+4. Advanced Retail and Lifestyle Services
+
+From booking travel itineraries to choosing groceries that align with dietary restrictions, Mighty’s approach cuts down manual data entry. The AI can see your “diet profile” in HEADQUARTERS and confirm compliance with nutritional guidelines via SIDEKICK. LEAGUE finalizes the purchase or completes the necessary on-chain payment. If the user changes preferences—like a new allergy—HEADQUARTERS updates that globally, ensuring all future agent-initiated actions remain consistent.
+
+5. Cross-Enterprise Collaboration
+
+For large organizations, multiple departments and external vendors need to collaborate on data-rich projects. A supply-chain agent might need to request real-time inventory data, verify ISO compliance, and schedule shipments with decentralized logistics providers. With Mighty, HEADQUARTERS handles secure enclaves for internal records, SIDEKICK automates each compliance check, and LEAGUE tracks the entire flow for easy auditing—making enterprise processes both faster and harder to compromise.
+
+Tokenomics: Stability, Alignment, and Sustainable Innovation
+Building personalized, agentic applications at scale requires stable, rational economics. Mighty’s tokenomics and credit system ensure developers can confidently plan costs, users enjoy stable fees, and service providers earn fair rewards.
+Balancing Stability and Opportunity
+Credits for Predictable Costs:
+Developers purchase credits (backed by stablecoins) to pay for module usage and services. This shields them from token volatility and provides transparent, predictable pricing—an essential foundation for long-term planning.
+MIGHTY Token for Discounts and Governance:
+For those comfortable with the ecosystem’s dynamics, holding MIGHTY tokens offers discounts on services and agentic flows. This incentivizes deeper engagement and aligns token holders with network success. Over time, MIGHTY token holders can participate in governance, influencing upgrades, parameter changes, and treasury allocations.
+The Capability Matrix as an Economic Engine
+Fee Flows into Innovation:
+All fees—credits or token-based—flow through the capability matrix. This ensures that the best-performing submodules earn more revenue, motivating continuous refinement. Faster compliance checks, more accurate recommendations, cheaper swaps—each improvement translates into higher demand and earnings.
+A Virtuous Cycle of Quality:
+As developers integrate these submodules into their personalized apps, more transactions occur. More transactions mean more fees, enabling R&D, community grants, and ecosystem growth. The network continuously reinvests in innovation, fueling sustainable value creation.
+Economic Security and Staking
+Multi-Asset Staking & Fast-Finality:
+Validators stake MIGHTY tokens (and possibly other assets) to secure the network and ensure honest settlement. High stake levels boost trust and facilitate fast finality, enabling global-scale applications without compromise. We aim to explore more on this more and look into working with ERC-7281 [3] to improve security.
+Dual Settlement Options:
+Developers can rely on fast-finality attestation [2] or choose optimistic/ZK paths [2] for Ethereum-level security. Either way, staking aligns validators with the network’s success, ensuring dependable performance and availability.
+Future Directions
+1. Advancing Programmable Cryptography
+Mighty is committed to staying at the forefront of emerging cryptographic technologies like oblivious RAM, two-party computation, fully homomorphic encryption, and SNARK-based proofs. Our roadmap involves integrating these cutting-edge primitives more deeply into HEADQUARTERS for secure, scalable computations on sensitive data. The goal is to further reduce reliance on trust in third parties and enable users and enterprises to maintain complete control over their information, even in complex agentic workflows.
+2. Expanding Web2–Web3 Integration
+While our proposed LEAGUE layer aims to seamlessly bridge traditional (Web2) APIs and our growing decentralized (Web3) protocols partners, the future will bring an even richer ecosystem of interconnected services, including healthcare providers, financial institutions, government registries, and more. Agents will be able to work between two ecosystems to provide value to developers. We plan to incorporate emerging cross-chain standards, such as ERC-7683 Cross Chain Intents [4], ERC-7786 Cross Chain Messaging Gateway [5], and ERC-7281 Shared Security Vaults [3], and further refine on-chain identity management to ensure seamless experiences for agents operating across multiple domains.
+3. Agentic Standards and Best Practices
+We envision helping shape formal standards for agentic permissions, akin to OAuth’s role in web authentication. By collaborating with ecosystem partners, Mighty aims to define industry-wide best practices for data ownership, compliance reporting, and user-consent flows in an agent-driven environment—reducing friction for developers and end-users alike.
+4. AI Model Evolution
+As AI models become more capable—be they open-source or proprietary—Mighty will continue to focus on developer tools that ease model integration. Our SIDEKICK submodules, for example, will evolve to accommodate advanced context embedding, real-time training data feeds, and specialized compliance checks for domain-specific regulations, ensuring new AI breakthroughs can be quickly deployed while upholding data privacy standards.
+5. User Experience and Governance
+Ultimately, agentic automation should feel as intuitive to users as any mainstream app. We’re prioritizing user experience enhancements, such as simple permission dashboards, clear compliance notifications, and robust fallback mechanisms (e.g., “human-in-the-loop” triggers for high-stakes transactions). Over time, decentralized governance mechanisms—including token-based voting—may be introduced to align incentives among developers, data providers, and users, ensuring that the entire Mighty ecosystem remains transparent and equitable.
+Conclusion
+The convergence of AI autonomy, programmable cryptography, secure compute environments, and data portability laws has paved the way for a revolutionary transformation in user, enterprise, and agent interactions. However, the crucial missing piece has been a comprehensive, user-centric framework that seamlessly integrates these elements across both Web2 and Web3. Mighty Network emerges as the solution to this challenge, presenting a SuperConnector Stack where HEADQUARTERS, SIDEKICK, and LEAGUE converge to deliver secure, composable, and verifiable data flows for AI-driven services. Mighty’s vision extends beyond these boundaries, aiming to bridge the gap between the two worlds and create an integrated, interactive environment where permissions and access controls serve as the foundation for interactivity and personalization, empowering agents to seamlessly navigate between the two realms.
+By eliminating data silos, automating compliance checks, and maintaining privacy within tamper-resistant enclaves, Mighty unlocks a world where autonomous agents can meaningfully serve every sector—from personal finance and healthcare to education and enterprise supply chains—without compromising user sovereignty. As agentic models become ever more powerful, our mission is to ensure that both individuals and organizations retain full ownership of their digital lives, harnessing AI’s transformational potential responsibly and at scale.
+The road ahead promises continuous innovation. Through collaborative ecosystems, evolving cryptographic standards, and boundary-pushing AI, Mighty aspires to forge a new era of data empowerment—one in which agentic applications seamlessly integrate into daily life, driving efficiency, personalization, and trust in every digital interaction.
+
+References
+1. 0xParc - Programmable Cryptography (Part 1). https://0xparc.org/blog/programmable-cryptography-1. Accessed Jan 20th, 2025
+2. Movement Labs White Paper. https://movementlabs.xyz/ . Accessed December 5th, 2024.
+3. EIP-7702 Set EOA account code. https://eips.ethereum.org/EIPS/eip-7702. Accessed December 5th, 2024.
+4. ERC-7683: Cross Chain Intents. https://eips.ethereum.org/EIPS/eip-7683. Accessed December 5th, 2024.
+5. ERC-7786 Cross Chain Messaging Gateway. https://erc7786.org/erc. Accessed December 5th, 2024.
+6. O-Auth 2.0. https://oauth.net/2/. Accessed December 31st, 2024.
+7. Movement Labs White Paper. https://movementlabs.xyz/ . Accessed December 5th, 2024.
+8. RISE White Paper. https://www.riselabs.xyz/ . Accessed December 5th, 2024.Glossary
+Agentic AI / Agentic Applications
+Software or workflows powered by autonomous AI agents that can interpret context, learn, and perform complex tasks with minimal human intervention.
+Agentic Permission
+A framework or mechanism through which AI agents request and receive permission to access private or sensitive data, ensuring that user sovereignty, privacy, and compliance requirements are met without constant human involvement.
+Programmable Cryptography
+A term popularized by 0xPARC that encompasses advanced cryptographic techniques—such as oblivious RAM, two-party computation, fully homomorphic encryption, and SNARKs—enabling secure computation on private data with minimal exposure.
+Oblivious RAM (ORAM)
+A cryptographic method allowing a system to access memory without revealing the access patterns, making it extremely difficult for third parties to infer which data is being used.
+Two-Party Computation (2PC)
+A cryptographic protocol that lets two parties compute a function over their inputs without exposing those inputs to each other.
+Fully Homomorphic Encryption (FHE)
+Encryption technology enabling computations to be performed directly on encrypted data—yielding an encrypted result that, when decrypted, is the correct outcome as if the operations were done on plaintext.
+SNARKs (Succinct Non-Interactive Arguments of Knowledge)
+Cryptographic proofs allowing a prover to demonstrate knowledge of specific information without revealing the information itself, significantly reducing the computation and data needed for verification.
+Trusted Execution Environment (TEE) / Secure Enclave
+A hardware-based secure area that ensures code and data loaded inside are protected with respect to confidentiality and integrity. TEEs isolate critical computations from the rest of the system, mitigating risks of tampering or unauthorized access.
+HEADQUARTERS (HQ)
+Mighty’s secure vault, which can be deployed on-device or on-premise, offers configurable access and role control. Headquarters manages private data, cryptographic keys, and local compliance checks, ensuring that raw user information remains in a trusted environment. Additionally, it collaborates with Sidekick to create a seamless and cohesive user experience. 
+SIDEKICK
+Mighty’s modular agentic toolkit—featuring “submodules” such as compliance checks, data-fetchers, AI personalization engines—that developers can mix and match to quickly build agent-driven features.
+LEAGUE
+Mighty’s flexible execution and routing layer, designed for cross-ecosystem data flows and interactions. LEAGUE orchestrates “intents” among HEADQUARTERS, SIDEKICK submodules, Web2 APIs, and Web3 protocols to ensure a seamless, permissioned workflow.
+Confidential Compute
+A set of hardware and software techniques (e.g., TEE, MPC) enabling operations on data without exposing that data to untrusted parties. Often used for secure, private computations in AI and multi-party workflows.
+Data Portability
+User-centric regulations (e.g., GDPR, CCPA) and principles that grant individuals the right to reclaim and move their personal data from one service to another. Data portability underpins agentic systems by allowing secure, authorized transfer of information.
+Sovereignty
+The principle that users, rather than centralized platforms, should maintain ultimate control over their digital identities and data. Often associated with decentralized or cryptographic frameworks that enforce user ownership.
+Composability
+The ability for protocols, tools, or components to seamlessly integrate and interoperate with one another, allowing developers to build new functionalities by combining existing modules—key for agentic applications seeking to handle data from multiple sources.
+OAuth
+A widely used authorization framework in Web2 designed for human-centric consent screens, often ill-suited for fully autonomous or machine-driven access requests in agentic workflows.
+ReCAPTCHA or Bot-prevention
+A Google service to distinguish humans from bots, again built with human verification loops. In agentic systems, it can impede or block automated processes unless new, machine-friendly authentication methods exist. This term is meant to capture all bot-prevention services.
+User-in-the-Loop
+A process requiring human input or validation at critical points—useful for oversight but not always practical for fully autonomous, always-on AI agents.
+AI Race: Open-Source vs. Closed-Source
+The ongoing competition between open-source AI communities and large proprietary model labs. Both require robust data and secure frameworks for building advanced AI capabilities; agentic permissions offer a way to tap user data responsibly regardless of the AI’s provenance.
+GDPR (General Data Protection Regulation) / CCPA (California Consumer Privacy Act)
+Data protection and privacy laws that empower users to control how personal information is collected, used, or shared—reinforcing the importance of secure data portability in agentic applications.
+Proof-of-Agent / Proof-of-Personhood
+Mechanisms (often on-chain) that attest to the authenticity or identity of an AI agent or a human without exposing sensitive details. Useful for verifying agent-driven transactions or user credentials.
+Autonomous & Adaptive State
+An AI agent’s ability to operate, learn, and make decisions continuously, without constant human intervention—enabled by secure, real-time data access and compliance checks.

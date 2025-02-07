@@ -1,0 +1,816 @@
+{"prompt":"What's the price of ETH right now?","category":"token_price"}
+{"prompt":"How much is Bitcoin trading for?","category":"token_price"}
+{"prompt":"Price of MOVE token?","category":"token_price"}
+{"prompt":"Can you show me the cost of DAI currently?","category":"token_price"}
+{"prompt":"What's the market price of XLM?","category":"token_price"}
+{"prompt":"Show me the current price of BNB","category":"token_price"}
+{"prompt":"Price feed for MATIC, please","category":"token_price"}
+{"prompt":"Any update on the DOT price?","category":"token_price"}
+{"prompt":"What's the going rate for LTC?","category":"token_price"}
+{"prompt":"Give me the price of AAVE token","category":"token_price"}
+{"prompt":"Show me the price movement for DOGE now","category":"token_price"}
+{"prompt":"What's the current AVAX price?","category":"token_price"}
+{"prompt":"What is the price of USDC these days?","category":"token_price"}
+{"prompt":"How much does USDT cost in USD?","category":"token_price"}
+{"prompt":"Tell me the price of SUSHI","category":"token_price"}
+{"prompt":"Price check: FTM token right now","category":"token_price"}
+{"prompt":"Is there a price feed for UNI?","category":"token_price"}
+{"prompt":"What's the NEAR token trading for?","category":"token_price"}
+{"prompt":"Give me an update on MOVR token price","category":"token_price"}
+{"prompt":"What's the cost of LUNC token now?","category":"token_price"}
+{"prompt":"Any price info on CRO token?","category":"token_price"}
+{"prompt":"Price for CAKE token, please","category":"token_price"}
+{"prompt":"Show me the current listing price of GRT","category":"token_price"}
+{"prompt":"What's the going rate for RUNE?","category":"token_price"}
+{"prompt":"I'd like the price of COMP token","category":"token_price"}
+{"prompt":"Give me the updated price for LDO","category":"token_price"}
+{"prompt":"What's the OP token cost right now?","category":"token_price"}
+{"prompt":"Check the market price for NEXO?","category":"token_price"}
+{"prompt":"Price feed for ATOM, quickly","category":"token_price"}
+{"prompt":"What is the price for FXS token?","category":"token_price"}
+{"prompt":"Any info on the SHIB token price?","category":"token_price"}
+{"prompt":"Need the current TRX price","category":"token_price"}
+{"prompt":"What's the going rate for WAVES?","category":"token_price"}
+{"prompt":"Can you show me the price of ALGO?","category":"token_price"}
+{"prompt":"Price check for KSM token?","category":"token_price"}
+{"prompt":"What's the latest on SAND token price?","category":"token_price"}
+{"prompt":"Can I get the price for RAY token?","category":"token_price"}
+{"prompt":"What's the quote on UMA now?","category":"token_price"}
+{"prompt":"Let me see the price of LINK token","category":"token_price"}
+{"prompt":"What's the current valuation of XRP?","category":"token_price"}
+{"prompt":"Can you show me how expensive ADA is right now?","category":"token_price"}
+{"prompt":"I'd like to see the spot price for BCH today","category":"token_price"}
+{"prompt":"What is the present rate of XMR on the market?","category":"token_price"}
+{"prompt":"Quote me the live cost of ETC token","category":"token_price"}
+{"prompt":"How much is FIL going for in USD?","category":"token_price"}
+{"prompt":"Check the ticker for ENJ coin price, please","category":"token_price"}
+{"prompt":"What's the latest worth of ZEC token?","category":"token_price"}
+{"prompt":"Show me how much BTT is trading at right now","category":"token_price"}
+{"prompt":"Any updates on the value of RSR token?","category":"token_price"}
+{"prompt":"What's the going rate for 1INCH token currently?","category":"token_price"}
+{"prompt":"Please give me the live price feed for HT token","category":"token_price"}
+{"prompt":"I want to see the cost of FTT now","category":"token_price"}
+{"prompt":"Check the approximate worth of TWT in USD","category":"token_price"}
+{"prompt":"What's the XVS token price right now?","category":"token_price"}
+{"prompt":"Any info on the present cost of SNX?","category":"token_price"}
+{"prompt":"Could you show me the price chart for DASH token?","category":"token_price"}
+{"prompt":"Let me see the real-time cost of DENT coin","category":"token_price"}
+{"prompt":"What's the updated price feed for ZIL token?","category":"token_price"}
+{"prompt":"How expensive is EOS at the moment?","category":"token_price"}
+{"prompt":"What's the market quote for WEMIX token?","category":"token_price"}
+{"prompt":"Give me the instant cost of XDC token now","category":"token_price"}
+{"prompt":"Show me the latest price for HBAR coin","category":"token_price"}
+{"prompt":"What's the near-term valuation of KNC token?","category":"token_price"}
+{"prompt":"Any changes in the price of ANKR coin recently?","category":"token_price"}
+{"prompt":"How much is LRC going for at this moment?","category":"token_price"}
+{"prompt":"I'd like the up-to-date cost of AMP token","category":"token_price"}
+{"prompt":"Check how much is GLMR token worth now","category":"token_price"}
+{"prompt":"Could you fetch the current price for XYM coin?","category":"token_price"}
+{"prompt":"Show me the real-time value of SNT token","category":"token_price"}
+{"prompt":"What's the going rate for CVC at present?","category":"token_price"}
+{"prompt":"Let me see the spot cost of STEEM token","category":"token_price"}
+{"prompt":"I want the price feed for HIVE coin right now","category":"token_price"}
+{"prompt":"Any info on the market cost of MOVR token?","category":"token_price"}
+{"prompt":"Tell me the live rate for CHR token","category":"token_price"}
+{"prompt":"What's the worth of ALICE coin currently?","category":"token_price"}
+{"prompt":"Check the valuation for CELR token, please","category":"token_price"}
+{"prompt":"Could you provide the cost of TLM token?","category":"token_price"}
+{"prompt":"What's the real-time price for AUDIO coin?","category":"token_price"}
+{"prompt":"Is there an updated feed on the QNT token's price?","category":"token_price"}
+{"prompt":"Show me how much XVS is trading for in fiat?","category":"token_price"}
+{"prompt":"What's the going cost for IDEX token now?","category":"token_price"}
+{"prompt":"I'd like the present quote on CAW token","category":"token_price"}
+{"prompt":"Please retrieve the price feed of RARI token","category":"token_price"}
+{"prompt":"How much is UMA coin currently worth?","category":"token_price"}
+{"prompt":"Any recent cost for ALCX token?","category":"token_price"}
+{"prompt":"Give me the updated price for IRON coin?","category":"token_price"}
+{"prompt":"Check the real-time cost for DGD token","category":"token_price"}
+{"prompt":"Need the spot price of REQ token now","category":"token_price"}
+{"prompt":"What's the present market cost of BNX coin?","category":"token_price"}
+{"prompt":"Could you show me the price feed for ALCX?","category":"token_price"}
+{"prompt":"Let me see the valuation for ACH token currently","category":"token_price"}
+{"prompt":"Any live ticker for FLM coin price?","category":"token_price"}
+{"prompt":"I'm curious about the GALA token cost now","category":"token_price"}
+{"prompt":"How much is TVK coin going for these days?","category":"token_price"}
+{"prompt":"What's the immediate worth of STMX token?","category":"token_price"}
+{"prompt":"Check the listing price for DUSK coin, please","category":"token_price"}
+{"prompt":"Can you give me the last known value of OGN token?","category":"token_price"}
+{"prompt":"Any direct feed for the LAZIO Fan Token price?","category":"token_price"}
+{"prompt":"What's the quote on PSG Fan Token right now?","category":"token_price"}
+{"prompt":"Could you see how expensive the CITY Fan Token is?","category":"token_price"}
+{"prompt":"Let me see the cost of ACM Fan Token currently","category":"token_price"}
+{"prompt":"Update me on the current rate for APE token, quickly","category":"token_price"}
+
+{"prompt":"How much ETH is staked overall?","category":"token_query"}
+{"prompt":"What is the total supply of BTC?","category":"token_query"}
+{"prompt":"Fully diluted value of MATIC?","category":"token_query"}
+{"prompt":"What's the rank of the UNI token?","category":"token_query"}
+{"prompt":"Check the supply for AAVE token?","category":"token_query"}
+{"prompt":"How many tokens does LDO have in circulation?","category":"token_query"}
+{"prompt":"What's the APY for stETH?","category":"token_query"}
+{"prompt":"How many SUSHI tokens exist?","category":"token_query"}
+{"prompt":"What's the inflation rate on KSM token?","category":"token_query"}
+{"prompt":"Number of holders for DOGE token?","category":"token_query"}
+{"prompt":"What's the market cap of BNB now?","category":"token_query"}
+{"prompt":"Is there a burn mechanism on CRO?","category":"token_query"}
+{"prompt":"Any info about LUNC's total minted supply?","category":"token_query"}
+{"prompt":"What's the max supply for TRX?","category":"token_query"}
+{"prompt":"Circulating supply for ALGO?","category":"token_query"}
+{"prompt":"How many LINK tokens are locked in staking?","category":"token_query"}
+{"prompt":"What's the governance voting power for COMP?","category":"token_query"}
+{"prompt":"Show me the vesting schedule for OP token?","category":"token_query"}
+{"prompt":"How many BTC are wrapped in WBTC?","category":"token_query"}
+{"prompt":"Any details on bridging stats for USDC?","category":"token_query"}
+{"prompt":"What's the total minted USDT supply?","category":"token_query"}
+{"prompt":"Are there any token burns for LUNA?","category":"token_query"}
+{"prompt":"What's the token rank of POL?","category":"token_query"}
+{"prompt":"How many holders does the CAKE token have?","category":"token_query"}
+{"prompt":"Is SAND deflationary or inflationary?","category":"token_query"}
+{"prompt":"Need the tokenomics for RUNE, please","category":"token_query"}
+{"prompt":"What's the governance structure for BAL?","category":"token_query"}
+{"prompt":"How many validators are running NEAR token?","category":"token_query"}
+{"prompt":"What's the distribution of SHIB whales?","category":"token_query"}
+{"prompt":"Show me issuance rate for GRT token?","category":"token_query"}
+{"prompt":"What's the token rank for ARB?","category":"token_query"}
+{"prompt":"Fully diluted valuation of CRV token?","category":"token_query"}
+{"prompt":"How much stMATIC is minted?","category":"token_query"}
+{"prompt":"Number of addresses holding 1 ETH or more?","category":"token_query"}
+{"prompt":"What's the minted supply of stDOT?","category":"token_query"}
+{"prompt":"Check if there's a staking ratio for XLM?","category":"token_query"}
+{"prompt":"Total minted cDAI vs cUSDC supply?","category":"token_query"}
+{"prompt":"What is the developer distribution for GMX token?","category":"token_query"}
+{"prompt":"How many MKR tokens are currently in circulation?","category":"token_query"}
+{"prompt":"What's the fully diluted valuation of APE token right now?","category":"token_query"}
+{"prompt":"Could you tell me the max supply of FTM?","category":"token_query"}
+{"prompt":"Show me the current inflation rate for ATOM","category":"token_query"}
+{"prompt":"How many holders does LRC have as of today?","category":"token_query"}
+{"prompt":"What is the total locked supply for CRV token?","category":"token_query"}
+{"prompt":"Is there a token burn schedule for CHZ?","category":"token_query"}
+{"prompt":"What's the rank of the GALA token on major trackers?","category":"token_query"}
+{"prompt":"Could you give me the total minted supply of ENJ?","category":"token_query"}
+{"prompt":"What's the total supply for GRT across all networks?","category":"token_query"}
+{"prompt":"Does XTZ have any deflationary mechanism right now?","category":"token_query"}
+{"prompt":"How many tokens does ALCX have in its circulating supply?","category":"token_query"}
+{"prompt":"Can you show me the fully diluted market cap for CAKE token?","category":"token_query"}
+{"prompt":"What is the total staked amount of SOL in all validators?","category":"token_query"}
+{"prompt":"Check how many FIL tokens are locked in cold storage?","category":"token_query"}
+{"prompt":"What's the minted supply of QNT as of this week?","category":"token_query"}
+{"prompt":"Is there a supply cap on UMA tokens?","category":"token_query"}
+{"prompt":"How many whales hold more than 1% of UNI's total supply?","category":"token_query"}
+{"prompt":"What's the maximum supply for ADA on the Cardano network?","category":"token_query"}
+{"prompt":"Could you show me the issuance schedule for KNC tokens?","category":"token_query"}
+{"prompt":"Any details on the number of stETH minted so far?","category":"token_query"}
+{"prompt":"What is the fully diluted value of FTX (FTT) tokens?","category":"token_query"}
+{"prompt":"Check the total minted supply for FLM token?","category":"token_query"}
+{"prompt":"How many stakers are securing the NEAR network?","category":"token_query"}
+{"prompt":"Any info on locked liquidity for SUSHI tokens?","category":"token_query"}
+{"prompt":"What's the token rank for GNO based on market cap?","category":"token_query"}
+{"prompt":"Could you find the token distribution for ALGO whales?","category":"token_query"}
+{"prompt":"How many AAVE tokens are allocated for liquidity mining?","category":"token_query"}
+{"prompt":"What's the governance voting weight for BAL token?","category":"token_query"}
+{"prompt":"Is LUNC's supply deflationary or inflationary at the moment?","category":"token_query"}
+{"prompt":"How many stKSM tokens have been minted so far?","category":"token_query"}
+{"prompt":"Could you check the total supply of SAND tokens across networks?","category":"token_query"}
+{"prompt":"Is there a token burn for XRPL on a schedule?","category":"token_query"}
+{"prompt":"What's the earliest vesting release date for OP tokens?","category":"token_query"}
+{"prompt":"How many of the total DOGE tokens are actively in circulation?","category":"token_query"}
+{"prompt":"Could you show me the current bridging stats for MATIC supply?","category":"token_query"}
+{"prompt":"What's the circulating supply versus max supply of BAT?","category":"token_query"}
+{"prompt":"Check how many HBAR tokens are locked in staking contracts?","category":"token_query"}
+{"prompt":"How many unique wallets hold 1 or more UNI tokens?","category":"token_query"}
+{"prompt":"What's the estimated inflation rate for KSM next year?","category":"token_query"}
+{"prompt":"Any insight into the total minted YFI supply left?","category":"token_query"}
+{"prompt":"Could you show me the distribution of whales for AVAX?","category":"token_query"}
+{"prompt":"What's the max minted supply for COMP tokens?","category":"token_query"}
+{"prompt":"How many addresses hold at least 1000 RUNE right now?","category":"token_query"}
+{"prompt":"Is there any monthly burn for BNB tokens still ongoing?","category":"token_query"}
+{"prompt":"What's the total supply of GRT in the subgraph staking pool?","category":"token_query"}
+{"prompt":"How much LDO is locked in liquidity pools across DeFi?","category":"token_query"}
+
+{"prompt":"What is the 24h price percentage of LINK/USDC?","category":"pair_price"}
+{"prompt":"Check the cost of DOGE/USDT pair","category":"pair_price"}
+{"prompt":"Need the last known price for ETH/BTC?","category":"pair_price"}
+{"prompt":"What's the feed for UNI/DAI?","category":"pair_price"}
+{"prompt":"Show me the price for AAVE/MATIC pair","category":"pair_price"}
+{"prompt":"What's the 24h % change on SUSHI/ETH?","category":"pair_price"}
+{"prompt":"Give me the price chart for BNB/BTC pair?","category":"pair_price"}
+{"prompt":"What's the WBTC/ETH ratio right now?","category":"pair_price"}
+{"prompt":"Any update on CRV/USDC price?","category":"pair_price"}
+{"prompt":"24h movement of LDO/ETH pair?","category":"pair_price"}
+{"prompt":"Check the current cost for LTC/ETH pair","category":"pair_price"}
+{"prompt":"SAND/MATIC pair price feed?","category":"pair_price"}
+{"prompt":"Need a quick quote on OP/USDC pair","category":"pair_price"}
+{"prompt":"What is the ratio for DOGE/BTC pair?","category":"pair_price"}
+{"prompt":"Give me an update on TRX/USDT pair price","category":"pair_price"}
+{"prompt":"What's the APE/ETH pair trading at?","category":"pair_price"}
+{"prompt":"Any info on LUNC/USTC price?","category":"pair_price"}
+{"prompt":"Need the last known quote for NEAR/USDT?","category":"pair_price"}
+{"prompt":"Check the stable ratio for USDT/USDC pair?","category":"pair_price"}
+{"prompt":"What's the BUSD/DAI ratio?","category":"pair_price"}
+{"prompt":"Show me the 1-day chart for LINK/MATIC pair","category":"pair_price"}
+{"prompt":"Price difference for COMP/ETH in 24h?","category":"pair_price"}
+{"prompt":"Give me the exchange rate for RUNE/ETH now","category":"pair_price"}
+{"prompt":"I want the BNB/USDT pair price feed","category":"pair_price"}
+{"prompt":"What's the ratio for WBTC/BTC at the moment?","category":"pair_price"}
+{"prompt":"Show me the movement in SUSHI/USDC price","category":"pair_price"}
+{"prompt":"Any slippage data for AAVE/DAI pair?","category":"pair_price"}
+{"prompt":"Check price for ARB/ETH pair","category":"pair_price"}
+{"prompt":"What's the cost for GRT/USDC pair?","category":"pair_price"}
+{"prompt":"Show the ratio for DAI/FRAX stable pair","category":"pair_price"}
+{"prompt":"What's the best aggregator cost for UNI/ETH?","category":"pair_price"}
+{"prompt":"Check if DOGE/SHIB pair has any volume?","category":"pair_price"}
+{"prompt":"Pair price for SAND/WETH?","category":"pair_price"}
+{"prompt":"What's the LDO/StETH ratio now?","category":"pair_price"}
+{"prompt":"Check the price of CRV/cDAI if any?","category":"pair_price"}
+{"prompt":"Need a quick ratio on MATIC/WETH","category":"pair_price"}
+{"prompt":"What's the last known LUNA/USTC pair cost?","category":"pair_price"}
+{"prompt":"What is the going rate for XRP/ADA right now?","category":"pair_price"}
+{"prompt":"Check the spot price of BCH/XMR pair, please","category":"pair_price"}
+{"prompt":"Need the feed for ETC/ZEC cost currently","category":"pair_price"}
+{"prompt":"What is the ratio for FIL/HT tokens?","category":"pair_price"}
+{"prompt":"Any updates on 1INCH/ENJ price feed?","category":"pair_price"}
+{"prompt":"Check the BTT/RSR pair cost, please","category":"pair_price"}
+{"prompt":"Show me the live ratio for SNX/DASH pair","category":"pair_price"}
+{"prompt":"How much is DENT/ZIL trading at these days?","category":"pair_price"}
+{"prompt":"Fetch the quote for EOS/HBAR pair cost now","category":"pair_price"}
+{"prompt":"What's the present price of KNC/ANKR pair?","category":"pair_price"}
+{"prompt":"Give me the updated cost of LRC/AMP ratio","category":"pair_price"}
+{"prompt":"Any price feed for XYM/SNT pair?","category":"pair_price"}
+{"prompt":"Check the real-time valuation of STEEM/HIVE pair","category":"pair_price"}
+{"prompt":"What's the cost difference between CHR/MOVR?","category":"pair_price"}
+{"prompt":"How is ALICE/CELR pair performing right now?","category":"pair_price"}
+{"prompt":"Need the ratio for TLM/AUDIO tokens","category":"pair_price"}
+{"prompt":"Show me the 24h cost for QNT/IDEX pair","category":"pair_price"}
+{"prompt":"What's the last known exchange rate for CAW/RARI?","category":"pair_price"}
+{"prompt":"Please check the spot ratio of UMA/ALCX pair","category":"pair_price"}
+{"prompt":"Any latest quote on IRON/DGD pair cost?","category":"pair_price"}
+{"prompt":"Check how FLM/REQ ratio stands right now","category":"pair_price"}
+{"prompt":"What's the BNX/ACH pair worth in the market?","category":"pair_price"}
+{"prompt":"Let me see the updated cost for GALA/TVK pair","category":"pair_price"}
+{"prompt":"Any price feed on STMX/DUSK ratio?","category":"pair_price"}
+{"prompt":"Fetch the live cost of OGN/LAZIO pair, please","category":"pair_price"}
+{"prompt":"What's the PSG/CITY ratio at the moment?","category":"pair_price"}
+{"prompt":"Show me the price difference in ACM/PSG pair?","category":"pair_price"}
+{"prompt":"Need the stable ratio for APE/XLM if it exists?","category":"pair_price"}
+{"prompt":"What is the direct feed for LUNC/UST?","category":"pair_price"}
+{"prompt":"Check the cost of TWT/ETC pair, please","category":"pair_price"}
+{"prompt":"Any known ratio for DOGE/AMP now?","category":"pair_price"}
+{"prompt":"Let me see how LTC/WBTC pair is priced","category":"pair_price"}
+{"prompt":"Could you show me the price for ARB/TRX pair?","category":"pair_price"}
+{"prompt":"I want the cost for BUSD/FTT ratio now","category":"pair_price"}
+{"prompt":"Give me the 12h chart cost for SNT/CVC pair","category":"pair_price"}
+{"prompt":"What's the market feed for STEEM/EOS ratio?","category":"pair_price"}
+{"prompt":"Show me how REQ/BNX pair is performing","category":"pair_price"}
+{"prompt":"What is the updated quote for ZEC/XMR?","category":"pair_price"}
+{"prompt":"Check the cost difference in BCH/DOGE pair","category":"pair_price"}
+{"prompt":"Need a quick ratio for BTT/SNX?","category":"pair_price"}
+{"prompt":"Please display the cost of LRC/SUSHI pair now","category":"pair_price"}
+{"prompt":"Any feed on CHR/ALICE pair valuation?","category":"pair_price"}
+{"prompt":"Is the CELR/HIVE ratio stable? Show me the price","category":"pair_price"}
+{"prompt":"What is the WETH/DAI ratio at this moment?","category":"pair_price"}
+{"prompt":"Check the aggregator cost for USDC/TUSD pair","category":"pair_price"}
+{"prompt":"Need the 24h movement in USDT/cUSDC pair?","category":"pair_price"}
+{"prompt":"Give me the updated MANA/ALGO pair feed please","category":"pair_price"}
+{"prompt":"What's the real-time ratio for XTZ/NEAR pair?","category":"pair_price"}
+{"prompt":"Check how KSM/RMRK pair is doing cost-wise","category":"pair_price"}
+{"prompt":"Need a quick quote for GRT/BAL pair?","category":"pair_price"}
+{"prompt":"What's the last known price feed for ARB/SOL pair?","category":"pair_price"}
+{"prompt":"Show me the cost trend in DOGE/BCH pair","category":"pair_price"}
+{"prompt":"Any ratio for CHZ/ENJ at the moment?","category":"pair_price"}
+{"prompt":"Check the stable ratio for USDC/FRAX pair please","category":"pair_price"}
+{"prompt":"Let me see the 1-day chart price for LDO/MKR pair","category":"pair_price"}
+{"prompt":"What's the quote for RUNE/FTM pair now?","category":"pair_price"}
+{"prompt":"Give me the real-time difference of CAKE/BAKE pair","category":"pair_price"}
+{"prompt":"Check the aggregator feed for XDC/OKB cost","category":"pair_price"}
+{"prompt":"Any info on the swap ratio for AAVE/RAY?","category":"pair_price"}
+{"prompt":"Need to see how OP/SOL is priced currently","category":"pair_price"}
+{"prompt":"What's the ratio for SUSHI/SNX in today's market?","category":"pair_price"}
+{"prompt":"Show me the cost feed for DOGE/SHIB pair if available","category":"pair_price"}
+
+{"prompt":"What's the highest APY for USDT pairs on Polygon?","category":"pair_query"}
+{"prompt":"Check volume in 24h for ETH/USDC on Uniswap?","category":"pair_query"}
+{"prompt":"Check volume in 24h for ETH-USDC on Uniswap?","category":"pair_query"}
+{"prompt":"Check volume in 72h for WBTC-ETH-USDC on Uniswap?","category":"pair_query"}
+{"prompt":"Which pairs on Sushi have best yields on BNB chain?","category":"pair_query"}
+{"prompt":"I want to see volume in 24h and 7d for best performing pairs on Uniswap v3","category":"pair_query"}
+{"prompt":"Show me any pairs with stable yield on Aave for DAI?","category":"pair_query"}
+{"prompt":"What's the highest APY for WBTC pairs on Ethereum?","category":"pair_query"}
+{"prompt":"Check the 24h liquidity for MATIC/USDC pair on Uniswap?","category":"pair_query"}
+{"prompt":"Any pairs with guaranteed yield for stablecoins?","category":"pair_query"}
+{"prompt":"What is the best yield farming pair for SUSHI on Polygon?","category":"pair_query"}
+{"prompt":"Where can I find the best APY for DOGE pairs?","category":"pair_query"}
+{"prompt":"Volume in 24h for the best performing pairs on PancakeSwap?","category":"pair_query"}
+{"prompt":"I want to see the top 3 pairs by liquidity for USDT on Ethereum","category":"pair_query"}
+{"prompt":"Find me a pair that yields stable 10% APY on BSC?","category":"pair_query"}
+{"prompt":"Which pair offers highest fees on Uniswap v3 for ETH?","category":"pair_query"}
+{"prompt":"Check the 7d volume for CRV/ETH pairs on Arbitrum?","category":"pair_query"}
+{"prompt":"Any recommended pair to farm stables on Polygon?","category":"pair_query"}
+{"prompt":"List the best performing pairs on Movement Labs?","category":"pair_query"}
+{"prompt":"I want the top yield pair for OP token on mainnet","category":"pair_query"}
+{"prompt":"Which stable pair on BNB has the highest 24h APY?","category":"pair_query"}
+{"prompt":"Show me pairs with the best volume in last 12h?","category":"pair_query"}
+{"prompt":"Any cross-chain aggregator for pairs with best yields?","category":"pair_query"}
+{"prompt":"What's the daily volume of LUNC/USTC pairs?","category":"pair_query"}
+{"prompt":"Check the stats for LSD pairs with highest rewards?","category":"pair_query"}
+{"prompt":"Which pairs are trending on Sushi for stable LP?","category":"pair_query"}
+{"prompt":"I like to know best yields based on my wallet on Polygon?","category":"pair_query"}
+{"prompt":"Volume in 24h for USDC/ETH on Uniswap v2 or v3?","category":"pair_query"}
+{"prompt":"Need top 5 pairs by liquidity on Movement Labs?","category":"pair_query"}
+{"prompt":"Check if there's a stable pair for ALGO with APY > 5%?","category":"pair_query"}
+{"prompt":"What's the highest APR pair on Aave for stTokens?","category":"pair_query"}
+{"prompt":"Which pairs are recommended for bridging stable yields?","category":"pair_query"}
+{"prompt":"Show me the top 7d volume pairs on Cronos chain?","category":"pair_query"}
+{"prompt":"What's the biggest volume pair on Quickswap for MATIC?","category":"pair_query"}
+{"prompt":"Any pairs with 0.3% fee that yield best on Uniswap?","category":"pair_query"}
+{"prompt":"Which new pairs are launching on Movement DEX?","category":"pair_query"}
+{"prompt":"Check 24h volume on LSD/ETH pairs on mainnet?","category":"pair_query"}
+{"prompt":"Look up best stable-stable pairs for farming?","category":"pair_query"}
+{"prompt":"Highest APY for LSD pairs on Ethereum?","category":"pair_query"}
+{"prompt":"Top yields for stMATIC pairs?","category":"pair_query"}
+{"prompt":"Which pairs on Balancer have the best stable yields?","category":"pair_query"}
+{"prompt":"Show me the 24h liquidity for BCH/ETH pairs on Uniswap?","category":"pair_query"}
+{"prompt":"Any top volume pairs featuring DOGE on Binance Smart Chain?","category":"pair_query"}
+{"prompt":"Which pairs have the highest APY on PancakeSwap for ADA?","category":"pair_query"}
+{"prompt":"I need 7d volume stats on ETH/LINK pairs across protocols","category":"pair_query"}
+{"prompt":"Check if any impermanent loss on ALGO/USDC stable pairs?","category":"pair_query"}
+{"prompt":"List best performing LTC/BCH pairs by volume in the last 24h","category":"pair_query"}
+{"prompt":"Any trending stablecoin pairs on Cronos with good yields?","category":"pair_query"}
+{"prompt":"Which new pairs have launched on QuickSwap for MATIC tokens?","category":"pair_query"}
+{"prompt":"Find me top 5 ARB/ETH pairs by liquidity across Arbitrum?","category":"pair_query"}
+{"prompt":"What's the best APY for BNB-based pairs on Sushi?","category":"pair_query"}
+{"prompt":"Check stable yield pairs for DOGE on ShibaSwap if any?","category":"pair_query"}
+{"prompt":"I want to see the top pairs by total TVL for USDT on Tron","category":"pair_query"}
+{"prompt":"Which pairs are hot on Avalanche with best 24h volumes?","category":"pair_query"}
+{"prompt":"Show me best liquidity pairs for DAI on Ethereum mainnet","category":"pair_query"}
+{"prompt":"Are there any LSD pairs with consistent yield on Lido?","category":"pair_query"}
+{"prompt":"Need top performing pairs for WBTC with minimal slippage?","category":"pair_query"}
+{"prompt":"Which stable pairs on Arbitrum have the highest daily volume?","category":"pair_query"}
+{"prompt":"Check the best performing cross-chain pairs for USDC?","category":"pair_query"}
+{"prompt":"Which stable LP pairs on Uniswap v3 are recommended for low risk?","category":"pair_query"}
+{"prompt":"Show me any pair with high APR for APE on Ethereum?","category":"pair_query"}
+{"prompt":"Where can I find best yield for LTC/USDT pairs?","category":"pair_query"}
+{"prompt":"Check 72h volume for RUNE/ETH pairs on mainnet?","category":"pair_query"}
+{"prompt":"Any aggregator info on top yield pairs for MATIC?","category":"pair_query"}
+{"prompt":"Which pairs on Sushi BSC are giving good APY for stables?","category":"pair_query"}
+{"prompt":"List the best performing LSD/ETH pairs in last 24h","category":"pair_query"}
+{"prompt":"Any recommendation for bridging stable pairs with good returns?","category":"pair_query"}
+{"prompt":"What's the highest volume pair for SNX on Optimism?","category":"pair_query"}
+{"prompt":"Which stable pair on Avalanche is showing 10% yield?","category":"pair_query"}
+{"prompt":"I want top 3 pairs by volume for DOGE on Movement Labs","category":"pair_query"}
+{"prompt":"Do we have a stable-stable pair with no impermanent loss on Arbitrum?","category":"pair_query"}
+{"prompt":"Check the 7-day stats for SOL/USDC pairs on Raydium?","category":"pair_query"}
+{"prompt":"Any recommended LSD pairs for cross-chain bridging?","category":"pair_query"}
+{"prompt":"Which new pairs are launching on Cronos with decent liquidity?","category":"pair_query"}
+{"prompt":"Show me any pegged stable pairs for GUSD or TUSD?","category":"pair_query"}
+{"prompt":"Look up best stETH pairs for yield farming on Lido?","category":"pair_query"}
+{"prompt":"Any data on LSD/stable pairs with minimal volatility?","category":"pair_query"}
+{"prompt":"Which pairs on Polygon have the highest APY for bridging stables?","category":"pair_query"}
+{"prompt":"What are the top 5 pairs by liquidity for FRAX on mainnet?","category":"pair_query"}
+{"prompt":"Check the daily volume of CRV pools that pair with USDC?","category":"pair_query"}
+{"prompt":"Any recommended liquidity pairs for FARM tokens?","category":"pair_query"}
+{"prompt":"Which pairs on Fantom are trending with highest yields?","category":"pair_query"}
+{"prompt":"Could you find the best LSD/USDT pairs across aggregator DEXes?","category":"pair_query"}
+{"prompt":"List stable pairs for sUSD on Optimism with solid APY?","category":"pair_query"}
+{"prompt":"Any 14d volume stats for top bridging pairs on BNB chain?","category":"pair_query"}
+{"prompt":"Show me best stable LP pairs for minimal impermanent loss on Arbitrum?","category":"pair_query"}
+{"prompt":"Which pairs on Movement DEX rank highest in 24h volumes?","category":"pair_query"}
+{"prompt":"Look up LSD pairs on mainnet that have consistent yield?","category":"pair_query"}
+{"prompt":"Any best APR pairs for bridging from Tron to Ethereum?","category":"pair_query"}
+{"prompt":"Where can I see top volume pairs for OP token on Uniswap v3?","category":"pair_query"}
+{"prompt":"Is there a stable pair with near 0.1% fee on Sushi?","category":"pair_query"}
+{"prompt":"Which LSD/stable pairs offer a 5% yield or higher?","category":"pair_query"}
+{"prompt":"Check 24h volume for UNI/ETH pairs on major DEXes?","category":"pair_query"}
+{"prompt":"Any pairs recommended for safe staking of DOGE and LTC?","category":"pair_query"}
+{"prompt":"Which bridging aggregator shows top stablecoin pairs?","category":"pair_query"}
+{"prompt":"Need the best 7d yield pairs for stNEAR tokens?","category":"pair_query"}
+{"prompt":"Where can I see the top 3 stable yield pairs for DAI on Arbitrum?","category":"pair_query"}
+{"prompt":"Which LSD pairs are trending on mainnet with best volume?","category":"pair_query"}
+{"prompt":"Show me a stable pair with 0.05% fees on Uniswap v3?","category":"pair_query"}
+{"prompt":"Any top tier pairs for MATIC with minimal slippage on QuickSwap?","category":"pair_query"}
+{"prompt":"Which stable pairs have consistent APR on Cronos for bridging?","category":"pair_query"}
+{"prompt":"Check 24h volume for LSD/ETH pairs on Ethereum mainnet?","category":"pair_query"}
+
+{"prompt":"Swap 10 MOVE to USDC on Movement Labs","category":"trade"}
+{"prompt":"exchange 1000 USDT to ETH on Uniswap","category":"trade"}
+{"prompt":"trade 50 DAI for BTC quickly","category":"trade"}
+{"prompt":"Please swap 1.5 ETH to stETH","category":"trade"}
+{"prompt":"Convert 75 MATIC to USDC on Quickswap","category":"trade"}
+{"prompt":"I want to trade 2000 USDC for 1 ETH now","category":"trade"}
+{"prompt":"Swap 10.5 BNB to BUSD on PancakeSwap","category":"trade"}
+{"prompt":"Change 100 FTM to SUSHI","category":"trade"}
+{"prompt":"Trade 0.25 WBTC for 4 ETH on mainnet","category":"trade"}
+{"prompt":"Please convert 1 LTC to 0.02 BTC","category":"trade"}
+{"prompt":"I want to swap 1000 ALGO for 500 USDC","category":"trade"}
+{"prompt":"Trade 7.3 LINK to 0.1 ETH on Uniswap v3","category":"trade"}
+{"prompt":"Convert 900 DAI to 0.9 WBTC","category":"trade"}
+{"prompt":"Trade 88 AVAX for 200 MATIC on Pangolin","category":"trade"}
+{"prompt":"Swap 123 SOL to BNB on some aggregator","category":"trade"}
+{"prompt":"Exchange 3.5 NEAR to 200 SUSHI tokens","category":"trade"}
+{"prompt":"Swap 10,000 USDT to OP token on Uniswap","category":"trade"}
+{"prompt":"Trade 999 USDC for 0.7 WETH please","category":"trade"}
+{"prompt":"Convert 20 APE tokens to 0.01 ETH","category":"trade"}
+{"prompt":"Swap 5 LTC to 1.2 BNB, do it now","category":"trade"}
+{"prompt":"I want to trade 77 ARB for 0.5 ETH","category":"trade"}
+{"prompt":"Convert 600 USDT to 0.3 LUNC if possible","category":"trade"}
+{"prompt":"Trade 123 FRAX to 120 USDC stable swap","category":"trade"}
+{"prompt":"Swap 45 CRV to 0.02 ETH on mainnet","category":"trade"}
+{"prompt":"Change 1000 DAI to 950 BUSD on BNB chain","category":"trade"}
+{"prompt":"Trade 150 MANA for 10 ALGO?","category":"trade"}
+{"prompt":"Exchange 888.9 TRX to 2.3 DOGE","category":"trade"}
+{"prompt":"Swap 47 SAND to 1.1 NEAR tokens","category":"trade"}
+{"prompt":"Trade 0.5 ETH for 4000 MOVE on Movement Labs","category":"trade"}
+{"prompt":"Convert 250 USDT to 1 ARB if possible","category":"trade"}
+{"prompt":"I want to trade 100 BAL for 0.05 BTC","category":"trade"}
+{"prompt":"Swap 3000 USDC to 2.2 ETH on aggregator","category":"trade"}
+{"prompt":"Exchange 400 USDT to stMATIC tokens","category":"trade"}
+{"prompt":"Trade 90 DAI for 3.3 RUNE please","category":"trade"}
+{"prompt":"Swap 10 stETH to normal ETH on Lido?","category":"trade"}
+{"prompt":"Convert 500 TUSD to 0.4 BNB","category":"trade"}
+{"prompt":"Trade 123.45 FRAX to 120 USDT stable swap","category":"trade"}
+{"prompt":"Swap 0.25 XMR for 0.003 BTC on some aggregator","category":"trade"}
+{"prompt":"Trade 50 XRP to 20 ADA tokens now","category":"trade"}
+{"prompt":"Please exchange 100 DOGE to 2.5 LTC quickly","category":"trade"}
+{"prompt":"I want to convert 0.1 BCH into 0.08 BNB","category":"trade"}
+{"prompt":"Swap 5 ZEC for 1.5 ETC on a DEX","category":"trade"}
+{"prompt":"Exchange 1000 XLM to 30 FIL tokens","category":"trade"}
+{"prompt":"Trade 7.77 TRX for 0.0015 BTC right now","category":"trade"}
+{"prompt":"Convert 20 CAKE into 10 BAKE on BSC","category":"trade"}
+{"prompt":"Swap 2.2 HT for 2.5 ENJ tokens, please","category":"trade"}
+{"prompt":"I want to trade 150 SNX for 3 AAVE tokens","category":"trade"}
+{"prompt":"Exchange 0.5 NEAR to 5 AUDIO on aggregator","category":"trade"}
+{"prompt":"Swap 33 TWT for 0.01 ETH on a bridging DEX","category":"trade"}
+{"prompt":"Could you convert 18 SNT to 1 ZIL now?","category":"trade"}
+{"prompt":"Trade 25.5 AMP for 0.0005 BTC on mainnet","category":"trade"}
+{"prompt":"Swap 99 DENT for 0.1 BNB, please do it now","category":"trade"}
+{"prompt":"Convert 120 DOGE for 2.3 ADA on aggregator?","category":"trade"}
+{"prompt":"Exchange 45 XYM for 1.1 EOS tokens quickly","category":"trade"}
+{"prompt":"Swap 1.234 BTT to 0.0009 WBTC on Tron?","category":"trade"}
+{"prompt":"Trade 77 ETC to 12.5 XLM on mainnet","category":"trade"}
+{"prompt":"Convert 0.6 LRC to 0.0001 BTC on a low-fee DEX","category":"trade"}
+{"prompt":"Please swap 10,000 SHIB for 0.005 ETH now","category":"trade"}
+{"prompt":"Change 5 FIL into 2.2 ALGO if possible","category":"trade"}
+{"prompt":"Exchange 0.55 ZEC for 1.3 XTZ on aggregator","category":"trade"}
+{"prompt":"Trade 9 GRT for 0.01 WETH, hurry!","category":"trade"}
+{"prompt":"Swap 33.3 FTT for 0.25 SOL, please","category":"trade"}
+{"prompt":"Convert 1000 ATOM into 0.13 ETH on mainnet","category":"trade"}
+{"prompt":"Exchange 300 RUNE for 0.01 BTC?","category":"trade"}
+{"prompt":"I want to trade 88 DOGE to 10 QNT tokens","category":"trade"}
+{"prompt":"Swap 55 HBAR to 0.03 BNB please","category":"trade"}
+{"prompt":"Convert 20 CHR to 2 AUDIO on aggregator?","category":"trade"}
+{"prompt":"Trade 44 LUNC for 1.1 USDC now","category":"trade"}
+{"prompt":"Please swap 70 ALCX to 0.07 ETH","category":"trade"}
+{"prompt":"Exchange 55 DENT to 0.1 OP token?","category":"trade"}
+{"prompt":"Swap 3 LDO for 2 APE tokens on Uniswap","category":"trade"}
+{"prompt":"Convert 0.02 BTC into 40 XRP immediately","category":"trade"}
+{"prompt":"Trade 2.3 BNB for 100 TWT on BSC aggregator","category":"trade"}
+{"prompt":"Swap 10 RSR for 5.5 ANKR tokens please","category":"trade"}
+{"prompt":"Change 500 DAI to 123 USDT stable swap","category":"trade"}
+{"prompt":"Exchange 0.8 XMR to 0.03 ETH now","category":"trade"}
+{"prompt":"Trade 10.1 ZIL for 0.05 BNB quickly","category":"trade"}
+{"prompt":"Please swap 12.34 MANA for 4 SAND","category":"trade"}
+{"prompt":"I want to convert 99 CHZ to 0.002 BTC","category":"trade"}
+{"prompt":"Swap 45.6 AAVE for 3 YFI on aggregator?","category":"trade"}
+{"prompt":"Exchange 10 KNC to 22 SUSHI tokens now","category":"trade"}
+{"prompt":"Trade 300 LRC for 1.5 UNI on mainnet","category":"trade"}
+{"prompt":"Convert 2.2 SOL to 0.1 BNB on a bridging DEX","category":"trade"}
+{"prompt":"Swap 1000 TWT for 1.2 LTC if possible","category":"trade"}
+{"prompt":"Trade 88.8 SNX for 4.4 LUNA on aggregator","category":"trade"}
+{"prompt":"Exchange 0.4 ETC to 0.02 BNB now","category":"trade"}
+{"prompt":"Swap 3 HIVE for 1.2 STEEM tokens quickly","category":"trade"}
+{"prompt":"Convert 0.22 WETH to 14 MATIC on Uniswap v3?","category":"trade"}
+{"prompt":"Trade 7 BUSD for 6.5 TUSD on BSC?","category":"trade"}
+{"prompt":"Please swap 55 NEAR to 0.02 BTC aggregator","category":"trade"}
+{"prompt":"Change 10 CHR into 25 DENT tokens now","category":"trade"}
+{"prompt":"I want to exchange 66 DOGE for 99 SHIB tokens","category":"trade"}
+{"prompt":"Swap 12.5 GLMR to 0.001 BTC, do it now","category":"trade"}
+{"prompt":"Convert 78.9 AUDIO to 0.5 ALCX on aggregator","category":"trade"}
+{"prompt":"Trade 3 BNB for 450 DOGE quickly, please","category":"trade"}
+{"prompt":"Swap 100 USDC to 2.5 AR on some aggregator?","category":"trade"}
+{"prompt":"Exchange 200 TUSD for 201 USDT stable swap","category":"trade"}
+{"prompt":"Convert 15 EOS to 0.01 ETC, if possible","category":"trade"}
+{"prompt":"Trade 6 XTZ for 2.2 LRC on mainnet aggregator","category":"trade"}
+
+{"prompt":"Send 190 USDT to 0xs91208239","category":"send"}
+{"prompt":"Pay 483 USDX to dillion.eth","category":"send"}
+{"prompt":"Transfer 19000 USDC to 0xdfxsdasd addy","category":"send"}
+{"prompt":"Send 0.3 ETH to vitalik.eth domain","category":"send"}
+{"prompt":"Give 700 USDT to my friend at 0xabc... address","category":"send"}
+{"prompt":"Transfer 1.5 BNB to 0xdef... on BSC chain","category":"send"}
+{"prompt":"I'd like to pay 500 USDC to 0x111222333, right now","category":"send"}
+{"prompt":"Send 250 MATIC to that external address","category":"send"}
+{"prompt":"Please move 1000 DAI to 0xyz address?","category":"send"}
+{"prompt":"Send 19 AVAX to my hardware wallet address","category":"send"}
+{"prompt":"Transfer 100 SUSHI to my friend's domain?","category":"send"}
+{"prompt":"I want to pay 7.77 DOGE to 0xbcd address","category":"send"}
+{"prompt":"Send 20000 MOVE tokens to 0x9abc on Movement","category":"send"}
+{"prompt":"Please transfer 10.5 ARB to 0x444a account","category":"send"}
+{"prompt":"Give 2 ETH to my friend's hardware ledger address","category":"send"}
+{"prompt":"Pay 500.25 cUSDC to 0xf000... metamask address","category":"send"}
+{"prompt":"Transfer 99 SAND to 0xb7c domain?","category":"send"}
+{"prompt":"Send 33 CAKE tokens to my buddy's BNB address","category":"send"}
+{"prompt":"I want to move 0.8 WBTC to 0x987abc address","category":"send"}
+{"prompt":"Pay 50 LUNC to 0xdEAd address if possible","category":"send"}
+{"prompt":"Send 123 TRX to 0x0001 on Tron chain?","category":"send"}
+{"prompt":"Transfer 888.88 USDT to coworker at 0xabc?","category":"send"}
+{"prompt":"Please pay 0.05 ETH to my unstoppable domain","category":"send"}
+{"prompt":"Move 2.3 BNB to 0xFFF, what's the fee?","category":"send"}
+{"prompt":"Send 70 OP tokens to 0xopop mainnet address","category":"send"}
+{"prompt":"I'd like to gift 5 LTC to that LTC address?","category":"send"}
+{"prompt":"Transfer 300 DAI to 0xddef aggregator?","category":"send"}
+{"prompt":"Pay 600 USDC to metamask user 0xcat...","category":"send"}
+{"prompt":"Send 12 MANA to 0xland address?","category":"send"}
+{"prompt":"Give 7777 DOGE to my sibling's address?","category":"send"}
+{"prompt":"Move 1 ARB to 0xa1b2 ledger address?","category":"send"}
+{"prompt":"Transfer 0.99 ETH to 0xaaaa domain?","category":"send"}
+{"prompt":"Send 222 APE tokens to 0xape on mainnet","category":"send"}
+{"prompt":"Pay 333 ALGO to 0x algo address bridging?","category":"send"}
+{"prompt":"Transfer 10 stMATIC to me?","category":"send"}
+{"prompt":"Send 123 USDT to friend on base chain?","category":"send"}
+{"prompt":"Remit 0.8 BTC to 0xbcd123 address please","category":"send"}
+{"prompt":"Pay 1.2 LTC to my cousin's ledger at 0xdef000","category":"send"}
+{"prompt":"Transfer 77 XLM to 0xabc111 domain now","category":"send"}
+{"prompt":"I'd like to send 50 ZEC to the unstoppable domain zec.me","category":"send"}
+{"prompt":"Move 10 DOGE to my hardware wallet at 0x098abc","category":"send"}
+{"prompt":"Send 5.5 BNB to friend on BSC, address 0x111bbb","category":"send"}
+{"prompt":"Please gift 0.02 BTC to coworker at 0x001xyz","category":"send"}
+{"prompt":"Remit 33 ADA to 0xf22 domain on Cardano?","category":"send"}
+{"prompt":"I'd like to pay 7 ETH to vitalikENS for gas fees","category":"send"}
+{"prompt":"Send 99 TRX to my Tron address 0xtt12?","category":"send"}
+{"prompt":"Transfer 123 DOGE to dogeAddress, do it now","category":"send"}
+{"prompt":"Pay 11.11 ALGO to 0xalg0 domain?","category":"send"}
+{"prompt":"Give 50 AVAX to my sibling's wallet at 0xddd999","category":"send"}
+{"prompt":"Move 20.2 XMR to 0xmonero domain, if possible","category":"send"}
+{"prompt":"I'd like to send 0.1 BCH to 0xbcch address quickly","category":"send"}
+{"prompt":"Transfer 14 SNT to 0xsnt vault, please","category":"send"}
+{"prompt":"Please pay 2.5 LRC to 0xlrc address on mainnet","category":"send"}
+{"prompt":"Send 40.5 KNC to 0xknc domain on aggregator","category":"send"}
+{"prompt":"Move 1.25 AAVE to my ledger device at 0xaa88","category":"send"}
+{"prompt":"Gift 77 CHZ tokens to 0xchz123 address now","category":"send"}
+{"prompt":"I'd like to pay 0.05 ETH to 0xmilk domain?","category":"send"}
+{"prompt":"Remit 200 TWT to trustwallet user at 0xtwt999","category":"send"}
+{"prompt":"Send 0.09 ETC to 0xETC domain if possible","category":"send"}
+{"prompt":"Please transfer 50 LUNA to 0xlun4 chain address","category":"send"}
+{"prompt":"Move 88.8 SHIB to 0xshibbuddy wallet now","category":"send"}
+{"prompt":"I'd like to tip 0.01 BTC to that LN address, if feasible","category":"send"}
+{"prompt":"Pay 27 RSR tokens to 0xrsr domain quickly","category":"send"}
+{"prompt":"Transfer 999 CVC to my friend's address at 0x222c","category":"send"}
+{"prompt":"Send 123 MANA to 0xman4 domain for me?","category":"send"}
+{"prompt":"Gift 2.22 BUSD to 0xbnb1 for a birthday present","category":"send"}
+{"prompt":"I'd like to pay 55 SAND to a metaverse address 0xsandish","category":"send"}
+{"prompt":"Move 1 UNI to 0xuniswap domain now","category":"send"}
+{"prompt":"Remit 12 YFI tokens to my buddy's address 0xyfi888","category":"send"}
+{"prompt":"Send 30 OP to 0xoptim domain quickly, please","category":"send"}
+{"prompt":"Transfer 8.8 CRV to 0xcurv domain on mainnet","category":"send"}
+{"prompt":"Pay 17.5 FTT to 0xfft address if it's valid?","category":"send"}
+{"prompt":"I'd like to move 10 GRT to 0xgraph address now","category":"send"}
+{"prompt":"Please send 0.66 KSM to 0xkus111 on Kusama chain","category":"send"}
+{"prompt":"Give 77 NEAR to 0xnearbuddy domain?","category":"send"}
+{"prompt":"Transfer 5 RBC to 0xrbc address right away","category":"send"}
+{"prompt":"Send 1.234 PKEX to 0xPK aggregator domain?","category":"send"}
+{"prompt":"I'd like to pay 0.4 MKR to 0xmkr address, do it now","category":"send"}
+{"prompt":"Remit 0.07 BTM to 0xbtm domain, if possible","category":"send"}
+{"prompt":"Please move 50 IQ tokens to 0xiq domain quickly","category":"send"}
+{"prompt":"Send 23 AUDIO to 0xaud domain?","category":"send"}
+{"prompt":"Gift 0.05 DGD to 0xdgd1 address for a friend","category":"send"}
+{"prompt":"Transfer 7 GALA to 0xgala domain right now","category":"send"}
+{"prompt":"I'd like to pay 0.33 HIVE to 0xhive mainnet address","category":"send"}
+{"prompt":"Move 0.99 WAVES to 0xwav domain, please","category":"send"}
+{"prompt":"Send 3 OGN to 0xOrigin address if feasible","category":"send"}
+{"prompt":"Remit 0.45 ALCX to 0xalc domain now","category":"send"}
+{"prompt":"I'd like to give 5000 SHIB to 0xshbuddy address","category":"send"}
+{"prompt":"Please pay 1.25 LPT to 0xlpt domain or aggregator","category":"send"}
+{"prompt":"Transfer 9 AMPL to 0xampl address quickly","category":"send"}
+{"prompt":"Move 0.44 STMX to 0xstmx domain wallet","category":"send"}
+{"prompt":"Send 6.7 WEMIX to 0xwe domain on mainnet","category":"send"}
+{"prompt":"I'd like to gift 5.55 OGN to 0xogbuddy address?","category":"send"}
+{"prompt":"Pay 10 ENS to my unstoppable domain 0xens me","category":"send"}
+{"prompt":"Send 100 TLM tokens to 0xtlm user now","category":"send"}
+{"prompt":"Transfer 15.5 ALICE to 0xalice friend address?","category":"send"}
+{"prompt":"I'd like to move 0.3 OCEAN to 0xocean domain quickly","category":"send"}
+{"prompt":"Give 88 FTM to friend at 0xftbuddy domain?","category":"send"}
+
+{"prompt":"Bridge 150 BUSD from BNB Chain to Polygon","category":"cross_chain"}
+{"prompt":"I want to send 0.75 ETH from mainnet to zkSync 2.0","category":"cross_chain"}
+{"prompt":"Cross-chain transfer 200 SUSHI from Fantom to Avalanche","category":"cross_chain"}
+{"prompt":"Move 99.9 DOGE from Dogecoin chain to Ethereum as wDOGE","category":"cross_chain"}
+{"prompt":"Bridge 45 LTC from Litecoin chain to BSC","category":"cross_chain"}
+{"prompt":"Send 300 FTM from Fantom to Cronos chain if possible","category":"cross_chain"}
+{"prompt":"Cross over 1.25 ATOM from Cosmos to Ethereum mainnet","category":"cross_chain"}
+{"prompt":"I need to move 888 XLM from Stellar to Binance Smart Chain","category":"cross_chain"}
+{"prompt":"Bridge 20 MANA from Ethereum mainnet to Polygon for cheaper fees","category":"cross_chain"}
+{"prompt":"Please transfer 0.05 BTC from Bitcoin chain to WBTC on Arbitrum","category":"cross_chain"}
+{"prompt":"Cross-chain bridge 777 TRX from Tron to Avalanche network","category":"cross_chain"}
+{"prompt":"Send 50.5 UNI from Ethereum to Optimism L2","category":"cross_chain"}
+{"prompt":"Move 10 KSM from Kusama to Polkadot if possible","category":"cross_chain"}
+{"prompt":"Bridge 25 LUNA from Terra to BSC aggregator","category":"cross_chain"}
+{"prompt":"Cross chain 100 USDT from Tron to Polygon quickly","category":"cross_chain"}
+{"prompt":"I want to send 12.34 DOT from Polkadot to Ethereum","category":"cross_chain"}
+{"prompt":"Bridge 500 GRT from mainnet to Arbitrum chain","category":"cross_chain"}
+{"prompt":"Please cross-bridge 0.25 WETH from Ethereum to Avalanche","category":"cross_chain"}
+{"prompt":"Move 42 CAKE from BNB Chain to Ethereum in wrapped form","category":"cross_chain"}
+{"prompt":"Send 3.14 LPT from Ethereum to Polygon staking system","category":"cross_chain"}
+{"prompt":"Cross-chain transfer 2000 APE from Ethereum mainnet to Optimism","category":"cross_chain"}
+{"prompt":"I want to bridge 11.11 ALGO from Algorand to Ethereum using a trustless bridge","category":"cross_chain"}
+{"prompt":"Move 0.15 BCH from Bitcoin Cash chain to Ethereum as renBCH","category":"cross_chain"}
+{"prompt":"Bridge 100 stDOT from Polkadot to Moonbeam network","category":"cross_chain"}
+{"prompt":"Cross chain 300 USDC from Polygon to Gnosis Chain (xDai)","category":"cross_chain"}
+{"prompt":"Please send 5.5 BTT from Tron to BNB chain aggregator","category":"cross_chain"}
+{"prompt":"I need to move 7500 SHIB from Ethereum to Arbitrum for lower gas","category":"cross_chain"}
+{"prompt":"Bridge 21.05 AVAX from Avalanche C-Chain to Polygon","category":"cross_chain"}
+{"prompt":"Transfer 10.7 RUNE from THORChain to Ethereum mainnet","category":"cross_chain"}
+{"prompt":"Send 1200 NEAR from Near Protocol to Aurora EVM","category":"cross_chain"}
+{"prompt":"Cross-bridge 999 XRPL from XRP Ledger to Ethereum as wrapped XRPL","category":"cross_chain"}
+{"prompt":"Please move 45 MIR from Terra to Polygon chain","category":"cross_chain"}
+{"prompt":"I want to transfer 0.05 BNB from BSC to Arbitrum bridging solution","category":"cross_chain"}
+{"prompt":"Bridge 12.5 ADA from Cardano to Milkomeda if feasible","category":"cross_chain"}
+{"prompt":"Cross-chain move 777 CHZ from Ethereum to Binance Smart Chain","category":"cross_chain"}
+{"prompt":"Send 5.55 RSR from Ethereum to Polygon aggregator","category":"cross_chain"}
+{"prompt":"I need to move 1.0 WBTC from Arbitrum back to mainnet","category":"cross_chain"}
+{"prompt":"Bridge 999 SNT from Ethereum to xDai chain if possible","category":"cross_chain"}
+{"prompt":"Take 3.1415 SOL from Solana to Ethereum as wormhole SOL","category":"cross_chain"}
+{"prompt":"Cross chain 88 ALICE from Binance Smart Chain to Ethereum mainnet","category":"cross_chain"}
+{"prompt":"Please transfer 1.234 GALA from Ethereum to Fantom bridging","category":"cross_chain"}
+{"prompt":"Move 40 USDT from Tron to Cronos chain aggregator","category":"cross_chain"}
+{"prompt":"Bridge 250 DAI from Ethereum mainnet to zkSync 2.0 testnet","category":"cross_chain"}
+{"prompt":"Bridge 19000 USDC to Ethereum chain","category":"cross_chain"}
+{"prompt":"I want to send 80000 USDT on Polygon to Ethereum","category":"cross_chain"}
+{"prompt":"Help me send 8000 MOVE from Movement to Ethereum","category":"cross_chain"}
+{"prompt":"Bridge 0.5 WBTC from BTC chain to Ethereum if possible","category":"cross_chain"}
+{"prompt":"Cross-chain transfer 100 USDT from BNB to Arbitrum?","category":"cross_chain"}
+{"prompt":"I want to move 200 MATIC from Polygon to mainnet","category":"cross_chain"}
+{"prompt":"Bridge 10 AVAX to Ethereum for me","category":"cross_chain"}
+{"prompt":"Send 50 DAI from Arbitrum to Polygon chain","category":"cross_chain"}
+{"prompt":"Cross over 5.5 ETH from mainnet to zkSync?","category":"cross_chain"}
+{"prompt":"Swap chain for 77 USDC from BSC to Avalanche","category":"cross_chain"}
+{"prompt":"I want to do a cross-chain bridge of 45 SUSHI to Fantom","category":"cross_chain"}
+{"prompt":"Move 100 stETH from L2 to main Ethereum","category":"cross_chain"}
+{"prompt":"Bridge 2000 DOGE from DOGE chain to BNB chain?","category":"cross_chain"}
+{"prompt":"Can I cross-swap 1.2 LTC from LTC chain to Ethereum?","category":"cross_chain"}
+{"prompt":"Send 99 ARB from Arbitrum to Polygon?","category":"cross_chain"}
+{"prompt":"I want to bridging 88 OP from Optimism to Ethereum?","category":"cross_chain"}
+{"prompt":"Cross chain 20 BNB from BSC to Cronos?","category":"cross_chain"}
+{"prompt":"Please move 5.5 NEAR from NEAR chain to Aurora?","category":"cross_chain"}
+{"prompt":"Transfer 300 USDC from Movement to Ethereum?","category":"cross_chain"}
+{"prompt":"Bridge 7.7 MATIC from Polygon to Movement chain","category":"cross_chain"}
+{"prompt":"Send 11.11 AVAX from Avalanche to Arbitrum?","category":"cross_chain"}
+{"prompt":"Cross transfer 100 cUSDT from CELO to Ethereum?","category":"cross_chain"}
+{"prompt":"Bridge 1000 CRV from Ethereum to BNB chain?","category":"cross_chain"}
+{"prompt":"I want to move 150 SAND from Polygon to mainnet","category":"cross_chain"}
+{"prompt":"Take 0.02 WBTC from main chain to Arbitrum?","category":"cross_chain"}
+{"prompt":"Please cross-bridge 99 DAI from Arbitrum to base chain?","category":"cross_chain"}
+{"prompt":"Move 0.3 BNB from BSC to Tron chain if possible","category":"cross_chain"}
+{"prompt":"Send 500 FRAX from mainnet to Avalanche?","category":"cross_chain"}
+{"prompt":"Bridge 3 stMATIC from Polygon to Ethereum?","category":"cross_chain"}
+{"prompt":"Cross chain move 50 OP from Optimism to BSC?","category":"cross_chain"}
+{"prompt":"Take 12 stETH from mainnet to Arbitrum?","category":"cross_chain"}
+{"prompt":"Send 800 USDT from Tron to Ethereum chain?","category":"cross_chain"}
+{"prompt":"Bridge 1.5 ETH from mainnet to Movement chain","category":"cross_chain"}
+{"prompt":"Cross-bridge 111 SUSHI from BSC to Polygon","category":"cross_chain"}
+{"prompt":"Help me send 50.5 LINK from Ethereum to Arbitrum?","category":"cross_chain"}
+{"prompt":"Move 0.2 BTC from main chain to WBTC on Ethereum","category":"cross_chain"}
+{"prompt":"Transfer 200 USDC from Cronos to BSC chain?","category":"cross_chain"}
+{"prompt":"Bridge 75 DOGE from DOGE chain to ETH chain?","category":"cross_chain"}
+
+{"prompt": "What is my wallet balance on Ethereum?", "category": "wallet_balance"}
+{"prompt": "Show me how much I have in my BSC wallet", "category": "wallet_balance"}
+{"prompt": "What's the total MATIC in my Polygon wallet?", "category": "wallet_balance"}
+{"prompt": "Could you check the USDC balance in my Arbitrum address?", "category": "wallet_balance"}
+{"prompt": "How many tokens do I hold in my Optimism wallet?", "category": "wallet_balance"}
+{"prompt": "What's my wallet balance on Avalanche right now?", "category": "wallet_balance"}
+{"prompt": "I want to see my ETH holdings on mainnet", "category": "wallet_balance"}
+{"prompt": "Show me the total BNB in my BSC address", "category": "wallet_balance"}
+{"prompt": "What's the sum of stablecoins in my Polygon wallet?", "category": "wallet_balance"}
+{"prompt": "Check how much USDT I have on Tron chain", "category": "wallet_balance"}
+{"prompt": "Let me know my current SOL balance on Solana", "category": "wallet_balance"}
+{"prompt": "Can you tell me how much DOGE I have in my wallet on Movement Labs?", "category": "wallet_balance"}
+{"prompt": "What is my wallet balance in USD terms on Arbitrum?", "category": "wallet_balance"}
+{"prompt": "Show me how many CAKE tokens are in my BNB Chain address", "category": "wallet_balance"}
+{"prompt": "How much MATIC do I hold on Polygon in total?", "category": "wallet_balance"}
+{"prompt": "Could you get my AVAX balance on the Avalanche network?", "category": "wallet_balance"}
+{"prompt": "Check how much LINK is in my Ethereum wallet", "category": "wallet_balance"}
+{"prompt": "What is the total ADA in my Cardano address?", "category": "wallet_balance"}
+{"prompt": "I'd like to see my SUSHI tokens in my mainnet account", "category": "wallet_balance"}
+{"prompt": "Please show my total tokens on Cronos chain wallet", "category": "wallet_balance"}
+{"prompt": "Could you give me the total OP in my Optimism address?", "category": "wallet_balance"}
+{"prompt": "How much LTC is in my wallet on the LTC chain?", "category": "wallet_balance"}
+{"prompt": "Get the BUSD balance from my BNB chain wallet", "category": "wallet_balance"}
+{"prompt": "Check my total WBTC on Ethereum side", "category": "wallet_balance"}
+{"prompt": "What's my total stablecoin holdings on Polygon wallet?", "category": "wallet_balance"}
+{"prompt": "How many ETH tokens do I have in my Arbitrum wallet?", "category": "wallet_balance"}
+{"prompt": "Please tell me the exact DAI in my mainnet account", "category": "wallet_balance"}
+{"prompt": "Show me the aggregated value of tokens in my Tron wallet", "category": "wallet_balance"}
+{"prompt": "I want to see my FTM balance on Fantom chain", "category": "wallet_balance"}
+{"prompt": "What's my total asset count on Avalanche network?", "category": "wallet_balance"}
+{"prompt": "Could you give me the MATIC plus USDC balances on my Polygon address?", "category": "wallet_balance"}
+{"prompt": "What's my current wallet balance on zkSync?", "category": "wallet_balance"}
+{"prompt": "Check how much NEAR I have in my NEAR wallet", "category": "wallet_balance"}
+{"prompt": "Show me my entire holdings on the BNB chain wallet", "category": "wallet_balance"}
+{"prompt": "What is my total DOGE on Dogecoin chain wallet?", "category": "wallet_balance"}
+{"prompt": "Could you confirm the total APE tokens in my mainnet wallet?", "category": "wallet_balance"}
+{"prompt": "How much stETH is in my Lido Ethereum address?", "category": "wallet_balance"}
+{"prompt": "Retrieve my total USDT in the Tron address", "category": "wallet_balance"}
+{"prompt": "List how many tokens in my Aurora wallet right now", "category": "wallet_balance"}
+{"prompt": "Let me know the overall balance I have on Movement chain", "category": "wallet_balance"}
+{"prompt": "How many tokens do I hold on the Cronos wallet in total?", "category": "wallet_balance"}
+
+{"prompt": "Based on my trading activity in 2024, how much do I owe in taxes?", "category": "other"}
+{"prompt": "Given my trading history on Coinbase, Kraken, and Binance, how much do I owe in taxes?", "category": "other"}
+{"prompt": "Given my trading history on Coinbase, Kraken, and Binance, how much do I owe in taxes?", "category": "other"}
+{"prompt": "Log into my Coinbase and pull all of my transactions to help me calculate my taxes", "category": "other"}
+{"prompt": "Use my credentials on Binance and log in to the service to pull all my transactions for tax calculation for this year.", "category": "other"}
+{"prompt":"Calculate my total crypto taxes for 2023, using my trading history on Ethereum and BNB Chain.","category":"other"}
+{"prompt":"Compile my staked yields from multiple yield farms to estimate this quarter’s taxable income.","category":"other"}
+{"prompt":"Fetch transaction records from Uniswap v3 and PancakeSwap for my year-end tax report.","category":"other"}
+{"prompt":"Review my bridging activity across L2 networks to see if I owe any cross-chain tax events.","category":"other"}
+{"prompt":"Generate a summary of capital gains from my NFT flips on OpenSea for tax filing.","category":"other"}
+{"prompt":"Determine if I qualify for tax loss harvesting after selling altcoins at a loss.","category":"other"}
+{"prompt":"Consolidate my DeFi loans and liquidation events to see if there's any taxable interest.","category":"other"}
+{"prompt":"Prepare a tax schedule for my DEX trades from the last 12 months on Polygon.","category":"other"}
+{"prompt":"Cross-reference my centralized exchange trades with on-chain swaps for a full tax overview.","category":"other"}
+{"prompt":"Create a single CSV of every yield-farming reward I received for year-end tax obligations.","category":"other"}
+{"prompt":"Factor in my bridged tokens from Arbitrum to L1 for an accurate capital gains calculation.","category":"other"}
+{"prompt":"Verify if I owe short-term or long-term capital gains for tokens held under six months.","category":"other"}
+{"prompt":"Aggregate interest from Aave and Compound to check if it's taxable as ordinary income.","category":"other"}
+{"prompt":"Include minor gas fee reimbursements in my tax calculations if they count as income.","category":"other"}
+{"prompt":"Flag any potential wash sales from quickly rebuying tokens after selling for tax strategy.","category":"other"}
+{"prompt":"Identify the cost basis for tokens I originally purchased on a sidechain for tax reporting.","category":"other"}
+{"prompt":"Check if my cross-chain token wrapping triggered a taxable event in my jurisdiction.","category":"other"}
+{"prompt":"Ensure a final summary of net profits across all DEX trades for precise tax documentation.","category":"other"}
+
+{"prompt":"Submit my passport image to the on-chain KYC oracle for advanced tier trading.","category":"other"}
+{"prompt":"Link my driver's license data to a whitelisting KYC contract so I can raise my withdraw limit.","category":"other"}
+{"prompt":"Prove my identity with a zero-knowledge KYC solution to access a restricted DeFi pool.","category":"other"}
+{"prompt":"Re-submit updated documents for KYC re-verification after my previous certificate expired.","category":"other"}
+{"prompt":"Provide my social security info to a regulated KYC aggregator for extra yield-farming options.","category":"other"}
+{"prompt":"Update my address details in the KYC contract because I moved to a new city this month.","category":"other"}
+{"prompt":"Attach my personal ID video confirmation for an on-chain compliance check.","category":"other"}
+{"prompt":"Send my business registration docs for KYB verification on a DeFi treasury account.","category":"other"}
+{"prompt":"Revoke old KYC credentials and request a fresh proof from an authorized compliance provider.","category":"other"}
+{"prompt":"Undergo advanced KYC to unlock level-3 leverage on a new derivatives DEX.","category":"other"}
+{"prompt":"Store my verified accreditation investor status in a special KYC token for private sales.","category":"other"}
+{"prompt":"Combine my proof of residency with existing KYC data for a compliance NFT minting process.","category":"other"}
+{"prompt":"Check if my passport-based KYC can be reused across multiple DeFi platforms via synergy aggregator.","category":"other"}
+{"prompt":"Send my business license for on-chain KYB so my DAO treasury can trade unlimited amounts.","category":"other"}
+{"prompt":"Provide an updated credit bureau report for advanced KYC steps before I borrow from a prime pool.","category":"other"}
+{"prompt":"Use new identity docs to get a fresh KYC NFT that expires in 12 months.","category":"other"}
+{"prompt":"Request a new KYC seal after my name change was legally approved.","category":"other"}
+{"prompt":"Prove I'm a US resident using KYC checks so I can access region-locked liquidity pools.","category":"other"}
+
+{"prompt":"Submit a short face-liveness video to pass my proof-of-human NFT mint.","category":"other"}
+{"prompt":"Complete a voice ID check to confirm I'm not a Sybil attacker, then store the proof on-chain.","category":"other"}
+{"prompt":"Link my iris-scan data to confirm unique humanhood for a UBI distribution project.","category":"other"}
+{"prompt":"Renew my ephemeral proof-of-personhood credential that expired last quarter.","category":"other"}
+{"prompt":"Obtain a sign-of-life verification from a DAO that ensures I'm an active participant, not a bot.","category":"other"}
+{"prompt":"Upload a new form of ID to pass advanced humanity checks for exclusive airdrops.","category":"other"}
+{"prompt":"Generate a fresh hash of my biometric data for synergy aggregator to maintain my personhood badge.","category":"other"}
+{"prompt":"Prove I’m not a bot by performing a random offline puzzle, then anchoring the result on-chain.","category":"other"}
+{"prompt":"Reactivate my humanhood status after 30 days of inactivity by re-scanning my fingerprint.","category":"other"}
+{"prompt":"Combine my age verification with a proof-of-human token to show I'm a real adult user.","category":"other"}
+{"prompt":"Join a specialized 'humans only' staking pool by verifying my personal ID once more.","category":"other"}
+{"prompt":"Request the new generation of anti-Sybil NFTs by passing updated face-scan checks.","category":"other"}
+{"prompt":"Complete a brightID synergy step to confirm I'm a single unique entity, not multiple wallets.","category":"other"}
+{"prompt":"Check if I need to re-verify my face-liveness due to suspicion of a bot account overlap.","category":"other"}
+{"prompt":"Use my new phone-based liveness test to strengthen my on-chain identity data, proving I'm real.","category":"other"}
+{"prompt":"Discard my outdated proof-of-human credential and fetch a new one from a recognized validator.","category":"other"}
+{"prompt":"Attach a government-approved photo for a stronger proof-of-humanness token, updated weekly.","category":"other"}
+{"prompt":"Show that I passed a random liveness challenge to refresh my Sybil-resistant NFT credential.","category":"other"}
+
+{"prompt":"Link my Amazon Prime membership to unlock a special discount NFT in synergy aggregator.","category":"other"}
+{"prompt":"Provide my Netflix subscription proof so I can claim a streaming-fan NFT badge on-chain.","category":"other"}
+{"prompt":"Sync my GitHub commits as an off-chain credential to earn a dev perk in my wallet.","category":"other"}
+{"prompt":"Attach my frequent flyer membership to prove I'm a top-tier traveler for a special DeFi lounge pass.","category":"other"}
+{"prompt":"Add proof of my Spotify Premium subscription so I can get an exclusive music-lover token reward.","category":"other"}
+{"prompt":"Use Reclaim Protocol to verify my identity as a Discord server mod for a special governance pass.","category":"other"}
+{"prompt":"Tie my Brave browser token-earning stats to an aggregator for a new community reward NFT.","category":"other"}
+{"prompt":"Upload my Twitch subscriber data to earn a streaming-fan synergy NFT on Ethereum.","category":"other"}
+{"prompt":"Bring over my Microsoft MVP certificate to a recognized on-chain aggregator for dev privileges.","category":"other"}
+{"prompt":"Connect my corporate email domain to prove I work at a partner company for DeFi synergy benefits.","category":"other"}
+{"prompt":"Add my LinkedIn job title credential so I can access a career-oriented investment pool.","category":"other"}
+{"prompt":"Show proof of Apple Music membership on aggregator to claim an audio NFT perk.","category":"other"}
+{"prompt":"Attach my Yelp Elite status for a specialized minted badge on the synergy aggregator.","category":"other"}
+{"prompt":"Link my college alumni credentials to a private donation club that’s on-chain.","category":"other"}
+{"prompt":"Prove my lifetime membership from a certain gym chain to get a health-themed NFT aggregator token.","category":"other"}
+{"prompt":"Sync my eBay PowerSeller rating with a DeFi aggregator for a discounted swap fee tier.","category":"other"}
+{"prompt":"Connect my professional Slack workspace membership to a synergy aggregator for on-chain perks.","category":"other"}
+{"prompt":"Use Reclaim Protocol to confirm my Amazon Prime Student membership for a specialized discount NFT.","category":"other"}
+{"prompt":"Verify my Patreon Creator Tier so I can mint a unique sponsor pass in synergy aggregator.","category":"other"}
+
+{"prompt":"File an official complaint on-chain referencing my private data about a suspicious token freeze event.","category":"other"}
+{"prompt":"Whitelisting my address for advanced compliance on a regulated DeFi protocol requiring attestations.","category":"other"}
+{"prompt":"Submit my business license to a synergy aggregator for a specialized B2B liquidity pool.","category":"other"}
+{"prompt":"Refresh my region-limited compliance certificate after crossing daily withdrawal thresholds.","category":"other"}
+{"prompt":"Register a formal dispute about an unauthorized contract upgrade using my personal ID reference.","category":"other"}
+{"prompt":"Upload my company's corporate docs so we can hold a multi-sig wallet as a recognized institution.","category":"other"}
+{"prompt":"Assign my pass to a cross-chain compliance aggregator that logs every bridging event for auditing.","category":"other"}
+{"prompt":"Renew my DeFi treasury's compliance certificate by verifying updated KYC for all signers.","category":"other"}
+{"prompt":"Log a specialized complaint about a scamming liquidity pool, referencing my private transaction logs.","category":"other"}
+{"prompt":"Resubmit my professional accreditation to a synergy aggregator so I can do higher-limit trades.","category":"other"}
+{"prompt":"Push my new compliance docs to a policy-enforcing smart contract for daily deposit expansions.","category":"other"}
+{"prompt":"Sign a privacy attestation acknowledging I'm collecting personal data for on-chain compliance use.","category":"other"}
+{"prompt":"Provide an updated anti-money-laundering check result to keep my DeFi aggregator privileges active.","category":"other"}
+{"prompt":"Request a new cross-chain compliance token that merges KYC from multiple L2 networks.","category":"other"}
+{"prompt":"Enable a business-tier compliance package so my DAO can trade unlimited daily volumes on mainnet.","category":"other"}
+{"prompt":"Attest that I have no open sanctions, referencing my updated background check for on-chain usage.","category":"other"}
+{"prompt":"Re-check if I'm still compliant with local regulations after I relocated to another country.","category":"other"}
+{"prompt":"Prove I meet the new stablecoin issuance rules by referencing my personal ID in synergy aggregator.","category":"other"}
+{"prompt":"Attach my advanced compliance doc for a specialized bridging aggregator that verifies deposit thresholds.","category":"other"}

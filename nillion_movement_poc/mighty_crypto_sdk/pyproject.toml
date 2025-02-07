@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mighty-crypto-sdk"
+version = "0.1.0"
+description = ""
+authors = ["spartan-nguyentruong <nguyen.truong@c0x12c.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+varint = "^1.0.2"
+semver-range = "^0.0.3"
+cryptography = "^43.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,25 @@
+version: '3'
+services:
+  opensearch-service: # This is also the hostname of the container within the Docker network (i.e. https://opensearch-service/)
+    image: opensearchproject/opensearch:latest # Specifying the latest available image - modify if you want a specific version
+    container_name: opensearch-service
+    environment:
+      - cluster.name=opensearch-cluster # Name the cluster
+      - node.name=opensearch-service # Name the node that will run in this container
+      - discovery.type=single-node # Set the cluster to single node
+      - "OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx512m" # Set min and max JVM heap sizes to at least 50% of system RAM
+      - OPENSEARCH_INITIAL_ADMIN_PASSWORD=Nguyen@123456    # Sets the demo admin user password when using demo configuration, required for OpenSearch 2.12 and later
+      - DISABLE_SECURITY_PLUGIN=true
+    volumes:
+      - opensearch-data:/usr/share/opensearch/data # Creates volume called opensearch-data and mounts it to the container
+    ports:
+      - 9200:9200 # REST API
+      - 9600:9600 # Performance Analyzer
+    networks:
+      - opensearch-net # All of the containers will join the same Docker bridge network
+
+volumes:
+  opensearch-data:
+
+networks:
+  opensearch-net:
