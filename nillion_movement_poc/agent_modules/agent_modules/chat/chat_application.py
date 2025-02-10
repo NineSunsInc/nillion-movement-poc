@@ -33,7 +33,12 @@ class ChatApplication:
 
         # Ask user actions
         raw_data = await self._get_user_data()
-        chain_option = await self._get_chain_option()
+
+        # Ask the user to choose the chain
+        # chain_option = await self._get_chain_option()
+        # TODO: 20250210 - Movement Porto testnet by default for this POC
+        chain_option = ChainConfig.get_network_config("porto")
+
 
         # Setup user's data
         user_data = await self._setup_user_data(chain_option, raw_data)
