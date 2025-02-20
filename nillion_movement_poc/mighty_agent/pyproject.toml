@@ -12,6 +12,7 @@ dishka = "^1.4.2"
 agent-modules = "*"
 mighty-crypto-sdk = "*"
 ipykernel = "^6.29.5"
+chainlit = {git = "https://github.com/spartan-nguyentruong/chainlit.git", subdirectory = "backend/"}
 
 [build-system]
 requires = ["poetry-core"]

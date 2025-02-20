@@ -1,3 +1,4 @@
+from typing import Dict, Optional
 import chainlit as cl
 
 from agent_modules.chat.chat_application import ChatApplication
@@ -17,8 +18,18 @@ dependency_container = make_container(
 
 message_handler = MessageHandler()
 
+@cl.oauth_callback
+def oauth_callback(
+  provider_id: str,
+  token: str,
+  raw_user_data: Dict[str, str],
+  default_user: cl.User,
+) -> Optional[cl.User]:
+    return default_user
+
 @cl.on_chat_start
 async def start():
+    app_user = cl.user_session.get("user")
     try:
         app = ChatApplication(dependency_container)
         await app.initialize_chat_agent()

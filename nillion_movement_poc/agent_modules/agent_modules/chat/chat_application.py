@@ -1,8 +1,6 @@
 # Standard library imports
-import os
 from typing import Dict
 import uuid
-import time
 
 # Third-party imports
 from agent_modules.database.repositories.opensearch_repository import OpenSearchRepository
@@ -17,7 +15,7 @@ from agent_modules.database.const.chain_config import ChainConfig
 from agent_modules.database.types.network_config import NetworkConfig
 from agent_modules.database.repositories.embedding_repository import EmbeddingRepository
 from agent_modules.factory.service_factory import BlockchainServiceFactory
-from agent_modules.chat.data_service import DataService
+from agent_modules.chat.data_service import DataService, EncryptedData
 from dotenv import load_dotenv
 from sentence_transformers import CrossEncoder
 
@@ -49,33 +47,24 @@ class ChatApplication:
     async def _get_user_data(self):
         load_dotenv()
 
-        while True:
-            env_data_api_key = os.getenv("DATA_API_KEY")
+        # Get the user data from the user session
+        user = cl.user_session.get("user")
+        if ("user_data" not in user.metadata):
+            await cl.Message(content="You are not invited to the application. Please contact the admin.").send()
+            raise Exception("User data not found")
 
-            user_data_api_key = {"output": env_data_api_key} if env_data_api_key else await cl.AskUserMessage(content="What is your Nine Suns Data API key?", timeout=30).send()
-            if (user_data_api_key):
-                await cl.Message(
-                    content=f"Your Data API key is: {user_data_api_key['output']}",
-                ).send()
-                
-                try:
-                    raw_data = await self.data_service.get_and_decrypt_data(user_data_api_key['output'])
-                    break
-                except Exception as e:
-                    print(e)
-                    if (user_data_api_key['output'][:4] != "DATA"):
-                        await cl.Message(
-                            content=f"Wrong API Key format, make sure your data API key begins with \"DATA.<remaining_part>\"",
-                        ).send()
-                    else:
-                        await cl.Message(
-                            content="Please check your data API key again. I can't get any data from this key."
-                        ).send()
+        encrypted_data = user.metadata["user_data"]
+        raw_data = self.data_service._decrypt_data(
+            EncryptedData(
+                encrypted_data["encrypted_data"],
+                encrypted_data["public_key_encrypted_key"],
+                encrypted_data["associated_public_key"]
+            ),
+            is_oauth=True
+        )
 
-            else:
-                await cl.Message(
-                    content=f"Please input your Nine Suns data API Key",
-                ).send()
+        print("Raw data:")
+        print(raw_data)
         
         # Store the user data only once
         # TODO: Create hash for the user data to know if we need to recreate the embedding table
@@ -112,33 +101,17 @@ class ChatApplication:
         if (chain_option.network_id not in ["PORTO", "APTOS", "MEVM", "POLYGON_AMOY", "ETH_SEPOLIA", "ARBITRUM_SEPOLIA", "ARBITRUM_ONE", "POLYGON_POS"]):
             raise Exception("Unsupported chain")
 
-        wallets = [blockchain for blockchain in raw_data['blockchains'] if (blockchain['type'] == "CRYPTO_WALLET")]
-        if (wallets is None or len(wallets) == 0):
-            ask_user = True
-        
         keys = raw_data["credentials"]
         if (keys is None or len(keys) == 0):
             ask_user = True
 
-
-        # TODO: This is for the demo 2024/11/12
-        if (chain_option.network_id == "POLYGON_POS"):
-            wallet_public_key = "0x52A258ED593C793251a89bfd36caE158EE9fC4F8"
-            wallet_private_key = "0x..."
-
-        if (chain_option.network_id == "ARBITRUM_ONE"):
-            wallet_public_key = "0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199"
-            wallet_private_key = "0xdf57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e"
-
         # Check the env and get the related private key.
         if (not ask_user):
-            for wallet in wallets:
-                if (wallet['value']["network"] == chain_option.config_keys[0]):
-                    key_name = wallet['value']["key"]
-                    for key in keys:
-                        if (key["type"] == "Keys" and key['value']['name'] == key_name):
-                            wallet_public_key = wallet['value']['address']
-                            wallet_private_key = key['value']['privateKey']
+            for key in keys:
+                if (key["type"] == "Keys"):
+                    if (key['value']['network'] == chain_option.config_keys[0]):
+                        wallet_public_key = key['value']['address']
+                        wallet_private_key = key['value']['privateKey']
 
         # Ask the user about network's public and private key if cannot find
         if (ask_user or wallet_public_key is None or wallet_private_key is None):

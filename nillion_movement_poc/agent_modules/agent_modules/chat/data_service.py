@@ -19,6 +19,7 @@ from agent_modules.exception.exceptions import DecryptionError
 class EncryptedData:
     encrypted_data: str
     encrypted_key: str
+    associated_public_key: str
 
 class DataService:
     def __init__(self):
@@ -49,15 +50,26 @@ class DataService:
                 object_response = await response.json()
                 return EncryptedData(
                     object_response["encrypted_data"],
-                    object_response["public_key_encrypted_key"]
+                    object_response["public_key_encrypted_key"],
+                    object_response["associated_public_key"]
                 )
 
-    def _decrypt_data(self, encrypted_data: EncryptedData) -> dict:
-        symmetric_key = string_decrypt_asymmetric(
-            self.api_private_key, 
-            self.api_public_key, 
-            encrypted_data.encrypted_key
-        )
+    def _decrypt_data(self, encrypted_data: EncryptedData, is_oauth: bool = False) -> dict:
+        if (not is_oauth):  
+            symmetric_key = string_decrypt_asymmetric(
+                self.api_private_key, 
+                self.api_public_key, 
+                encrypted_data.encrypted_key
+            )
+        else:
+            public_key = encrypted_data.associated_public_key
+            app_private_key = os.getenv("MIGHTY_OAUTH_APPLICATION_PRIVATE_KEY")
+            symmetric_key = string_decrypt_asymmetric(
+                app_private_key,
+                public_key,
+                encrypted_data.encrypted_key
+            )
+
         
         return decrypt_symmetric(
             encrypted_data.encrypted_data,
