@@ -137,6 +137,8 @@ class AptosService(BlockchainService):
         factor_src_type = unit_to_factor[dest_token]
         mdes_type = token_contracts_move_ecosystem[dest_token]
 
+        print("Prepare data successfully")
+
         # This is just a test account for estimating the gas (APTOS needs a real account for this process)
         wallet = Account.load_key(os.getenv("GAS_ESTIMATING_PRIVATE_KEY"))
 
@@ -157,8 +159,11 @@ class AptosService(BlockchainService):
             wallet, TransactionPayload(payload)
         )
 
+        print("Create signed transaction successfully")
+
         simulation = await self.rest_client.simulate_bcs_transaction(signed_transaction, True)
 
+        print("Simulate transaction successfully")
         print(simulation)
 
         estimated_gas = int(simulation[0]['events'][-1]['data']['total_charge_gas_units']) * int(simulation[0]['gas_unit_price'])

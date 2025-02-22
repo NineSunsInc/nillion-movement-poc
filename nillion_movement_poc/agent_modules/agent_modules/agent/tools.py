@@ -63,7 +63,8 @@ async def estimate_total_gas_cost_transfer(store, decimal_amount, token_type, re
 @retry_decorator()
 async def estimate_total_gas_cost_swap(store: Annotated[BaseStore, InjectedStore()], decimal_amount: float, src_token_type: str, des_token_type: str):
     service = get_user_data_by_key(store, "blockchain_service")
-
+    print(service)
+    print(f"Estimating total gas cost swap: {decimal_amount}, {src_token_type}, {des_token_type}")
     return await service.estimate_swap_gas(decimal_amount, src_token_type, des_token_type)
 
 # @tool
