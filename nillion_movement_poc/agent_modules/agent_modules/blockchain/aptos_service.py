@@ -158,6 +158,9 @@ class AptosService(BlockchainService):
         )
 
         simulation = await self.rest_client.simulate_bcs_transaction(signed_transaction, True)
+
+        print(simulation)
+
         estimated_gas = int(simulation[0]['events'][-1]['data']['total_charge_gas_units']) * int(simulation[0]['gas_unit_price'])
         return {
             "estimated_total_gas_cost": estimated_gas / unit_to_factor[self.network_config.token_type],
