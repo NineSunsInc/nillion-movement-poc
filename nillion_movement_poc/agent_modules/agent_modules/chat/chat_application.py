@@ -70,9 +70,9 @@ class ChatApplication:
         
         # Store the user data only once
         # TODO: Create hash for the user data to know if we need to recreate the embedding table
-        exists = self.user_data_embedding_repository.get_max_id()
-        if exists == 0:
-            self.user_data_embedding_repository.insert_text(text=raw_data, user_session_id=user_session_id, is_json_data=True)
+        # exists = self.user_data_embedding_repository.get_max_id()
+        # if exists == 0:
+        self.user_data_embedding_repository.insert_text(text=raw_data, user_session_id=user_session_id, is_json_data=True)
 
         return raw_data
 
