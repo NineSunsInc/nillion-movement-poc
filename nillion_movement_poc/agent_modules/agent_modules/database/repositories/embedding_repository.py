@@ -30,15 +30,15 @@ class EmbeddingRepository(BaseRepository):
         self.connection = self._initialize_sqlite3_conn() 
         self._create_table_if_not_exists()
 
-    def insert_text(self, text: str, is_json_data: bool = False):
+    def insert_text(self, text: str, user_session_id: str, is_json_data: bool = False):
         # Get max id
         max_id = self.get_max_id()
 
         # Process data input
-        data_input = self._process_data_input(text, is_json_data)
+        data_input = self._process_data_input(text, user_session_id, is_json_data)
         self.connection.executemany(
-            f"INSERT INTO {self.table_name}(text, text_embedding) "
-            f"VALUES (?,?)",
+            f"INSERT INTO {self.table_name}(text, user_session_id, text_embedding) "
+            f"VALUES (?,?,?)",
             data_input,
         )
         self.connection.commit()
@@ -49,7 +49,7 @@ class EmbeddingRepository(BaseRepository):
 
         return [row["rowid"] for row in results]
 
-    def search(self, text: str, k: int) -> List[Document]:
+    def search(self, text: str, user_session_id: str, k: int) -> List[Document]:
         embedding = self.embedding_function.embed_query(text)
         sql_query = f"""
             SELECT 
@@ -60,12 +60,13 @@ class EmbeddingRepository(BaseRepository):
             INNER JOIN {self.table_name}_vec AS v on v.rowid = e.rowid  
             WHERE
                 v.text_embedding MATCH ?
+                AND v.user_session_id = ?
                 AND k = ?
             ORDER BY distance
         """
         cursor = self.connection.cursor()
 
-        data_input = [self._serialize_f32(embedding), k]
+        data_input = [self._serialize_f32(embedding), user_session_id, k]
 
         cursor.execute(
             sql_query,
@@ -118,6 +119,7 @@ class EmbeddingRepository(BaseRepository):
             CREATE TABLE IF NOT EXISTS {self.table_name}
             (
                 rowid INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_session_id TEXT,
                 text TEXT,
                 text_embedding BLOB
             )
@@ -128,6 +130,7 @@ class EmbeddingRepository(BaseRepository):
             f"""
             CREATE VIRTUAL TABLE IF NOT EXISTS {self.table_name}_vec USING vec0(
                 rowid INTEGER PRIMARY KEY,
+                user_session_id TEXT,
                 text_embedding float[{self.embedding_length}]
             )
             ;
@@ -138,20 +141,20 @@ class EmbeddingRepository(BaseRepository):
                 CREATE TRIGGER IF NOT EXISTS embed_{self.table_name}_text
                 AFTER INSERT ON {self.table_name}
                 BEGIN
-                    INSERT INTO {self.table_name}_vec(rowid, text_embedding)
-                    VALUES (new.rowid, new.text_embedding) 
+                    INSERT INTO {self.table_name}_vec(rowid, user_session_id, text_embedding)
+                    VALUES (new.rowid, new.user_session_id, new.text_embedding) 
                     ;
                 END;
             """
         )
         self.connection.commit()
     
-    def _process_data_input(self, text: str, is_json_data: bool) -> List[Tuple[str, bytes]]:
+    def _process_data_input(self, text: str, user_session_id: str, is_json_data: bool) -> List[Tuple[str, bytes]]:
         # split text into chunks
         texts = self.json_splitter.split_text(text, ensure_ascii=False) if is_json_data else self.text_splitter.split_text(text) 
         embeds = self.embedding_function.embed_documents(list(texts))
         data_input = [
-            (text, self._serialize_f32(embed))
+            (text, user_session_id, self._serialize_f32(embed))
             for text, embed in zip(texts, embeds)
         ]
 

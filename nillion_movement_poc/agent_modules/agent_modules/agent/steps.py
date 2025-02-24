@@ -480,10 +480,14 @@ class Web3RetrieverStep(BaseRagStep):
 class UserDataRetrieverStep(BaseRagStep):
     def execute(self, state: PlanExecute, store: BaseStore, user_data_embedding_repository: EmbeddingRepository):
         print("\n############## CONTEXT RETRIEVER ##############")
-
+        user_session_id = cl.user_session.get("id")
+        print("#"*30)
+        print("User session id:", user_session_id)
+        print("#"*30)
         # Retrieve user's data for injecting to the answerer
         user_data = user_data_embedding_repository.search(
             text=state['input'], 
+            user_session_id=user_session_id,
             k=1
         )
         user_data = self._process_retrieved_data(user_data, None)

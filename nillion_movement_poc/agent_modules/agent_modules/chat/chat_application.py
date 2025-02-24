@@ -49,6 +49,8 @@ class ChatApplication:
 
         # Get the user data from the user session
         user = cl.user_session.get("user")
+        user_session_id = cl.user_session.get("id")
+        
         if ("user_data" not in user.metadata):
             await cl.Message(content="You are not invited to the application. Please contact the admin.").send()
             raise Exception("User data not found")
@@ -70,7 +72,7 @@ class ChatApplication:
         # TODO: Create hash for the user data to know if we need to recreate the embedding table
         exists = self.user_data_embedding_repository.get_max_id()
         if exists == 0:
-            self.user_data_embedding_repository.insert_text(text=raw_data, is_json_data=True)
+            self.user_data_embedding_repository.insert_text(text=raw_data, user_session_id=user_session_id, is_json_data=True)
 
         return raw_data
 
